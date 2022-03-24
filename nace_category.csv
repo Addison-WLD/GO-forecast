@@ -1,4 +1,4 @@
-nace,description,eletricity_sector,swiss_electricity
+nace,description,electricity_sector,swiss
 A01,"Crop and animal production, hunting and related service activities",FC_OTH_AF_E,"Agriculture, forestry and fishing"
 A02,Forestry and logging,FC_OTH_AF_E,"Agriculture, forestry and fishing"
 A03,Fishing and aquaculture,FC_OTH_FISH_E,"Agriculture, forestry and fishing"
