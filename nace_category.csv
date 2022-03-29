@@ -1,4 +1,4 @@
-nace,description,electricity_sector,swiss
+nace,description,electricity_sector,swiss_sector
 A01,"Crop and animal production, hunting and related service activities",FC_OTH_AF_E,"Agriculture, forestry and fishing"
 A02,Forestry and logging,FC_OTH_AF_E,"Agriculture, forestry and fishing"
 A03,Fishing and aquaculture,FC_OTH_FISH_E,"Agriculture, forestry and fishing"
@@ -107,6 +107,6 @@ R93,Sports activities and amusement and recreation activities,FC_OTH_CP_E,"Arts,
 S94,Activities of membership organisations,FC_OTH_CP_E,"Arts, entertainment, recreation and other services"
 S95,Repair of computers and personal and household goods,FC_OTH_CP_E,"Arts, entertainment, recreation and other services"
 S96,Other personal service activities,FC_OTH_CP_E,"Arts, entertainment, recreation and other services"
-T97,Activities of households as employers of domestic personnel,FC_OTH_HH_E,Households 
-T98,Undifferentiated goods- and services-producing activities of private households for own use,FC_OTH_HH_E,Households 
+T97,Activities of households as employers of domestic personnel,FC_OTH_HH_E,Households
+T98,Undifferentiated goods- and services-producing activities of private households for own use,FC_OTH_HH_E,Households
 U99,Activities of extraterritorial organisations and bodies,FC_OTH_CP_E,None
