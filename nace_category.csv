@@ -1,4 +1,4 @@
-nace,description,electricity_sector,swiss_sector
+﻿nace,description,electricity_sector,swiss_sector
 A,"Agriculture, forestry and fishing",Separate,Separate
 A01,"Crop and animal production, hunting and related service activities",FC_OTH_AF_E,"Agriculture, forestry and fishing"
 A02,Forestry and logging,FC_OTH_AF_E,"Agriculture, forestry and fishing"
@@ -6,21 +6,21 @@ A03,Fishing and aquaculture,FC_OTH_FISH_E,"Agriculture, forestry and fishing"
 B,Mining and quarrying,Separate,Separate
 B05,Mining of coal and lignite,None,Mining and quarrying
 B06,Extraction of crude petroleum and natural gas,None,Mining and quarrying
-B07,Mining of metal ores,Separate,Mining and quarrying
-B071,Mining of iron ores,FC_IND_MQ_E,Integrated
-B072,Mining of non-ferrous metal ores,Separate,Integrated
+B07,Mining of metal ores,FC_IND_MQ_E,Mining and quarrying
+B071,Mining of iron ores,None,Integrated
+B072,Mining of non-ferrous metal ores,None,Integrated
 B0721,Mining of uranium and thorium ores,None,Integrated
-B0729,Mining of other non-ferrous metal ores,FC_IND_MQ_E,Integrated
-B08,Other mining and quarrying,Separate,Mining and quarrying
+B0729,Mining of other non-ferrous metal ores,None,Integrated
+B08,Other mining and quarrying,FC_IND_MQ_E,Mining and quarrying
 B081,"Quarrying of stone, sand and clay",FC_IND_MQ_E,Integrated
-B089,Mining and quarrying n.e.c.,Separate,Integrated
-B0891,Mining of chemical and fertiliser minerals,FC_IND_MQ_E,Integrated
+B089,Mining and quarrying n.e.c.,None,Integrated
+B0891,Mining of chemical and fertiliser minerals,None,Integrated
 B0892,Extraction of peat,None,Integrated
-B0893,Extraction of salt,FC_IND_MQ_E,Integrated
+B0893,Extraction of salt,None,Integrated
 B0899,Other mining and quarrying n.e.c.,FC_IND_MQ_E,Integrated
-B09,Mining support service activities,Separate,Mining and quarrying
+B09,Mining support service activities,None,Mining and quarrying
 B091,Support activities for petroleum and natural gas extraction,None,Integrated
-B099,Support activities for other mining and quarrying,FC_IND_MQ_E,Integrated
+B099,Support activities for other mining and quarrying,None,Integrated
 C,Manufacturing,Separate,Separate
 C10,Manufacture of food products,FC_IND_FBT_E,Manufacturing
 C11,Manufacture of beverages,FC_IND_FBT_E,Manufacturing
@@ -71,9 +71,7 @@ G45,Wholesale and retail trade and repair of motor vehicles and motorcycles,FC_O
 G46,"Wholesale trade, except of motor vehicles and motorcycles",FC_OTH_CP_E,Trade; repair of motor vehicles and motorcycles
 G47,"Retail trade, except of motor vehicles and motorcycles",FC_OTH_CP_E,Trade; repair of motor vehicles and motorcycles
 H,Transporting and storage,Separate,Separate
-H49,Land transport and transport via pipelines,FC_TRA_PIPE_E,"Transportation, storage, information and communication"
-H49,Land transport and transport via pipelines,FC_TRA_ROAD_E,"Transportation, storage, information and communication"
-H49,Land transport and transport via pipelines,FC_TRA_RAIL_E,"Transportation, storage, information and communication"
+H49,Land transport and transport via pipelines,FC_TRA_LAND_E,"Transportation, storage, information and communication"
 H50,Water transport,FC_TRA_NSP_E,"Transportation, storage, information and communication"
 H51,Air transport,FC_TRA_NSP_E,"Transportation, storage, information and communication"
 H52,Warehousing and support activities for transportation,FC_OTH_CP_E,"Transportation, storage, information and communication"
