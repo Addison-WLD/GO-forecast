@@ -12,13 +12,13 @@ B072,Mining of non-ferrous metal ores,None,Integrated
 B0721,Mining of uranium and thorium ores,None,Integrated
 B0729,Mining of other non-ferrous metal ores,None,Integrated
 B08,Other mining and quarrying,FC_IND_MQ_E,Mining and quarrying
-B081,"Quarrying of stone, sand and clay",FC_IND_MQ_E,Integrated
+B081,"Quarrying of stone, sand and clay",None,Integrated
 B089,Mining and quarrying n.e.c.,None,Integrated
 B0891,Mining of chemical and fertiliser minerals,None,Integrated
 B0892,Extraction of peat,None,Integrated
 B0893,Extraction of salt,None,Integrated
-B0899,Other mining and quarrying n.e.c.,FC_IND_MQ_E,Integrated
-B09,Mining support service activities,None,Mining and quarrying
+B0899,Other mining and quarrying n.e.c.,None,Integrated
+B09,Mining support service activities,FC_IND_MQ_E,Mining and quarrying
 B091,Support activities for petroleum and natural gas extraction,None,Integrated
 B099,Support activities for other mining and quarrying,None,Integrated
 C,Manufacturing,Separate,Separate
