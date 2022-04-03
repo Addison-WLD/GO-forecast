@@ -1,0 +1,112 @@
+﻿nace,description,electricity_sector,swiss_sector
+A,"Agriculture, forestry and fishing",Separate,"Agriculture, forestry and fishing"
+A01,"Crop and animal production, hunting and related service activities",FC_OTH_AF_E,Integrated
+A02,Forestry and logging,FC_OTH_AF_E,Integrated
+A03,Fishing and aquaculture,FC_OTH_FISH_E,Integrated
+B,Mining and quarrying,Separate,Separate
+B05,Mining of coal and lignite,None,Mining and quarrying
+B06,Extraction of crude petroleum and natural gas,None,Mining and quarrying
+B07,Mining of metal ores,FC_IND_MQ_E,Mining and quarrying
+B08,Other mining and quarrying,FC_IND_MQ_E,Mining and quarrying
+B09,Mining support service activities,FC_IND_MQ_E,Mining and quarrying
+C,Manufacturing,Separate,Separate
+C10,Manufacture of food products,FC_IND_FBT_E,Manufacturing
+C11,Manufacture of beverages,FC_IND_FBT_E,Manufacturing
+C12,Manufacture of tobacco products,FC_IND_FBT_E,Manufacturing
+C13,Manufacture of textiles,FC_IND_TL_E,Manufacturing
+C14,Manufacture of wearing apparel,FC_IND_TL_E,Manufacturing
+C15,Manufacture of leather and related products,FC_IND_TL_E,Manufacturing
+C16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",FC_IND_WP_E,Manufacturing
+C17,Manufacture of paper and paper products,FC_IND_PPP_E,Manufacturing
+C18,Printing and reproduction of recorded media,FC_IND_PPP_E,Manufacturing
+C19,Manufacture of coke and refined petroleum products,None,Manufacturing
+C20,Manufacture of chemicals and chemical products,FC_IND_CPC_E,Manufacturing
+C21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,FC_IND_CPC_E,Manufacturing
+C22,Manufacture of rubber and plastic products,FC_IND_NSP_E,Manufacturing
+C23,Manufacture of other non-metallic mineral products,FC_IND_NMM_E,Manufacturing
+C24,Manufacture of basic metals,Separate,Manufacturing
+C241,Manufacture of basic iron and steel and of ferro-alloys,FC_IND_IS_E,Integrated
+C242,"Manufacture of tubes, pipes, hollow profiles and related fittings, of steel",FC_IND_IS_E,Integrated
+C243,Manufacture of other products of first processing of steel,FC_IND_IS_E,Integrated
+C244,Manufacture of basic precious and other non-ferrous metals,FC_IND_NFM_E,Integrated
+C2451,Casting of iron,FC_IND_IS_E,Integrated
+C2452,Casting of steel,FC_IND_IS_E,Integrated
+C2453,Casting of light metals,FC_IND_NFM_E,Integrated
+C2454,Casting of other non-ferrous metals,FC_IND_NFM_E,Integrated
+C25,"Manufacture of fabricated metal products, except machinery and equipment",FC_IND_MAC_E,Manufacturing
+C26,"Manufacture of computer, electronic and optical products",FC_IND_MAC_E,Manufacturing
+C27,Manufacture of electrical equipment,FC_IND_MAC_E,Manufacturing
+C28,Manufacture of machinery and equipment n.e.c.,FC_IND_MAC_E,Manufacturing
+C29,"Manufacture of motor vehicles, trailers and semi-trailers",FC_IND_TE_E,Manufacturing
+C30,Manufacture of other transport equipment,FC_IND_TE_E,Manufacturing
+C31,Manufacture of furniture,FC_IND_NSP_E,Manufacturing
+C32,Other manufacturing,FC_IND_NSP_E,Manufacturing
+C33,Repair and installation of machinery and equipment,FC_OTH_CP_E,Manufacturing
+D,"Electricity, gas, steam and air conditioning supply",None,"Energy supply, water supply, waste management"
+E,"WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES",Separate,Separate
+E36,"Water collection, treatment and supply",FC_OTH_CP_E,"Energy supply, water supply, waste management"
+E37,Sewerage,FC_OTH_CP_E,"Energy supply, water supply, waste management"
+E38,"Waste collection, treatment and disposal activities; materials recovery",FC_OTH_CP_E,"Energy supply, water supply, waste management"
+E39,Remediation activities and other waste management services,FC_OTH_CP_E,"Energy supply, water supply, waste management"
+F,Construction,Separate,Separate
+F41,Construction of buildings,FC_IND_CON_E,Construction
+F42,Civil engineering,FC_IND_CON_E,Construction
+F43,Specialised construction activities,FC_IND_CON_E,Construction
+G,Wholesale and retail trade and repair of motor vehicles and motorcycles,FC_OTH_CP_E,Trade; repair of motor vehicles and motorcycles
+G45,Wholesale and retail trade and repair of motor vehicles and motorcycles,None,Integrated
+G46,"Wholesale trade, except of motor vehicles and motorcycles",None,Integrated
+G47,"Retail trade, except of motor vehicles and motorcycles",None,Integrated
+H,Transportation and storage,Separate,Separate
+H49,Land transport and transport via pipelines,FC_TRA_LAND_E,"Transportation, storage, information and communication"
+H50,Water transport,FC_TRA_NSP_E,"Transportation, storage, information and communication"
+H51,Air transport,FC_TRA_NSP_E,"Transportation, storage, information and communication"
+H52,Warehousing and support activities for transportation,FC_OTH_CP_E,"Transportation, storage, information and communication"
+H53,Postal and courier activities,FC_OTH_CP_E,"Transportation, storage, information and communication"
+I,Accommodation and food service activities,Separate,Separate
+I55,Accommodation,FC_OTH_CP_E,Accommodation and food service activities
+I56,Food and beverage service activities,FC_OTH_CP_E,Accommodation and food service activities
+J,information and communication,Separate,Separate
+J58,Publishing activities,FC_OTH_CP_E,"Transportation, storage, information and communication"
+J59,"Motion picture, video and television programme production, sound recording and music publishing activities",FC_OTH_CP_E,"Transportation, storage, information and communication"
+J60,Programming and broadcasting activities,FC_OTH_CP_E,"Transportation, storage, information and communication"
+J61,Telecommunications,FC_OTH_CP_E,"Transportation, storage, information and communication"
+J62,"Computer programming, consultancy and related activities",FC_OTH_CP_E,"Transportation, storage, information and communication"
+J63,Information service activities,FC_OTH_CP_E,"Transportation, storage, information and communication"
+K,Financial and insurance activities,Separate,Financial service activities and insurance
+K64,"Financial service activities, except insurance and pension funding",FC_OTH_CP_E,Integrated
+K65,"Insurance, reinsurance and pension funding, except compulsory social security",FC_OTH_CP_E,Integrated
+K66,Activities auxiliary to financial services and insurance activities,FC_OTH_CP_E,Integrated
+L,Real estate activities,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+M,"Professional, scientific and technical activities",Separate,Separate
+M69,Legal and accounting activities,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+M70,Activities of head offices; management consultancy activities,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+M71,Architectural and engineering activities; technical testing and analysis,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+M72,Scientific research and development ,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+M73,Advertising and market research,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+M74,"Other professional, scientific and technical activities",FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+M75,Veterinary activities,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+N,Administrative and support service activities,Separate,Separate
+N77,Rental and leasing activities,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+N78,Employment activities,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+N79,"Travel agency, tour operator and other reservation service and related activities",FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+N80,Security and investigation activities,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+N81,Services to buildings and landscape activities,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+N82,"Office administrative, office support and other business support activities",FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+O,Public administration and defence; compulsory social security,FC_OTH_CP_E,Public administration
+P,Education,FC_OTH_CP_E,Education
+Q,Human health and social work activities,FC_OTH_CP_E,Human health and social work activities
+Q86,Human health activities,None,Integrated
+Q87,Residential care activities,None,Integrated
+Q88,Social work activities without accommodation,None,Integrated
+R,"Arts, entertainment, recreation",FC_OTH_CP_E,"Arts, entertainment, recreation and other services"
+R90,"Creative, arts and entertainment activities",None,Integrated
+R91,"Libraries, archives, museums and other cultural activities",None,Integrated
+R92,Gambling and betting activities,None,Integrated
+R93,Sports activities and amusement and recreation activities,None,Integrated
+S,Other personal service activities,Separate,"Arts, entertainment, recreation and other services"
+S94,Activities of membership organisations,FC_OTH_CP_E,Integrated
+S95,Repair of computers and personal and household goods,FC_OTH_CP_E,Integrated
+S96,Other personal service activities,FC_OTH_CP_E,Integrated
+T97,Activities of households as employers of domestic personnel,FC_OTH_HH_E,Households
+T98,Undifferentiated goods- and services-producing activities of private households for own use,FC_OTH_HH_E,Households
+U,Activities of extraterritorial organisations and bodies,FC_OTH_HH_E,None
