@@ -9,7 +9,7 @@ C,Manufacturing,Separate,Manufacturing
 C10-C12,"Manufacture of food, beverage and tobacco",FC_IND_FBT_E,Manufacturing
 C13-C15,"Manufacturing of textiles, leather",FC_IND_TL_E,Manufacturing
 C16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",FC_IND_WP_E,Manufacturing
-C16-C18,Manufacture of wood & paper,FC_IND_WP&PPE_E,Manufacturing
+C16-C18,Manufacture of wood & paper,FC_IND_WP&PPP_E,Manufacturing
 C17,Manufacture of paper and paper products,FC_IND_PPP_E,Manufacturing
 C18,Printing and reproduction of recorded media,FC_IND_PPP_E,Manufacturing
 C19,Manufacture of coke and refined petroleum products,None,Manufacturing
