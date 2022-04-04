@@ -1,0 +1,92 @@
+﻿nace,decription,electricity_sector,swiss_sector
+A,"Agriculture, forestry and fishing",FC_OTH_AF&FISH_E,"Agriculture, forestry and fishing"
+A01,"Crop and animal production, hunting and related service activities",FC_OTH_AF_E,"Agriculture, forestry and fishing"
+A02,Forestry and logging,FC_OTH_AF_E,"Agriculture, forestry and fishing"
+A03,Fishing and aquaculture,FC_OTH_FISH_E,"Agriculture, forestry and fishing"
+B,Mining and quarrying,FC_IND_MQ_E,Mining and quarrying
+B-E,Industrial,Separate,Separate
+C,Manufacturing,Separate,Manufacturing
+C10-C12,"Manufacture of food, beverage and tobacco",FC_IND_FBT_E,Manufacturing
+C13-C15,"Manufacturing of textiles, leather",FC_IND_TL_E,Manufacturing
+C16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",FC_IND_WP_E,Manufacturing
+C16-C18,Manufacture of wood & paper,FC_IND_WP&PPE_E,Manufacturing
+C17,Manufacture of paper and paper products,FC_IND_PPP_E,Manufacturing
+C18,Printing and reproduction of recorded media,FC_IND_PPP_E,Manufacturing
+C19,Manufacture of coke and refined petroleum products,None,Manufacturing
+C20,Manufacture of chemicals and chemical products,FC_IND_CPC_E,Manufacturing
+C21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,FC_IND_CPC_E,Manufacturing
+C22,Manufacture of rubber and plastic products,FC_IND_NSP_E,Manufacturing
+C22_C23,Manufacture of non-metallic,Separate,Manufacturing
+C23,Manufacture of other non-metallic mineral products,FC_IND_NMM_E,Manufacturing
+C24,Manufacture of basic metals,FC_IND_IS&NFM_E,Manufacturing
+C24_C25,Manufacture of metals,Separate,Manufacturing
+C25,"Manufacture of fabricated metal products, except machinery and equipment",FC_IND_MAC_E,Manufacturing
+C26,"Manufacture of computer, electronic and optical products",FC_IND_MAC_E,Manufacturing
+C27,Manufacture of electrical equipment,FC_IND_MAC_E,Manufacturing
+C28,Manufacture of machinery and equipment n.e.c.,FC_IND_MAC_E,Manufacturing
+C29,"Manufacture of motor vehicles, trailers and semi-trailers",None,Manufacturing
+C29_C30,Manufacture of transport equipment,FC_IND_TE_E,Manufacturing
+C30,Manufacture of other transport equipment,FC_IND_TE_E,Manufacturing
+C31-C33,Manufacture & repair,Separate,Manufacturing
+C31_C32,Other manufacture,FC_IND_NSP_E,Manufacturing
+C33,Repair and installation of machinery and equipment,FC_OTH_CP_E,Manufacturing
+D,"Electricity, gas, steam and air conditioning supply",None,"Energy supply, water supply, waste management"
+E,"WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES",FC_OTH_CP_E,"Energy supply, water supply, waste management"
+E36,"Water collection, treatment and supply",FC_OTH_CP_E,"Energy supply, water supply, waste management"
+E37-E39,Other waste management,FC_OTH_CP_E,"Energy supply, water supply, waste management"
+F,Construction,FC_IND_CON_E,Construction
+G,Wholesale and retail trade and repair of motor vehicles and motorcycles,FC_OTH_CP_E,Trade; repair of motor vehicles and motorcycles
+G-I,,Separate,Separate
+G45,Wholesale and retail trade and repair of motor vehicles and motorcycles,FC_OTH_CP_E,Trade; repair of motor vehicles and motorcycles
+G46,"Wholesale trade, except of motor vehicles and motorcycles",FC_OTH_CP_E,Trade; repair of motor vehicles and motorcycles
+G47,"Retail trade, except of motor vehicles and motorcycles",FC_OTH_CP_E,Trade; repair of motor vehicles and motorcycles
+H,Transportation and storage,Separate,"Transportation, storage, information and communication"
+H49,Land transport and transport via pipelines,FC_TRA_LAND_E,"Transportation, storage, information and communication"
+H50,Water transport,FC_TRA_NSP_E,"Transportation, storage, information and communication"
+H51,Air transport,FC_TRA_NSP_E,"Transportation, storage, information and communication"
+H52,Warehousing and support activities for transportation,FC_OTH_CP_E,"Transportation, storage, information and communication"
+H53,Postal and courier activities,FC_OTH_CP_E,"Transportation, storage, information and communication"
+I,Accommodation and food service activities,FC_OTH_CP_E,Accommodation and food service activities
+J,information and communication,FC_OTH_CP_E,"Transportation, storage, information and communication"
+J58,Publishing activities,FC_OTH_CP_E,"Transportation, storage, information and communication"
+J58-J60,"Motion picture, video and television programme production, sound recording and music publishing activities",FC_OTH_CP_E,"Transportation, storage, information and communication"
+J59_J60,Programming and broadcasting activities,FC_OTH_CP_E,"Transportation, storage, information and communication"
+J61,Telecommunications,FC_OTH_CP_E,"Transportation, storage, information and communication"
+J62_J63,Information service activities,FC_OTH_CP_E,"Transportation, storage, information and communication"
+K,Financial and insurance activities,FC_OTH_CP_E,Financial service activities and insurance
+K64,"Financial service activities, except insurance and pension funding",FC_OTH_CP_E,Financial service activities and insurance
+K65,"Insurance, reinsurance and pension funding, except compulsory social security",FC_OTH_CP_E,Financial service activities and insurance
+K66,Activities auxiliary to financial services and insurance activities,FC_OTH_CP_E,Financial service activities and insurance
+L,Real estate activities,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+L68A,Real estate activities,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+M,"Professional, scientific and technical activities",FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+M69-M71,Legal and accounting activities,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+M69_M70,Activities of head offices; management consultancy activities,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+M71,Architectural and engineering activities; technical testing and analysis,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+M72,Scientific research and development ,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+M73,Advertising and market research,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+M73-M75,"Other professional, scientific and technical activities",FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+M74_M75,Veterinary activities,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+M_N,,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+N,Administrative and support service activities,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+N77,Rental and leasing activities,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+N78,Employment activities,FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+N79,"Travel agency, tour operator and other reservation service and related activities",FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+N80-N82,"Security and investigation activities, Services to buildings and landscape activities, Office administrative, office support and other business support activities",FC_OTH_CP_E,"Real estate activities, professional, scientific, technical and administrative activities"
+O,Public administration and defence; compulsory social security,FC_OTH_CP_E,Public administration
+O-Q,Public administration,FC_OTH_CP_E,Separate
+P,Education,FC_OTH_CP_E,Education
+Q,Human health and social work activities,FC_OTH_CP_E,Human health and social work activities
+Q86,Human health activities,FC_OTH_CP_E,Human health and social work activities
+Q87_Q88,Residential care activities,FC_OTH_CP_E,Human health and social work activities
+R,"Arts, entertainment, recreation",FC_OTH_CP_E,"Arts, entertainment, recreation and other services"
+R-U,"Arts, entertainment, recreation and other services",FC_OTH_CP_E,"Arts, entertainment, recreation and other services"
+R90-R92,"Arts, entertainment, recreation",FC_OTH_CP_E,"Arts, entertainment, recreation and other services"
+R93,Sports activities and amusement and recreation activities,FC_OTH_CP_E,"Arts, entertainment, recreation and other services"
+S,Other personal service activities,FC_OTH_CP_E,"Arts, entertainment, recreation and other services"
+S94,Activities of membership organisations,FC_OTH_CP_E,"Arts, entertainment, recreation and other services"
+S95,Repair of computers and personal and household goods,FC_OTH_CP_E,"Arts, entertainment, recreation and other services"
+S96,Other personal service activities,FC_OTH_CP_E,"Arts, entertainment, recreation and other services"
+T,Households,FC_OTH_HH_E,Households
+TOTAL,,Total,Total
+U,Activities of extraterritorial organisations and bodies,FC_OTH_CP_E,None
