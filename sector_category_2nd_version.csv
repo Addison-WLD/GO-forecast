@@ -80,7 +80,7 @@ Q,Human health and social work activities,FC_OTH_CP_E,Human health and social wo
 Q86,Human health activities,FC_OTH_CP_E,Human health and social work activities
 Q87_Q88,Residential care activities,FC_OTH_CP_E,Human health and social work activities
 R,"Arts, entertainment, recreation",FC_OTH_CP_E,"Arts, entertainment, recreation and other services"
-R-U,"Arts, entertainment, recreation and other services",FC_OTH_CP_E,"Arts, entertainment, recreation and other services"
+R-U,"Arts, entertainment, recreation and other services",Separate,"Arts, entertainment, recreation and other services"
 R90-R92,"Arts, entertainment, recreation",FC_OTH_CP_E,"Arts, entertainment, recreation and other services"
 R93,Sports activities and amusement and recreation activities,FC_OTH_CP_E,"Arts, entertainment, recreation and other services"
 S,Other personal service activities,FC_OTH_CP_E,"Arts, entertainment, recreation and other services"
