@@ -1,0 +1,43 @@
+﻿AIB_cat,AIB_tech
+Mechanical/other,Wind - onshore
+Mechanical/other,Wind - offshore
+Mechanical/other,Wind - unknown
+Mechanical/other,Hydro/marine
+Mechanical/other,Unspecified mechanical/other
+Unspecified,Unspecified renewable energy
+Heat,Unspecified heat
+Heat,Solar
+Heat,Geothermal
+Biomass,Solid - agricultural biomass (inc. energy crops)
+Biomass,Solid - agricultural products
+Biomass,Solid - renewable fuels (inc. For&Ag bp & w)
+Biomass,Solid - forestry products
+Biomass,Solid - forestry by-products & waste
+Biomass,Gas - landfill
+Biomass,Gas - sewage
+Biomass,Gas - other biogas
+Biomass,Solid - municipal biogenic waste
+Biomass,Liquid - renewable fuels (inc. Mun.waste)
+Biomass,Liquid - black liquor
+Biomass,Solid - unspecified wood
+Biomass,Solid - industrial & commercial waste
+Nuclear,Unknown
+Fossil,Unknown
+Fossil,Solid - Unknown
+Fossil,Solid - Hard coal
+Fossil,Solid - Brown coal
+Fossil,Solid - Peat
+Fossil,Solid - Municipal solid waste
+Fossil,Solid - Industrial and commercial waste
+Fossil,Liquid - Unknown
+Fossil,Liquid - Crude oil
+Fossil,Liquid - Natural gas
+Fossil,Liquid - Petroleum products
+Fossil,Gaseous - Unknown
+Fossil,Gaseous - Natural gas
+Fossil,Gaseous - Coal-derived gas
+Fossil,Gaseous - Petroleum products
+Fossil,Gaseous - Municipal gas plant
+Fossil,Gaseous - Process gas
+Fossil,Heat - unknown
+Fossil,Heat - Process heat
