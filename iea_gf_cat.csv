@@ -1,65 +1,65 @@
-IEA_code	IEA_fuel	GF_cat
-TOTAL	Total	-
-C0000X0350-0370	Solidfossilfuels	Fossil unspecified & Other
-C0110	Anthracite	-
-C0121	Cokingcoal	-
-C0129	Otherbituminouscoal	-
-C0210	Sub-bituminouscoal	-
-C0220	Lignite	-
-C0311	Cokeovencoke	-
-C0312	Gascoke	-
-C0320	Patentfuel	-
-C0330	Browncoalbriquettes	-
-C0340	Coaltar	-
-C0350-0370	Manufacturedgases	Fossil unspecified & Other
-C0350	Cokeovengas	-
-C0360	Gasworksgas	-
-C0371	Blastfurnacegas	-
-C0379	Otherrecoveredgases	-
-P1000	Peatandpeatproducts	Fossil unspecified & Other
-P1100	Peat	-
-P1200	Peatproducts	-
-S2000	Oilshaleandoilsands	Fossil unspecified & Other
-G3000	Naturalgas	Fossil Natural gas
-O4000XBIO	Oilandpetroleumproducts(excludingbiofuelportion)	Fossil unspecified & Other
-O4100_TOT	Crudeoil	-
-O4200	Naturalgasliquids	-
-O4300	Refineryfeedstocks	-
-O4400X4410	Additivesandoxygenates(excludingbiofuelportion)	-
-O4500	Otherhydrocarbons	-
-O4610	Refinerygas	-
-O4620	Ethane	-
-O4630	Liquefiedpetroleumgases	-
-O4640	Naphtha	-
-O4669	Otherkerosene	-
-O4671XR5220B	Gasoilanddieseloil(excludingbiofuelportion)	-
-O4680	Fueloil	-
-O4691	Whitespiritandspecialboilingpointindustrialspirits	-
-O4692	Lubricants	-
-O4693	Paraffinwaxes	-
-O4694	Petroleumcoke	-
-O4695	Bitumen	-
-O4699	Otheroilproductsn.e.c.	-
-RA000	Renewablesandbiofuels	RES
-RA100	Hydro	Hydro
-RA200	Geothermal	Biomass
-RA300	Wind	Wind
-RA410	Solarthermal	Biomass
-RA420	Solarphotovoltaic	Solar
-RA500	"Tide, wave, ocean"	Hydro
-RA600	Ambientheat(heatpumps)	Renewable Unspecified & Other
-R5110-5150_W6000RI	Primarysolidbiofuels	Biomass
-R5160	Charcoal	Biomass
-R5210P	Purebiogasoline	Biomass
-R5210B	Blendedbiogasoline	Biomass
-R5220P	Purebiodiesels	Biomass
-R5220B	Blendedbiodiesels	Biomass
-R5230P	Purebiojetkerosene	Biomass
-R5230B	Blendedbiojetkerosene	Biomass
-R5290	Otherliquidbiofuels	Biomass
-R5300	Biogases	Biomass
-W6100	Industrialwaste(non-renewable)	Fossil unspecified & Other
-W6210	Renewablemunicipalwaste	Biomass
-W6220	Non-renewablemunicipalwaste	Fossil unspecified & Other
-W6100_6220	Non-renewablewaste	Fossil unspecified & Other
-N900H	Nuclearheat	Nuclear
+﻿IEA_code,IEA_fuel,GF_cat
+TOTAL,Total,-
+C0000X0350-0370,Solidfossilfuels,Fossil unspecified & Other
+C0110,Anthracite,-
+C0121,Cokingcoal,-
+C0129,Otherbituminouscoal,-
+C0210,Sub-bituminouscoal,-
+C0220,Lignite,-
+C0311,Cokeovencoke,-
+C0312,Gascoke,-
+C0320,Patentfuel,-
+C0330,Browncoalbriquettes,-
+C0340,Coaltar,-
+C0350-0370,Manufacturedgases,Fossil unspecified & Other
+C0350,Cokeovengas,-
+C0360,Gasworksgas,-
+C0371,Blastfurnacegas,-
+C0379,Otherrecoveredgases,-
+P1000,Peatandpeatproducts,Fossil unspecified & Other
+P1100,Peat,-
+P1200,Peatproducts,-
+S2000,Oilshaleandoilsands,Fossil unspecified & Other
+G3000,Naturalgas,Fossil Natural gas
+O4000XBIO,Oilandpetroleumproducts(excludingbiofuelportion),Fossil unspecified & Other
+O4100_TOT,Crudeoil,-
+O4200,Naturalgasliquids,-
+O4300,Refineryfeedstocks,-
+O4400X4410,Additivesandoxygenates(excludingbiofuelportion),-
+O4500,Otherhydrocarbons,-
+O4610,Refinerygas,-
+O4620,Ethane,-
+O4630,Liquefiedpetroleumgases,-
+O4640,Naphtha,-
+O4669,Otherkerosene,-
+O4671XR5220B,Gasoilanddieseloil(excludingbiofuelportion),-
+O4680,Fueloil,-
+O4691,Whitespiritandspecialboilingpointindustrialspirits,-
+O4692,Lubricants,-
+O4693,Paraffinwaxes,-
+O4694,Petroleumcoke,-
+O4695,Bitumen,-
+O4699,Otheroilproductsn.e.c.,-
+RA000,Renewablesandbiofuels,RES
+RA100,Hydro,Hydro
+RA200,Geothermal,Biomass
+RA300,Wind,Wind
+RA410,Solarthermal,Biomass
+RA420,Solarphotovoltaic,Solar
+RA500,"Tide, wave, ocean",Hydro
+RA600,Ambientheat(heatpumps),Renewable Unspecified & Other
+R5110-5150_W6000RI,Primarysolidbiofuels,Biomass
+R5160,Charcoal,Biomass
+R5210P,Purebiogasoline,Biomass
+R5210B,Blendedbiogasoline,Biomass
+R5220P,Purebiodiesels,Biomass
+R5220B,Blendedbiodiesels,Biomass
+R5230P,Purebiojetkerosene,Biomass
+R5230B,Blendedbiojetkerosene,Biomass
+R5290,Otherliquidbiofuels,Biomass
+R5300,Biogases,Biomass
+W6100,Industrialwaste(non-renewable),Fossil unspecified & Other
+W6210,Renewablemunicipalwaste,Biomass
+W6220,Non-renewablemunicipalwaste,Fossil unspecified & Other
+W6100_6220,Non-renewablewaste,Fossil unspecified & Other
+N900H,Nuclearheat,Nuclear
