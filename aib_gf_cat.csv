@@ -1,0 +1,48 @@
+﻿AIB_cat,GF_cat
+Wind - onshore,-
+Wind - offshore,-
+Wind - unknown,-
+Wind,Wind
+Hydro/marine,Hydro
+Unspecified mechanical/other,Renewable Unspecified & Other
+Unspecified renewable energy,Renewable Unspecified & Other
+Unspecified heat,Renewable Unspecified & Other
+Solar,Solar
+Geothermal,Biomass
+Other,-
+Solid - agricultural biomass (inc. energy crops),-
+Solid - agricultural products,-
+Solid - renewable fuels (inc. For&Ag bp & w),-
+Solid - forestry products,-
+Solid - forestry by-products & waste,-
+Gas - landfill,-
+Gas - sewage,-
+Gas - other biogas,-
+Solid - municipal biogenic waste,-
+Liquid - renewable fuels (inc. Mun.waste),-
+Liquid - black liquor,-
+Solid - unspecified wood,-
+Solid - industrial & commercial waste,-
+Biomass,Biomass
+RENEWABLE,RES
+NUCLEAR,Nuclear
+Unknown,Fossil unspecified & Other
+Solid - Unknown,Fossil unspecified & Other
+Solid - Hard coal,Fossil unspecified & Other
+Solid - Brown coal,Fossil unspecified & Other
+Solid - Peat,Fossil unspecified & Other
+Solid - Municipal solid waste,Fossil unspecified & Other
+Solid - Industrial and commercial waste,Fossil unspecified & Other
+Liquid - Unknown,Fossil unspecified & Other
+Liquid - Crude oil,Fossil unspecified & Other
+Liquid - Natural gas,Fossil Natural gas
+Liquid - Petroleum products,Fossil unspecified & Other
+Gaseous - Unknown,Fossil unspecified & Other
+Gaseous - Natural gas,Fossil unspecified & Other
+Gaseous - Coal-derived gas,Fossil unspecified & Other
+Gaseous - Petroleum products,Fossil unspecified & Other
+Gaseous - Municipal gas plant,Fossil unspecified & Other
+Gaseous - Process gas,Fossil unspecified & Other
+Heat - unknown,Fossil unspecified & Other
+Heat - Process heat,Fossil unspecified & Other
+FOSSIL,Fossil
