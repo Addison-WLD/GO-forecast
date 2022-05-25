@@ -1,0 +1,369 @@
+﻿geo,AIB_cat,AIB_sub_cat,2021,2020,2019,2018,2017,2016
+Austria, Renewable ,Unspecified&other,,0,0,0,0,0
+Austria, Renewable ,Biomass,1768420,2380036,2506324,1161111,0,0
+Austria, Renewable ,Solar,1131402,1126811,967186,333683,6,11
+Austria, Renewable ,Geothermal,31,72,199,64,0,0
+Austria, Renewable ,Wind,5603604,6794169,7457049,2904934,352562,90850
+Austria, Renewable ,Hydro,32090563,39914822,38574611,20522177,12143334,11471595
+Austria, Nuclear , Nuclear ,,,,0,0,0
+Austria, Fossil ,Unspecified&other,69716,259487,365946,105492,0,63600
+Austria, Fossil ,Hardcoal,10158,340627,1190383,683005,0,0
+Austria, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Austria, Fossil ,Oil,240,4212,995,0,0,0
+Austria, Fossil ,NaturalGas,4289355,7835894,9090167,4299316,648532,520011
+Austria, TOTAL , TOTAL ,44963489,58656130,60152860,30009782,13144434,12146067
+Belgium, Renewable ,Unspecified&other,3045,0,0,0,0,0
+Belgium, Renewable ,Biomass,1155199,2266409,3253690,3376604,3259256,3135700
+Belgium, Renewable ,Solar,719179,771353,629540,472943,552104,554942
+Belgium, Renewable ,Geothermal,0,0,0,0,0,0
+Belgium, Renewable ,Wind,8198729,11938873,8992349,6976900,5994179,4974954
+Belgium, Renewable ,Hydro,229744,243705,275785,277679,197558,289207
+Belgium, Nuclear , Nuclear ,0,,0,0,0,0
+Belgium, Fossil ,Unspecified&other,,,,0,0,0
+Belgium, Fossil ,Hardcoal,,0,,0,0,0
+Belgium, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Belgium, Fossil ,Oil,0,116,130,0,0,0
+Belgium, Fossil ,NaturalGas,11622,31060,33768,10823,0,0
+Belgium, TOTAL , TOTAL ,10317518,15251516,13185262,11114949,10003097,8954803
+Switzerland, Renewable ,Unspecified&other,,0,0,0,0,0
+Switzerland, Renewable ,Biomass,1545100,1644719,1581250,1418066,1361130,1304204
+Switzerland, Renewable ,Solar,1840802,1947669,1674363,1544298,1366644,1090453
+Switzerland, Renewable ,Geothermal,,,0,0,0,0
+Switzerland, Renewable ,Wind,126666,144934,145703,121643,133221,108298
+Switzerland, Renewable ,Hydro,32871917,37043780,37509790,34469825,33063074,33230614
+Switzerland, Nuclear , Nuclear ,16104638,23212427,26326669,24391621,19430819,20233537
+Switzerland, Fossil ,Unspecified&other,1488890,1816160,2110799,1743815,1108840,937144
+Switzerland, Fossil ,Hardcoal,,0,0,0,0,0
+Switzerland, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Switzerland, Fossil ,Oil,,,,0,0,0
+Switzerland, Fossil ,NaturalGas,,0,0,247761,513555,613940
+Switzerland, TOTAL , TOTAL ,53978013,65809689,69348574,63937029,56977283,57518190
+Cyprus, Renewable ,Unspecified&other,,,,0,0,0
+Cyprus, Renewable ,Biomass,,,,0,0,0
+Cyprus, Renewable ,Solar,12953,,,0,0,0
+Cyprus, Renewable ,Geothermal,,,,0,0,0
+Cyprus, Renewable ,Wind,205730,238349,236496,219029,208400,96180
+Cyprus, Renewable ,Hydro,,,,0,0,0
+Cyprus, Nuclear , Nuclear ,,,,0,0,0
+Cyprus, Fossil ,Unspecified&other,,,,0,0,0
+Cyprus, Fossil ,Hardcoal,,,,0,0,0
+Cyprus, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Cyprus, Fossil ,Oil,,,,0,0,0
+Cyprus, Fossil ,NaturalGas,,,,0,0,0
+Cyprus, TOTAL , TOTAL ,218683,238349,236496,219029,208400,96180
+Czech Republic, Renewable ,Unspecified&other,,,,0,0,0
+Czech Republic, Renewable ,Biomass,2236305,2484333,2508955,2373920,1664207,474339
+Czech Republic, Renewable ,Solar,750968,726326,877022,821870,491821,48382
+Czech Republic, Renewable ,Geothermal,,,,0,0,0
+Czech Republic, Renewable ,Wind,518224,556200,637507,501021,227487,61104
+Czech Republic, Renewable ,Hydro,1294834,1717950,1555191,1088296,778625,803250
+Czech Republic, Nuclear , Nuclear ,,,,0,0,0
+Czech Republic, Fossil ,Unspecified&other,,,,36,0,17
+Czech Republic, Fossil ,Hardcoal,,,,0,0,0
+Czech Republic, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Czech Republic, Fossil ,Oil,5,,,0,0,0
+Czech Republic, Fossil ,NaturalGas,7650,6059,,0,0,0
+Czech Republic, TOTAL , TOTAL ,4807986,5490868,5578675,4785143,3162140,1387092
+Germany, Renewable ,Unspecified&other,1150734,1976439,1944224,2314010,2186401,1821847
+Germany, Renewable ,Biomass,880460,1508596,1802551,1887862,1757022,1698080
+Germany, Renewable ,Solar,375756,86587,6341,5832,1861,3733
+Germany, Renewable ,Geothermal,0,0,0,0,0,0
+Germany, Renewable ,Wind,1285282,10435,16192,20175,42101,33293
+Germany, Renewable ,Hydro,9914046,12530023,13345140,12016608,13034995,13224705
+Germany, Nuclear , Nuclear ,,,,0,0,0
+Germany, Fossil ,Unspecified&other,,,,0,0,0
+Germany, Fossil ,Hardcoal,,,,0,0,0
+Germany, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Germany, Fossil ,Oil,,,,0,0,0
+Germany, Fossil ,NaturalGas,,,,0,0,0
+Germany, TOTAL , TOTAL ,13606278,16112080,17114448,16244487,17022380,16781658
+Denmark, Renewable ,Unspecified&other,24043,30921,29235,33548,0,0
+Denmark, Renewable ,Biomass,7439770,4954625,4978856,4889215,4853776,3912337
+Denmark, Renewable ,Solar,575217,409459,285287,238940,5325,4864
+Denmark, Renewable ,Geothermal,,,,0,0,0
+Denmark, Renewable ,Wind,15638279,15867081,15661409,13430460,14814894,12044134
+Denmark, Renewable ,Hydro,14396,15107,14968,12384,2843,0
+Denmark, Nuclear , Nuclear ,0,0,0,0,0,0
+Denmark, Fossil ,Unspecified&other,,,,0,0,0
+Denmark, Fossil ,Hardcoal,,,,0,0,0
+Denmark, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Denmark, Fossil ,Oil,,,,0,0,0
+Denmark, Fossil ,NaturalGas,,,,80212,0,0
+Denmark, TOTAL , TOTAL ,23691705,21277193,20969755,18684759,19676838,15961335
+Estonia, Renewable ,Unspecified&other,0,0,0,0,0,0
+Estonia, Renewable ,Biomass,1021942,932597,1202965,774364,604916,347602
+Estonia, Renewable ,Solar,130650,123808,67452,16226,6208,0
+Estonia, Renewable ,Geothermal,0,,,0,0,0
+Estonia, Renewable ,Wind,674440,823959,699604,625345,583373,577250
+Estonia, Renewable ,Hydro,23632,29203,24729,18856,19747,21400
+Estonia, Nuclear , Nuclear ,,,,0,0,0
+Estonia, Fossil ,Unspecified&other,67210,46240,63949,45414,36937,42188
+Estonia, Fossil ,Hardcoal,,,,0,0,0
+Estonia, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Estonia, Fossil ,Oil,,,,0,0,0
+Estonia, Fossil ,NaturalGas,4935,13120,261,0,0,0
+Estonia, TOTAL , TOTAL ,1922809,1968927,2058960,1480205,1251181,988440
+Spain, Renewable ,Unspecified&other,0,0,0,0,0,0
+Spain, Renewable ,Biomass,0,0,0,3332558,3188615,2140512
+Spain, Renewable ,Solar,6134629,5301669,813699,9479730,10740476,8046391
+Spain, Renewable ,Geothermal,0,0,0,0,0,0
+Spain, Renewable ,Wind,10366618,11020488,11774545,46961245,45748959,42194521
+Spain, Renewable ,Hydro,7804714,7186924,9849853,32610930,17001843,31297410
+Spain, Nuclear , Nuclear ,,,,0,0,0
+Spain, Fossil ,Unspecified&other,,,,781236,80609,219905
+Spain, Fossil ,Hardcoal,,,,0,0,0
+Spain, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Spain, Fossil ,Oil,0,0,0,0,0,0
+Spain, Fossil ,NaturalGas,0,0,0,10300491,1722441,1924544
+Spain, TOTAL , TOTAL ,24305961,23509081,22438097,103466190,78482943,85823283
+Finland, Renewable ,Unspecified&other,115476,136533,135930,23712,2280,2320
+Finland, Renewable ,Biomass,8644911,8730882,10152958,8712107,7527699,7156893
+Finland, Renewable ,Solar,3189,3089,3048,3089,2738,1743
+Finland, Renewable ,Geothermal,0,0,0,0,0,0
+Finland, Renewable ,Wind,8102190,7799423,5978874,5820349,4601463,2804614
+Finland, Renewable ,Hydro,15451302,15487103,12127590,13005414,14377321,15392244
+Finland, Nuclear , Nuclear ,,,,0,0,0
+Finland, Fossil ,Unspecified&other,,,,0,0,0
+Finland, Fossil ,Hardcoal,,,,0,0,0
+Finland, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Finland, Fossil ,Oil,,,,0,0,0
+Finland, Fossil ,NaturalGas,,,,0,0,0
+Finland, TOTAL , TOTAL ,32317068,32157030,28398400,27564671,26511501,25357814
+France, Renewable ,Unspecified&other,0,0,0,433835,406532,74683
+France, Renewable ,Biomass,4098670,3467099,3114308,610655,251976,281671
+France, Renewable ,Solar,5637696,2205053,1866000,631,0,0
+France, Renewable ,Geothermal,2762,2056,2566,0,0,0
+France, Renewable ,Wind,18630095,18141615,13281014,185009,50493,10299
+France, Renewable ,Hydro,49198572,55518825,48885653,48559237,37779613,43450424
+France, Nuclear , Nuclear ,,,,0,0,0
+France, Fossil ,Unspecified&other,,,,0,0,0
+France, Fossil ,Hardcoal,,,,0,0,0
+France, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+France, Fossil ,Oil,,,,0,0,0
+France, Fossil ,NaturalGas,49042,90245,378363,40347,0,0
+France, TOTAL , TOTAL ,77616837,79424893,67527904,49829714,38488614,43817077
+Greece, Renewable ,Unspecified&other,0,0,0,,,
+Greece, Renewable ,Biomass,0,0,0,,,
+Greece, Renewable ,Solar,0,0,0,,,
+Greece, Renewable ,Geothermal,0,0,0,,,
+Greece, Renewable ,Wind,0,0,0,,,
+Greece, Renewable ,Hydro,0,0,0,,,
+Greece, Nuclear , Nuclear ,0,0,0,,,
+Greece, Fossil ,Unspecified&other,0,0,0,,,
+Greece, Fossil ,Hardcoal,0,0,0,,,
+Greece, Fossil ,Lignite(orbrowncoal),0,0,0,,,
+Greece, Fossil ,Oil,0,0,0,,,
+Greece, Fossil ,NaturalGas,0,0,0,,,
+Greece, TOTAL , TOTAL ,0,0,0,,,
+Croatia, Renewable ,Unspecified&other,0,,0,0,0,0
+Croatia, Renewable ,Biomass,449293,458787,19091,1478,0,0
+Croatia, Renewable ,Solar,0,0,0,0,0,0
+Croatia, Renewable ,Geothermal,0,0,,0,0,0
+Croatia, Renewable ,Wind,1342115,1499058,933819,8335,6391,336
+Croatia, Renewable ,Hydro,6580946,4825570,5073558,2824207,1262683,1145317
+Croatia, Nuclear , Nuclear ,,,,0,0,0
+Croatia, Fossil ,Unspecified&other,,,,0,0,0
+Croatia, Fossil ,Hardcoal,,,,0,0,0
+Croatia, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Croatia, Fossil ,Oil,,,,0,0,0
+Croatia, Fossil ,NaturalGas,,,,0,0,0
+Croatia, TOTAL , TOTAL ,8372354,6783415,6026468,2834020,1269074,1145653
+Ireland, Renewable ,Unspecified&other,0,0,0,0,104038,119687
+Ireland, Renewable ,Biomass,0,0,0,0,6939,9766
+Ireland, Renewable ,Solar,0,0,0,0,0,0
+Ireland, Renewable ,Geothermal,,0,0,0,0,0
+Ireland, Renewable ,Wind,969768,1283127,1217592,1306204,1270354,1233640
+Ireland, Renewable ,Hydro,640451,909500,885162,694392,683298,674976
+Ireland, Nuclear , Nuclear ,,,,0,0,0
+Ireland, Fossil ,Unspecified&other,,,,0,0,0
+Ireland, Fossil ,Hardcoal,,,,0,0,0
+Ireland, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Ireland, Fossil ,Oil,,,,0,0,0
+Ireland, Fossil ,NaturalGas,,,,0,0,0
+Ireland, TOTAL , TOTAL ,1610219,2192627,2102754,2000596,2064629,2038069
+Iceland, Renewable ,Unspecified&other,,,,0,0,0
+Iceland, Renewable ,Biomass,,0,0,0,0,0
+Iceland, Renewable ,Solar,,,,0,0,0
+Iceland, Renewable ,Geothermal,3988775,5535237,5586860,5505609,4750328,4677186
+Iceland, Renewable ,Wind,6087,6839,,0,0,0
+Iceland, Renewable ,Hydro,10943513,12872984,13236221,13408869,13677798,11067134
+Iceland, Nuclear , Nuclear ,,,,0,0,0
+Iceland, Fossil ,Unspecified&other,,,,0,0,0
+Iceland, Fossil ,Hardcoal,,,,0,0,0
+Iceland, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Iceland, Fossil ,Oil,,,,0,0,0
+Iceland, Fossil ,NaturalGas,,,,0,0,0
+Iceland, TOTAL , TOTAL ,14938375,18415060,18823081,18914478,18428126,15744320
+Italy, Renewable ,Unspecified&other,0,0,0,0,0,0
+Italy, Renewable ,Biomass,11677399,14741602,16255936,18585128,18313932,19873693
+Italy, Renewable ,Solar,12488078,14676437,13525871,12083277,12297328,11597078
+Italy, Renewable ,Geothermal,8,5638251,5680465,5263572,481028,477304
+Italy, Renewable ,Wind,13096551,17470635,18318500,14224514,11796757,8546706
+Italy, Renewable ,Hydro,22224565,42771254,40742990,41343839,28009860,32024158
+Italy, Nuclear , Nuclear ,,,,0,0,0
+Italy, Fossil ,Unspecified&other,,,,0,0,0
+Italy, Fossil ,Hardcoal,,,,0,0,0
+Italy, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Italy, Fossil ,Oil,,,,0,0,0
+Italy, Fossil ,NaturalGas,,,,0,0,0
+Italy, TOTAL , TOTAL ,59486601,95298179,94523762,91500330,70898905,72518939
+Lithuania, Renewable ,Unspecified&other,0,0,0,60879,,
+Lithuania, Renewable ,Biomass,13349,0,0,13081,,
+Lithuania, Renewable ,Solar,0,0,0,0,,
+Lithuania, Renewable ,Geothermal,0,0,,0,,
+Lithuania, Renewable ,Wind,127494,0,0,0,,
+Lithuania, Renewable ,Hydro,349544,0,0,203953,,
+Lithuania, Nuclear , Nuclear ,,,,0,,
+Lithuania, Fossil ,Unspecified&other,,,,0,,
+Lithuania, Fossil ,Hardcoal,,,,0,,
+Lithuania, Fossil ,Lignite(orbrowncoal),,,,0,,
+Lithuania, Fossil ,Oil,,,,0,,
+Lithuania, Fossil ,NaturalGas,,,,0,,
+Lithuania, TOTAL , TOTAL ,490387,0,0,277913,,
+Latvia, Renewable ,Unspecified&other,,,,,,
+Latvia, Renewable ,Biomass,258860,1325,,,,
+Latvia, Renewable ,Solar,0,0,,,,
+Latvia, Renewable ,Geothermal,0,0,,,,
+Latvia, Renewable ,Wind,86903,157,,,,
+Latvia, Renewable ,Hydro,2099927,171145,,,,
+Latvia, Nuclear , Nuclear ,,,,,,
+Latvia, Fossil ,Unspecified&other,,,,,,
+Latvia, Fossil ,Hardcoal,,,,,,
+Latvia, Fossil ,Lignite(orbrowncoal),,,,,,
+Latvia, Fossil ,Oil,,,,,,
+Latvia, Fossil ,NaturalGas,113119,,,,,
+Latvia, TOTAL , TOTAL ,2558809,172627,,,,
+Luxembourg, Renewable ,Unspecified&other,0,0,0,0,0,0
+Luxembourg, Renewable ,Biomass,317032,305589,56293,55630,55611,50033
+Luxembourg, Renewable ,Solar,17622,10229,1911,1325,1290,1237
+Luxembourg, Renewable ,Geothermal,0,,,0,0,0
+Luxembourg, Renewable ,Wind,310001,344451,276896,189803,4975,10167
+Luxembourg, Renewable ,Hydro,69831,61376,71255,64364,57534,76710
+Luxembourg, Nuclear , Nuclear ,,,,0,0,0
+Luxembourg, Fossil ,Unspecified&other,,,,0,0,0
+Luxembourg, Fossil ,Hardcoal,,,,0,0,0
+Luxembourg, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Luxembourg, Fossil ,Oil,,,,0,0,0
+Luxembourg, Fossil ,NaturalGas,,0,0,0,0,0
+Luxembourg, TOTAL , TOTAL ,714486,721645,406355,311122,119410,138147
+Netherlands, Renewable ,Unspecified&other,20905,104679,42645,0,0,0
+Netherlands, Renewable ,Biomass,8508753,7708935,5348633,3955995,4203615,4549444
+Netherlands, Renewable ,Solar,4208388,2827886,1397208,618865,254720,139469
+Netherlands, Renewable ,Geothermal,,,,0,0,0
+Netherlands, Renewable ,Wind,15483037,15125123,11337651,10394618,10422508,8062443
+Netherlands, Renewable ,Hydro,78391,46138,74160,72440,61454,100482
+Netherlands, Nuclear , Nuclear ,3258097,3858875,2023142,0,0,0
+Netherlands, Fossil ,Unspecified&other,3393072,3451786,1301010,320311,0,0
+Netherlands, Fossil ,Hardcoal,5733655,7325840,5307549,1023313,0,250000
+Netherlands, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Netherlands, Fossil ,Oil,71892,88656,,0,0,0
+Netherlands, Fossil ,NaturalGas,37686590,53620888,33855516,13979656,2008269,538229
+Netherlands, TOTAL , TOTAL ,78442780,94158806,60687514,30365198,16950566,13640067
+Norway, Renewable ,Unspecified&other,,,0,0,0,1410
+Norway, Renewable ,Biomass,79986,122919,97164,49048,88603,82359
+Norway, Renewable ,Solar,504,440,377,1,0,0
+Norway, Renewable ,Geothermal,,,0,0,0,0
+Norway, Renewable ,Wind,10879703,9436003,5358331,3813042,2731530,1987949
+Norway, Renewable ,Hydro,133492101,139832567,123710857,134193514,136834503,133982545
+Norway, Nuclear , Nuclear ,,,0,0,0,0
+Norway, Fossil ,Unspecified&other,,2962,215,0,0,0
+Norway, Fossil ,Hardcoal,,,0,0,0,0
+Norway, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Norway, Fossil ,Oil,,,,0,0,0
+Norway, Fossil ,NaturalGas,,,0,0,0,0
+Norway, TOTAL , TOTAL ,144452294,149394891,129166944,138055605,139654636,136054263
+Portugal, Renewable ,Unspecified&other,0,0,,0,0,0
+Portugal, Renewable ,Biomass,3271260,974515,0,0,0,0
+Portugal, Renewable ,Solar,1364180,502112,0,0,0,0
+Portugal, Renewable ,Geothermal,0,0,,0,0,0
+Portugal, Renewable ,Wind,12940193,6276700,0,0,0,0
+Portugal, Renewable ,Hydro,11389688,4594017,0,0,0,0
+Portugal, Nuclear , Nuclear ,,,,0,0,0
+Portugal, Fossil ,Unspecified&other,935,96,,0,0,0
+Portugal, Fossil ,Hardcoal,,,,0,0,0
+Portugal, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Portugal, Fossil ,Oil,33220,4776,,0,0,0
+Portugal, Fossil ,NaturalGas,2922143,67535,,0,0,0
+Portugal, TOTAL , TOTAL ,31921619,12419751,0,0,0,0
+Serbia, Renewable ,Unspecified&other,0,0,,0,,
+Serbia, Renewable ,Biomass,0,0,,174,,
+Serbia, Renewable ,Solar,336,546,20,413,,
+Serbia, Renewable ,Geothermal,0,0,,0,,
+Serbia, Renewable ,Wind,0,0,,0,,
+Serbia, Renewable ,Hydro,721710,228247,979,0,,
+Serbia, Nuclear , Nuclear ,,,,0,,
+Serbia, Fossil ,Unspecified&other,,,,0,,
+Serbia, Fossil ,Hardcoal,,,,0,,
+Serbia, Fossil ,Lignite(orbrowncoal),,,,0,,
+Serbia, Fossil ,Oil,,,,0,,
+Serbia, Fossil ,NaturalGas,,,,0,,
+Serbia, TOTAL , TOTAL ,722046,228793,999,587,,
+Sweden, Renewable ,Unspecified&other,174092,189282,141022,155674,143520,197067
+Sweden, Renewable ,Biomass,2047120,2003030,1938689,1275184,805315,340827
+Sweden, Renewable ,Solar,30,4,0,0,0,0
+Sweden, Renewable ,Geothermal,,0,0,0,0,0
+Sweden, Renewable ,Wind,22013629,21469651,13545356,9624753,8309351,5696826
+Sweden, Renewable ,Hydro,52955516,49414166,43591843,41454022,29408165,17422065
+Sweden, Nuclear , Nuclear ,11040987,8027408,11026076,3980272,0,0
+Sweden, Fossil ,Unspecified&other,138281,132456,116081,113262,58878,167510
+Sweden, Fossil ,Hardcoal,,,,0,0,0
+Sweden, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Sweden, Fossil ,Oil,,,,0,0,0
+Sweden, Fossil ,NaturalGas,247779,45261,465646,434366,214632,458531
+Sweden, TOTAL , TOTAL ,88617434,81281258,70824713,57037533,38939861,24282826
+Slovenia, Renewable ,Unspecified&other,,,,0,0,0
+Slovenia, Renewable ,Biomass,27089,29985,16324,13285,0,0
+Slovenia, Renewable ,Solar,1086,10267,28076,12832,0,0
+Slovenia, Renewable ,Geothermal,,,,0,0,0
+Slovenia, Renewable ,Wind,4739,1780,3705,0,0,0
+Slovenia, Renewable ,Hydro,4071179,4472719,4073551,3026347,2734000,4293000
+Slovenia, Nuclear , Nuclear ,,,,0,0,0
+Slovenia, Fossil ,Unspecified&other,,,,0,0,0
+Slovenia, Fossil ,Hardcoal,,,,0,0,0
+Slovenia, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+Slovenia, Fossil ,Oil,,,,0,0,0
+Slovenia, Fossil ,NaturalGas,,,,0,0,0
+Slovenia, TOTAL , TOTAL ,4104093,4514751,4121656,3052464,2734000,4293000
+Slovakia, Renewable ,Unspecified&other,,,,,,
+Slovakia, Renewable ,Biomass,194051,54828,,,,
+Slovakia, Renewable ,Solar,375704,511040,,,,
+Slovakia, Renewable ,Geothermal,,,,,,
+Slovakia, Renewable ,Wind,0,0,,,,
+Slovakia, Renewable ,Hydro,3672374,2947342,0,,,
+Slovakia, Nuclear , Nuclear ,,,,,,
+Slovakia, Fossil ,Unspecified&other,,,,,,
+Slovakia, Fossil ,Hardcoal,,,,,,
+Slovakia, Fossil ,Lignite(orbrowncoal),,,,,,
+Slovakia, Fossil ,Oil,,,,,,
+Slovakia, Fossil ,NaturalGas,0,,,,,
+Slovakia, TOTAL , TOTAL ,4242129,3513210,0,,,
+ALL COUNTRIES, Renewable ,Unspecified&other,1488295,2437854,2293056,3021658,2842771,2217014
+ALL COUNTRIES, Renewable ,Biomass,55634969,54770811,54833987,52485465,47942612,45357460
+ALL COUNTRIES, Renewable ,Solar,35768369,31240785,22143401,25633955,25720521,21488303
+ALL COUNTRIES, Renewable ,Geothermal,3991576,11175616,11270090,10769245,5231356,5154490
+ALL COUNTRIES, Renewable ,Wind,146610077,146249050,115872592,117327379,107298998,88533564
+ALL COUNTRIES, Renewable ,Hydro,398183456,432834467,393623886,399867353,341128248,349967236
+ALL COUNTRIES, Nuclear , Nuclear ,30403722,35098710,39375887,28371893,19430819,20233537
+ALL COUNTRIES, Fossil ,Unspecified&other,5158104,5709187,3958000,3109566,1285264,1430364
+ALL COUNTRIES, Fossil ,Hardcoal,5743813,7666467,6497932,1706318,0,250000
+ALL COUNTRIES, Fossil ,Lignite(orbrowncoal),,,,0,0,0
+ALL COUNTRIES, Fossil ,Oil,105357,97760,1125,0,0,0
+ALL COUNTRIES, Fossil ,NaturalGas,45332235,61710062,43823721,29392972,5107429,4055255
+ALL COUNTRIES, TOTAL , TOTAL ,728419973,788990769,693693677,671685804,555988018,538687223
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
