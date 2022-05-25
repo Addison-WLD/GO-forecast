@@ -1,0 +1,1525 @@
+﻿Statistics Type,Period,Years,Month,Quarters,Consumption Domain Code,Consumption Domain,Source Domain Code,Source Domain,Cancellation type,Total
+EECS-Electricity,2019-01,2019,Jan,Qtr1,AT,AT - Austria,AT,AT - Austria,AIB Member own country,1108954
+EECS-Electricity,2019-01,2019,Jan,Qtr1,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,1579
+EECS-Electricity,2019-01,2019,Jan,Qtr1,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1513713
+EECS-Electricity,2019-01,2019,Jan,Qtr1,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,352841
+EECS-Electricity,2019-01,2019,Jan,Qtr1,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,354
+EECS-Electricity,2019-01,2019,Jan,Qtr1,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,8741
+EECS-Electricity,2019-01,2019,Jan,Qtr1,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,492426
+EECS-Electricity,2019-01,2019,Jan,Qtr1,CY,CY - Cyprus,DK,DK - Denmark,Other AIB member,345
+EECS-Electricity,2019-01,2019,Jan,Qtr1,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,123731
+EECS-Electricity,2019-01,2019,Jan,Qtr1,DE,DE - Germany,DE,DE - Germany,AIB Member own country,25411459
+EECS-Electricity,2019-01,2019,Jan,Qtr1,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,1506708
+EECS-Electricity,2019-01,2019,Jan,Qtr1,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,5662
+EECS-Electricity,2019-01,2019,Jan,Qtr1,ES,ES - Spain,ES,ES - Spain,AIB Member own country,9144071
+EECS-Electricity,2019-01,2019,Jan,Qtr1,FI,FI - Finland,FI,FI - Finland,AIB Member own country,2616865
+EECS-Electricity,2019-01,2019,Jan,Qtr1,FR,FR - France,FR,FR - France,AIB Member own country,6542925
+EECS-Electricity,2019-01,2019,Jan,Qtr1,GB,GB - United Kingdom,NL,NL - Netherlands,Other,80172
+EECS-Electricity,2019-01,2019,Jan,Qtr1,GB,GB - United Kingdom,NO,NO - Norway,Other,465589
+EECS-Electricity,2019-01,2019,Jan,Qtr1,GR,GR - Greece,NO,NO - Norway,Other AIB member,13308
+EECS-Electricity,2019-01,2019,Jan,Qtr1,HU,HU - Hungary,CZ,CZ - Czech Republic,Other AIB member,53564
+EECS-Electricity,2019-01,2019,Jan,Qtr1,HU,HU - Hungary,NO,NO - Norway,Other AIB member,13849
+EECS-Electricity,2019-01,2019,Jan,Qtr1,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,601900
+EECS-Electricity,2019-01,2019,Jan,Qtr1,IS,IS - Iceland,IS,IS - Iceland,AIB Member own country,223716
+EECS-Electricity,2019-01,2019,Jan,Qtr1,IT,IT - Italy,IT,IT - Italy,AIB Member own country,4792351
+EECS-Electricity,2019-01,2019,Jan,Qtr1,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,1
+EECS-Electricity,2019-01,2019,Jan,Qtr1,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,7500
+EECS-Electricity,2019-01,2019,Jan,Qtr1,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,335125
+EECS-Electricity,2019-01,2019,Jan,Qtr1,LV,LV - Latvia,NO,NO - Norway,Other AIB member,3120
+EECS-Electricity,2019-01,2019,Jan,Qtr1,MT,MT - Malta,NO,NO - Norway,EU/EEA/EC non AIB Member,1
+EECS-Electricity,2019-01,2019,Jan,Qtr1,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,7141579
+EECS-Electricity,2019-01,2019,Jan,Qtr1,NO,NO - Norway,NO,NO - Norway,AIB Member own country,3560779
+EECS-Electricity,2019-01,2019,Jan,Qtr1,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,148168
+EECS-Electricity,2019-01,2019,Jan,Qtr1,PT,PT - Portugal,FI,FI - Finland,Other AIB member,2755
+EECS-Electricity,2019-01,2019,Jan,Qtr1,PT,PT - Portugal,NO,NO - Norway,Other AIB member,12197
+EECS-Electricity,2019-01,2019,Jan,Qtr1,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,39046
+EECS-Electricity,2019-01,2019,Jan,Qtr1,RS,RS - Serbia,NO,NO - Norway,Other AIB member,28223
+EECS-Electricity,2019-01,2019,Jan,Qtr1,RU,RU - Russian Federation,FI,FI - Finland,Other,5062
+EECS-Electricity,2019-01,2019,Jan,Qtr1,RU,RU - Russian Federation,NO,NO - Norway,Other,47924
+EECS-Electricity,2019-01,2019,Jan,Qtr1,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,11904596
+EECS-Electricity,2019-01,2019,Jan,Qtr1,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,2098
+EECS-Electricity,2019-01,2019,Jan,Qtr1,SK,SK - Slovakia,CZ,CZ - Czech Republic,Other AIB member,9200
+EECS-Electricity,2019-01,2019,Jan,Qtr1,SK,SK - Slovakia,NO,NO - Norway,Other AIB member,11395
+EECS-Electricity,2019-02,2019,Feb,Qtr1,AT,AT - Austria,AT,AT - Austria,AIB Member own country,1808676
+EECS-Electricity,2019-02,2019,Feb,Qtr1,BE,BE - Belgium,FR,FR - France,Other AIB member,1
+EECS-Electricity,2019-02,2019,Feb,Qtr1,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1681435
+EECS-Electricity,2019-02,2019,Feb,Qtr1,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,253649
+EECS-Electricity,2019-02,2019,Feb,Qtr1,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,310
+EECS-Electricity,2019-02,2019,Feb,Qtr1,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,5698
+EECS-Electricity,2019-02,2019,Feb,Qtr1,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,893296
+EECS-Electricity,2019-02,2019,Feb,Qtr1,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,2958
+EECS-Electricity,2019-02,2019,Feb,Qtr1,DE,DE - Germany,DE,DE - Germany,AIB Member own country,13715206
+EECS-Electricity,2019-02,2019,Feb,Qtr1,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,1999898
+EECS-Electricity,2019-02,2019,Feb,Qtr1,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,20276
+EECS-Electricity,2019-02,2019,Feb,Qtr1,ES,ES - Spain,ES,ES - Spain,AIB Member own country,587143
+EECS-Electricity,2019-02,2019,Feb,Qtr1,FI,FI - Finland,FI,FI - Finland,AIB Member own country,3546595
+EECS-Electricity,2019-02,2019,Feb,Qtr1,FR,FR - France,FR,FR - France,AIB Member own country,5786561
+EECS-Electricity,2019-02,2019,Feb,Qtr1,GB,GB - United Kingdom,DK,DK - Denmark,Other,83808
+EECS-Electricity,2019-02,2019,Feb,Qtr1,GB,GB - United Kingdom,NL,NL - Netherlands,Other,835794
+EECS-Electricity,2019-02,2019,Feb,Qtr1,GB,GB - United Kingdom,NO,NO - Norway,Other,151266
+EECS-Electricity,2019-02,2019,Feb,Qtr1,GB,GB - United Kingdom,SE,SE - Sweden,Other,80152
+EECS-Electricity,2019-02,2019,Feb,Qtr1,GR,GR - Greece,NO,NO - Norway,Other AIB member,9977
+EECS-Electricity,2019-02,2019,Feb,Qtr1,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,549
+EECS-Electricity,2019-02,2019,Feb,Qtr1,HU,HU - Hungary,CH,CH - Switzerland,Other AIB member,33500
+EECS-Electricity,2019-02,2019,Feb,Qtr1,HU,HU - Hungary,NO,NO - Norway,Other AIB member,9375
+EECS-Electricity,2019-02,2019,Feb,Qtr1,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,150026
+EECS-Electricity,2019-02,2019,Feb,Qtr1,IS,IS - Iceland,IS,IS - Iceland,AIB Member own country,2788406
+EECS-Electricity,2019-02,2019,Feb,Qtr1,IT,IT - Italy,IT,IT - Italy,AIB Member own country,5778395
+EECS-Electricity,2019-02,2019,Feb,Qtr1,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,1
+EECS-Electricity,2019-02,2019,Feb,Qtr1,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,432777
+EECS-Electricity,2019-02,2019,Feb,Qtr1,LV,LV - Latvia,NO,NO - Norway,Other AIB member,1940
+EECS-Electricity,2019-02,2019,Feb,Qtr1,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,4731717
+EECS-Electricity,2019-02,2019,Feb,Qtr1,NO,NO - Norway,NO,NO - Norway,AIB Member own country,2128960
+EECS-Electricity,2019-02,2019,Feb,Qtr1,PL,PL - Poland,CH,CH - Switzerland,EU/EEA/EC non AIB Member,3000
+EECS-Electricity,2019-02,2019,Feb,Qtr1,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,48905
+EECS-Electricity,2019-02,2019,Feb,Qtr1,PT,PT - Portugal,CH,CH - Switzerland,Other AIB member,431014
+EECS-Electricity,2019-02,2019,Feb,Qtr1,PT,PT - Portugal,NO,NO - Norway,Other AIB member,86102
+EECS-Electricity,2019-02,2019,Feb,Qtr1,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,16344
+EECS-Electricity,2019-02,2019,Feb,Qtr1,RS,RS - Serbia,NO,NO - Norway,Other AIB member,4550
+EECS-Electricity,2019-02,2019,Feb,Qtr1,RU,RU - Russian Federation,NO,NO - Norway,Other,55086
+EECS-Electricity,2019-02,2019,Feb,Qtr1,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,6527125
+EECS-Electricity,2019-02,2019,Feb,Qtr1,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,41170
+EECS-Electricity,2019-02,2019,Feb,Qtr1,SK,SK - Slovakia,NO,NO - Norway,Other AIB member,5000
+EECS-Electricity,2019-02,2019,Feb,Qtr1,UA,UA - Ukraine,NO,NO - Norway,EU/EEA/EC non AIB Member,626
+EECS-Electricity,2019-03,2019,Mar,Qtr1,AT,AT - Austria,AT,AT - Austria,AIB Member own country,8587971
+EECS-Electricity,2019-03,2019,Mar,Qtr1,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,955247
+EECS-Electricity,2019-03,2019,Mar,Qtr1,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1336900
+EECS-Electricity,2019-03,2019,Mar,Qtr1,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,2388710
+EECS-Electricity,2019-03,2019,Mar,Qtr1,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,330
+EECS-Electricity,2019-03,2019,Mar,Qtr1,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,1199
+EECS-Electricity,2019-03,2019,Mar,Qtr1,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,5776703
+EECS-Electricity,2019-03,2019,Mar,Qtr1,CY,CY - Cyprus,DK,DK - Denmark,Other AIB member,103
+EECS-Electricity,2019-03,2019,Mar,Qtr1,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,19898
+EECS-Electricity,2019-03,2019,Mar,Qtr1,DE,DE - Germany,DE,DE - Germany,AIB Member own country,13641893
+EECS-Electricity,2019-03,2019,Mar,Qtr1,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,1858573
+EECS-Electricity,2019-03,2019,Mar,Qtr1,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,33167
+EECS-Electricity,2019-03,2019,Mar,Qtr1,ES,ES - Spain,ES,ES - Spain,AIB Member own country,64083376
+EECS-Electricity,2019-03,2019,Mar,Qtr1,FI,FI - Finland,FI,FI - Finland,AIB Member own country,8699993
+EECS-Electricity,2019-03,2019,Mar,Qtr1,FR,FR - France,FR,FR - France,AIB Member own country,6543217
+EECS-Electricity,2019-03,2019,Mar,Qtr1,GB,GB - United Kingdom,DK,DK - Denmark,Other,156983
+EECS-Electricity,2019-03,2019,Mar,Qtr1,GB,GB - United Kingdom,NL,NL - Netherlands,Other,869136
+EECS-Electricity,2019-03,2019,Mar,Qtr1,GB,GB - United Kingdom,NO,NO - Norway,Other,3606614
+EECS-Electricity,2019-03,2019,Mar,Qtr1,GB,GB - United Kingdom,SE,SE - Sweden,Other,50811
+EECS-Electricity,2019-03,2019,Mar,Qtr1,GR,GR - Greece,NO,NO - Norway,Other AIB member,3859
+EECS-Electricity,2019-03,2019,Mar,Qtr1,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,1618093
+EECS-Electricity,2019-03,2019,Mar,Qtr1,HU,HU - Hungary,CH,CH - Switzerland,Other AIB member,4500
+EECS-Electricity,2019-03,2019,Mar,Qtr1,HU,HU - Hungary,NO,NO - Norway,Other AIB member,6227
+EECS-Electricity,2019-03,2019,Mar,Qtr1,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,3132628
+EECS-Electricity,2019-03,2019,Mar,Qtr1,IS,IS - Iceland,IS,IS - Iceland,AIB Member own country,866921
+EECS-Electricity,2019-03,2019,Mar,Qtr1,IT,IT - Italy,IT,IT - Italy,AIB Member own country,35844238
+EECS-Electricity,2019-03,2019,Mar,Qtr1,JP,JP - Japan,NO,NO - Norway,Other,1
+EECS-Electricity,2019-03,2019,Mar,Qtr1,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,1
+EECS-Electricity,2019-03,2019,Mar,Qtr1,LT,LT - Lithuania,DK,DK - Denmark,Other AIB member,1427
+EECS-Electricity,2019-03,2019,Mar,Qtr1,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,246696
+EECS-Electricity,2019-03,2019,Mar,Qtr1,LV,LV - Latvia,EE,EE - Estonia,Other AIB member,2392
+EECS-Electricity,2019-03,2019,Mar,Qtr1,LV,LV - Latvia,NO,NO - Norway,Other AIB member,3160
+EECS-Electricity,2019-03,2019,Mar,Qtr1,MC,MC - Monaco,FR,FR - France,Other,8
+EECS-Electricity,2019-03,2019,Mar,Qtr1,NL,NL - Netherlands,NL,NL - Netherlands,Other,6897
+EECS-Electricity,2019-03,2019,Mar,Qtr1,NO,NO - Norway,NO,NO - Norway,AIB Member own country,5343992
+EECS-Electricity,2019-03,2019,Mar,Qtr1,PL,PL - Poland,DK,DK - Denmark,EU/EEA/EC non AIB Member,18000
+EECS-Electricity,2019-03,2019,Mar,Qtr1,PL,PL - Poland,FI,FI - Finland,EU/EEA/EC non AIB Member,7475
+EECS-Electricity,2019-03,2019,Mar,Qtr1,PL,PL - Poland,FR,FR - France,EU/EEA/EC non AIB Member,78
+EECS-Electricity,2019-03,2019,Mar,Qtr1,PL,PL - Poland,NL,NL - Netherlands,EU/EEA/EC non AIB Member,300000
+EECS-Electricity,2019-03,2019,Mar,Qtr1,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,19703
+EECS-Electricity,2019-03,2019,Mar,Qtr1,PT,PT - Portugal,CH,CH - Switzerland,Other AIB member,41134
+EECS-Electricity,2019-03,2019,Mar,Qtr1,PT,PT - Portugal,FR,FR - France,Other AIB member,40
+EECS-Electricity,2019-03,2019,Mar,Qtr1,PT,PT - Portugal,NO,NO - Norway,Other AIB member,1721
+EECS-Electricity,2019-03,2019,Mar,Qtr1,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,6101
+EECS-Electricity,2019-03,2019,Mar,Qtr1,RU,RU - Russian Federation,FI,FI - Finland,Other,470
+EECS-Electricity,2019-03,2019,Mar,Qtr1,RU,RU - Russian Federation,NO,NO - Norway,Other,23453
+EECS-Electricity,2019-03,2019,Mar,Qtr1,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,17417042
+EECS-Electricity,2019-03,2019,Mar,Qtr1,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,721291
+EECS-Electricity,2019-03,2019,Mar,Qtr1,SK,SK - Slovakia,CZ,CZ - Czech Republic,Other AIB member,33299
+EECS-Electricity,2019-03,2019,Mar,Qtr1,SK,SK - Slovakia,NO,NO - Norway,Other AIB member,18
+EECS-Electricity,2019-03,2019,Mar,Qtr1,UA,UA - Ukraine,NO,NO - Norway,EU/EEA/EC non AIB Member,1269
+EECS-Electricity,2019-03,2019,Mar,Qtr1,US,US - United States of America,NO,NO - Norway,Other,750
+EECS-Electricity,2019-04,2019,Apr,Qtr2,AL,AL - Albania,NO,NO - Norway,EU/EEA/EC non AIB Member,18000
+EECS-Electricity,2019-04,2019,Apr,Qtr2,AT,AT - Austria,AT,AT - Austria,AIB Member own country,39478842
+EECS-Electricity,2019-04,2019,Apr,Qtr2,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,926026
+EECS-Electricity,2019-04,2019,Apr,Qtr2,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,944383
+EECS-Electricity,2019-04,2019,Apr,Qtr2,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,25119
+EECS-Electricity,2019-04,2019,Apr,Qtr2,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,755
+EECS-Electricity,2019-04,2019,Apr,Qtr2,BR,BR - Brazil,NO,NO - Norway,Other,1000
+EECS-Electricity,2019-04,2019,Apr,Qtr2,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,15637916
+EECS-Electricity,2019-04,2019,Apr,Qtr2,CL,CL - Chile,NO,NO - Norway,Other,45980
+EECS-Electricity,2019-04,2019,Apr,Qtr2,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,29427
+EECS-Electricity,2019-04,2019,Apr,Qtr2,DE,DE - Germany,DE,DE - Germany,AIB Member own country,17827675
+EECS-Electricity,2019-04,2019,Apr,Qtr2,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,21475
+EECS-Electricity,2019-04,2019,Apr,Qtr2,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,33003
+EECS-Electricity,2019-04,2019,Apr,Qtr2,FI,FI - Finland,FI,FI - Finland,AIB Member own country,720760
+EECS-Electricity,2019-04,2019,Apr,Qtr2,FR,FR - France,FR,FR - France,AIB Member own country,6607302
+EECS-Electricity,2019-04,2019,Apr,Qtr2,GB,GB - United Kingdom,DK,DK - Denmark,Other,295213
+EECS-Electricity,2019-04,2019,Apr,Qtr2,GB,GB - United Kingdom,NL,NL - Netherlands,Other,654552
+EECS-Electricity,2019-04,2019,Apr,Qtr2,GB,GB - United Kingdom,NO,NO - Norway,Other,2017927
+EECS-Electricity,2019-04,2019,Apr,Qtr2,GB,GB - United Kingdom,SE,SE - Sweden,Other,12221
+EECS-Electricity,2019-04,2019,Apr,Qtr2,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,117618
+EECS-Electricity,2019-04,2019,Apr,Qtr2,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,2
+EECS-Electricity,2019-04,2019,Apr,Qtr2,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,989
+EECS-Electricity,2019-04,2019,Apr,Qtr2,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,823341
+EECS-Electricity,2019-04,2019,Apr,Qtr2,LV,LV - Latvia,EE,EE - Estonia,Other AIB member,744
+EECS-Electricity,2019-04,2019,Apr,Qtr2,MC,MC - Monaco,FR,FR - France,Other,8
+EECS-Electricity,2019-04,2019,Apr,Qtr2,NL,NL - Netherlands,NL,NL - Netherlands,Other,6897
+EECS-Electricity,2019-04,2019,Apr,Qtr2,NO,NO - Norway,NO,NO - Norway,AIB Member own country,1587192
+EECS-Electricity,2019-04,2019,Apr,Qtr2,PE,PE - Peru,NO,NO - Norway,Other,8000
+EECS-Electricity,2019-04,2019,Apr,Qtr2,PT,PT - Portugal,CH,CH - Switzerland,Other AIB member,563
+EECS-Electricity,2019-04,2019,Apr,Qtr2,PT,PT - Portugal,NO,NO - Norway,Other AIB member,20999
+EECS-Electricity,2019-04,2019,Apr,Qtr2,RS,RS - Serbia,NO,NO - Norway,Other AIB member,4
+EECS-Electricity,2019-04,2019,Apr,Qtr2,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,1874261
+EECS-Electricity,2019-04,2019,Apr,Qtr2,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,17084
+EECS-Electricity,2019-04,2019,Apr,Qtr2,US,US - United States of America,NO,NO - Norway,Other,36000
+EECS-Electricity,2019-05,2019,May,Qtr2,AT,AT - Austria,AT,AT - Austria,AIB Member own country,1536530
+EECS-Electricity,2019-05,2019,May,Qtr2,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,206089
+EECS-Electricity,2019-05,2019,May,Qtr2,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1370576
+EECS-Electricity,2019-05,2019,May,Qtr2,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,443361
+EECS-Electricity,2019-05,2019,May,Qtr2,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,27484856
+EECS-Electricity,2019-05,2019,May,Qtr2,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,25375
+EECS-Electricity,2019-05,2019,May,Qtr2,DE,DE - Germany,DE,DE - Germany,AIB Member own country,6643218
+EECS-Electricity,2019-05,2019,May,Qtr2,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,20856
+EECS-Electricity,2019-05,2019,May,Qtr2,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,12189
+EECS-Electricity,2019-05,2019,May,Qtr2,FI,FI - Finland,FI,FI - Finland,AIB Member own country,311956
+EECS-Electricity,2019-05,2019,May,Qtr2,FR,FR - France,FR,FR - France,AIB Member own country,2095409
+EECS-Electricity,2019-05,2019,May,Qtr2,GB,GB - United Kingdom,CH,CH - Switzerland,Other,328586
+EECS-Electricity,2019-05,2019,May,Qtr2,GB,GB - United Kingdom,DK,DK - Denmark,Other,1684881
+EECS-Electricity,2019-05,2019,May,Qtr2,GB,GB - United Kingdom,EE,EE - Estonia,Other,48
+EECS-Electricity,2019-05,2019,May,Qtr2,GB,GB - United Kingdom,NL,NL - Netherlands,Other,1023881
+EECS-Electricity,2019-05,2019,May,Qtr2,GB,GB - United Kingdom,NO,NO - Norway,Other,4341897
+EECS-Electricity,2019-05,2019,May,Qtr2,GB,GB - United Kingdom,SE,SE - Sweden,Other,47258
+EECS-Electricity,2019-05,2019,May,Qtr2,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,92649
+EECS-Electricity,2019-05,2019,May,Qtr2,IT,IT - Italy,IT,IT - Italy,AIB Member own country,7197
+EECS-Electricity,2019-05,2019,May,Qtr2,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,2
+EECS-Electricity,2019-05,2019,May,Qtr2,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,320
+EECS-Electricity,2019-05,2019,May,Qtr2,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,1085053
+EECS-Electricity,2019-05,2019,May,Qtr2,LV,LV - Latvia,EE,EE - Estonia,Other AIB member,1112
+EECS-Electricity,2019-05,2019,May,Qtr2,LV,LV - Latvia,FI,FI - Finland,Other AIB member,26
+EECS-Electricity,2019-05,2019,May,Qtr2,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,4417810
+EECS-Electricity,2019-05,2019,May,Qtr2,NO,NO - Norway,NO,NO - Norway,AIB Member own country,534926
+EECS-Electricity,2019-05,2019,May,Qtr2,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,3074003
+EECS-Electricity,2019-05,2019,May,Qtr2,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,13258
+EECS-Electricity,2019-06,2019,Jun,Qtr2,AT,AT - Austria,AT,AT - Austria,AIB Member own country,160125
+EECS-Electricity,2019-06,2019,Jun,Qtr2,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,544698
+EECS-Electricity,2019-06,2019,Jun,Qtr2,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1341709
+EECS-Electricity,2019-06,2019,Jun,Qtr2,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,36363
+EECS-Electricity,2019-06,2019,Jun,Qtr2,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,752486
+EECS-Electricity,2019-06,2019,Jun,Qtr2,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,9576
+EECS-Electricity,2019-06,2019,Jun,Qtr2,DE,DE - Germany,DE,DE - Germany,AIB Member own country,4664211
+EECS-Electricity,2019-06,2019,Jun,Qtr2,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,22812
+EECS-Electricity,2019-06,2019,Jun,Qtr2,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,6090
+EECS-Electricity,2019-06,2019,Jun,Qtr2,FI,FI - Finland,FI,FI - Finland,AIB Member own country,443609
+EECS-Electricity,2019-06,2019,Jun,Qtr2,FR,FR - France,FR,FR - France,AIB Member own country,2135830
+EECS-Electricity,2019-06,2019,Jun,Qtr2,GB,GB - United Kingdom,CH,CH - Switzerland,Other,225304
+EECS-Electricity,2019-06,2019,Jun,Qtr2,GB,GB - United Kingdom,DK,DK - Denmark,Other,36062
+EECS-Electricity,2019-06,2019,Jun,Qtr2,GB,GB - United Kingdom,NL,NL - Netherlands,Other,473530
+EECS-Electricity,2019-06,2019,Jun,Qtr2,GB,GB - United Kingdom,NO,NO - Norway,Other,20872677
+EECS-Electricity,2019-06,2019,Jun,Qtr2,GR,GR - Greece,NO,NO - Norway,Other AIB member,7481
+EECS-Electricity,2019-06,2019,Jun,Qtr2,HU,HU - Hungary,CH,CH - Switzerland,Other AIB member,19000
+EECS-Electricity,2019-06,2019,Jun,Qtr2,HU,HU - Hungary,NO,NO - Norway,Other AIB member,3525
+EECS-Electricity,2019-06,2019,Jun,Qtr2,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,713889
+EECS-Electricity,2019-06,2019,Jun,Qtr2,IS,IS - Iceland,IS,IS - Iceland,AIB Member own country,100
+EECS-Electricity,2019-06,2019,Jun,Qtr2,IT,IT - Italy,IT,IT - Italy,AIB Member own country,164339
+EECS-Electricity,2019-06,2019,Jun,Qtr2,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,2
+EECS-Electricity,2019-06,2019,Jun,Qtr2,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,10334
+EECS-Electricity,2019-06,2019,Jun,Qtr2,LV,LV - Latvia,EE,EE - Estonia,Other AIB member,1086
+EECS-Electricity,2019-06,2019,Jun,Qtr2,LV,LV - Latvia,NO,NO - Norway,Other AIB member,1125
+EECS-Electricity,2019-06,2019,Jun,Qtr2,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,3901231
+EECS-Electricity,2019-06,2019,Jun,Qtr2,NO,NO - Norway,NO,NO - Norway,AIB Member own country,2562487
+EECS-Electricity,2019-06,2019,Jun,Qtr2,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,11080
+EECS-Electricity,2019-06,2019,Jun,Qtr2,PT,PT - Portugal,CH,CH - Switzerland,Other AIB member,2125
+EECS-Electricity,2019-06,2019,Jun,Qtr2,PT,PT - Portugal,NO,NO - Norway,Other AIB member,2
+EECS-Electricity,2019-06,2019,Jun,Qtr2,RU,RU - Russian Federation,FI,FI - Finland,Other,31000
+EECS-Electricity,2019-06,2019,Jun,Qtr2,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,3458640
+EECS-Electricity,2019-06,2019,Jun,Qtr2,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,4149
+EECS-Electricity,2019-07,2019,Jul,Qtr3,AT,AT - Austria,AT,AT - Austria,AIB Member own country,359692
+EECS-Electricity,2019-07,2019,Jul,Qtr3,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,110904
+EECS-Electricity,2019-07,2019,Jul,Qtr3,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1033011
+EECS-Electricity,2019-07,2019,Jul,Qtr3,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,182359
+EECS-Electricity,2019-07,2019,Jul,Qtr3,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,7338
+EECS-Electricity,2019-07,2019,Jul,Qtr3,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,371574
+EECS-Electricity,2019-07,2019,Jul,Qtr3,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,31535
+EECS-Electricity,2019-07,2019,Jul,Qtr3,DE,DE - Germany,DE,DE - Germany,AIB Member own country,4138310
+EECS-Electricity,2019-07,2019,Jul,Qtr3,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,482882
+EECS-Electricity,2019-07,2019,Jul,Qtr3,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,12535
+EECS-Electricity,2019-07,2019,Jul,Qtr3,FI,FI - Finland,FI,FI - Finland,AIB Member own country,246550
+EECS-Electricity,2019-07,2019,Jul,Qtr3,FR,FR - France,FR,FR - France,AIB Member own country,3101273
+EECS-Electricity,2019-07,2019,Jul,Qtr3,GB,GB - United Kingdom,NO,NO - Norway,Other,265
+EECS-Electricity,2019-07,2019,Jul,Qtr3,GR,GR - Greece,NO,NO - Norway,Other AIB member,11762
+EECS-Electricity,2019-07,2019,Jul,Qtr3,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,442
+EECS-Electricity,2019-07,2019,Jul,Qtr3,HU,HU - Hungary,NO,NO - Norway,Other AIB member,67289
+EECS-Electricity,2019-07,2019,Jul,Qtr3,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,105411
+EECS-Electricity,2019-07,2019,Jul,Qtr3,IT,IT - Italy,IT,IT - Italy,AIB Member own country,70656
+EECS-Electricity,2019-07,2019,Jul,Qtr3,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,2
+EECS-Electricity,2019-07,2019,Jul,Qtr3,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,352
+EECS-Electricity,2019-07,2019,Jul,Qtr3,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,20000
+EECS-Electricity,2019-07,2019,Jul,Qtr3,LV,LV - Latvia,NO,NO - Norway,Other AIB member,1066
+EECS-Electricity,2019-07,2019,Jul,Qtr3,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,3451900
+EECS-Electricity,2019-07,2019,Jul,Qtr3,NO,NO - Norway,NO,NO - Norway,AIB Member own country,1590050
+EECS-Electricity,2019-07,2019,Jul,Qtr3,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,7732
+EECS-Electricity,2019-07,2019,Jul,Qtr3,PT,PT - Portugal,NO,NO - Norway,Other AIB member,13082
+EECS-Electricity,2019-07,2019,Jul,Qtr3,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,19551
+EECS-Electricity,2019-07,2019,Jul,Qtr3,RS,RS - Serbia,NO,NO - Norway,Other AIB member,6619
+EECS-Electricity,2019-07,2019,Jul,Qtr3,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,2851957
+EECS-Electricity,2019-07,2019,Jul,Qtr3,SK,SK - Slovakia,NO,NO - Norway,Other AIB member,5764
+EECS-Electricity,2019-08,2019,Aug,Qtr3,AT,AT - Austria,AT,AT - Austria,AIB Member own country,45913
+EECS-Electricity,2019-08,2019,Aug,Qtr3,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,173094
+EECS-Electricity,2019-08,2019,Aug,Qtr3,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1087434
+EECS-Electricity,2019-08,2019,Aug,Qtr3,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,281405
+EECS-Electricity,2019-08,2019,Aug,Qtr3,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,430464
+EECS-Electricity,2019-08,2019,Aug,Qtr3,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,22889
+EECS-Electricity,2019-08,2019,Aug,Qtr3,DE,DE - Germany,DE,DE - Germany,AIB Member own country,2125155
+EECS-Electricity,2019-08,2019,Aug,Qtr3,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,74085
+EECS-Electricity,2019-08,2019,Aug,Qtr3,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,19684
+EECS-Electricity,2019-08,2019,Aug,Qtr3,FI,FI - Finland,FI,FI - Finland,AIB Member own country,823285
+EECS-Electricity,2019-08,2019,Aug,Qtr3,FR,FR - France,FR,FR - France,AIB Member own country,1223648
+EECS-Electricity,2019-08,2019,Aug,Qtr3,GB,GB - United Kingdom,NO,NO - Norway,Other,109583
+EECS-Electricity,2019-08,2019,Aug,Qtr3,HU,HU - Hungary,CH,CH - Switzerland,Other AIB member,184500
+EECS-Electricity,2019-08,2019,Aug,Qtr3,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,410343
+EECS-Electricity,2019-08,2019,Aug,Qtr3,IT,IT - Italy,IT,IT - Italy,AIB Member own country,17169
+EECS-Electricity,2019-08,2019,Aug,Qtr3,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,2
+EECS-Electricity,2019-08,2019,Aug,Qtr3,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,351821
+EECS-Electricity,2019-08,2019,Aug,Qtr3,LV,LV - Latvia,NO,NO - Norway,Other AIB member,811
+EECS-Electricity,2019-08,2019,Aug,Qtr3,MY,MY - Malaysia,DK,DK - Denmark,Other,1
+EECS-Electricity,2019-08,2019,Aug,Qtr3,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,3207494
+EECS-Electricity,2019-08,2019,Aug,Qtr3,NO,NO - Norway,NO,NO - Norway,AIB Member own country,1358921
+EECS-Electricity,2019-08,2019,Aug,Qtr3,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,7039
+EECS-Electricity,2019-08,2019,Aug,Qtr3,PT,PT - Portugal,CH,CH - Switzerland,Other AIB member,174
+EECS-Electricity,2019-08,2019,Aug,Qtr3,RU,RU - Russian Federation,NO,NO - Norway,Other,50900
+EECS-Electricity,2019-08,2019,Aug,Qtr3,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,3568678
+EECS-Electricity,2019-08,2019,Aug,Qtr3,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,2045
+EECS-Electricity,2019-09,2019,Sep,Qtr3,AT,AT - Austria,AT,AT - Austria,AIB Member own country,7214
+EECS-Electricity,2019-09,2019,Sep,Qtr3,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,102419
+EECS-Electricity,2019-09,2019,Sep,Qtr3,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,610642
+EECS-Electricity,2019-09,2019,Sep,Qtr3,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,75376
+EECS-Electricity,2019-09,2019,Sep,Qtr3,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,4688
+EECS-Electricity,2019-09,2019,Sep,Qtr3,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,206917
+EECS-Electricity,2019-09,2019,Sep,Qtr3,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,29414
+EECS-Electricity,2019-09,2019,Sep,Qtr3,DE,DE - Germany,DE,DE - Germany,AIB Member own country,2596985
+EECS-Electricity,2019-09,2019,Sep,Qtr3,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,45400
+EECS-Electricity,2019-09,2019,Sep,Qtr3,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,8584
+EECS-Electricity,2019-09,2019,Sep,Qtr3,FI,FI - Finland,FI,FI - Finland,AIB Member own country,2287551
+EECS-Electricity,2019-09,2019,Sep,Qtr3,FR,FR - France,FR,FR - France,AIB Member own country,1691023
+EECS-Electricity,2019-09,2019,Sep,Qtr3,GB,GB - United Kingdom,NO,NO - Norway,Other,64710
+EECS-Electricity,2019-09,2019,Sep,Qtr3,GR,GR - Greece,NO,NO - Norway,Other AIB member,7137
+EECS-Electricity,2019-09,2019,Sep,Qtr3,HU,HU - Hungary,NO,NO - Norway,Other AIB member,7358
+EECS-Electricity,2019-09,2019,Sep,Qtr3,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,39510
+EECS-Electricity,2019-09,2019,Sep,Qtr3,IT,IT - Italy,IT,IT - Italy,AIB Member own country,2403
+EECS-Electricity,2019-09,2019,Sep,Qtr3,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,1
+EECS-Electricity,2019-09,2019,Sep,Qtr3,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,116444
+EECS-Electricity,2019-09,2019,Sep,Qtr3,LV,LV - Latvia,EE,EE - Estonia,Other AIB member,110
+EECS-Electricity,2019-09,2019,Sep,Qtr3,LV,LV - Latvia,NO,NO - Norway,Other AIB member,4772
+EECS-Electricity,2019-09,2019,Sep,Qtr3,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,3178482
+EECS-Electricity,2019-09,2019,Sep,Qtr3,NO,NO - Norway,NO,NO - Norway,AIB Member own country,2778915
+EECS-Electricity,2019-09,2019,Sep,Qtr3,PL,PL - Poland,FI,FI - Finland,EU/EEA/EC non AIB Member,7500
+EECS-Electricity,2019-09,2019,Sep,Qtr3,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,36601
+EECS-Electricity,2019-09,2019,Sep,Qtr3,PT,PT - Portugal,NO,NO - Norway,Other AIB member,2000
+EECS-Electricity,2019-09,2019,Sep,Qtr3,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,11942
+EECS-Electricity,2019-09,2019,Sep,Qtr3,RS,RS - Serbia,NO,NO - Norway,Other AIB member,3923
+EECS-Electricity,2019-09,2019,Sep,Qtr3,RU,RU - Russian Federation,NO,NO - Norway,Other,30091
+EECS-Electricity,2019-09,2019,Sep,Qtr3,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,3481563
+EECS-Electricity,2019-09,2019,Sep,Qtr3,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,18641
+EECS-Electricity,2019-09,2019,Sep,Qtr3,SK,SK - Slovakia,NO,NO - Norway,Other AIB member,3251
+EECS-Electricity,2019-10,2019,Oct,Qtr4,AT,AT - Austria,AT,AT - Austria,AIB Member own country,609
+EECS-Electricity,2019-10,2019,Oct,Qtr4,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,145445
+EECS-Electricity,2019-10,2019,Oct,Qtr4,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,2079873
+EECS-Electricity,2019-10,2019,Oct,Qtr4,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,1104577
+EECS-Electricity,2019-10,2019,Oct,Qtr4,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,1250
+EECS-Electricity,2019-10,2019,Oct,Qtr4,BG,BG - Bulgaria,FI,FI - Finland,EU/EEA/EC non AIB Member,22
+EECS-Electricity,2019-10,2019,Oct,Qtr4,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,885892
+EECS-Electricity,2019-10,2019,Oct,Qtr4,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,13545
+EECS-Electricity,2019-10,2019,Oct,Qtr4,DE,DE - Germany,DE,DE - Germany,AIB Member own country,3744451
+EECS-Electricity,2019-10,2019,Oct,Qtr4,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,19200
+EECS-Electricity,2019-10,2019,Oct,Qtr4,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,43142
+EECS-Electricity,2019-10,2019,Oct,Qtr4,FI,FI - Finland,FI,FI - Finland,AIB Member own country,1216577
+EECS-Electricity,2019-10,2019,Oct,Qtr4,FR,FR - France,FR,FR - France,AIB Member own country,2042317
+EECS-Electricity,2019-10,2019,Oct,Qtr4,GB,GB - United Kingdom,EE,EE - Estonia,Other,1
+EECS-Electricity,2019-10,2019,Oct,Qtr4,GB,GB - United Kingdom,FI,FI - Finland,Other,28929
+EECS-Electricity,2019-10,2019,Oct,Qtr4,GB,GB - United Kingdom,NO,NO - Norway,Other,19056
+EECS-Electricity,2019-10,2019,Oct,Qtr4,GB,GB - United Kingdom,SE,SE - Sweden,Other,45614
+EECS-Electricity,2019-10,2019,Oct,Qtr4,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,1541
+EECS-Electricity,2019-10,2019,Oct,Qtr4,HU,HU - Hungary,FI,FI - Finland,Other AIB member,21
+EECS-Electricity,2019-10,2019,Oct,Qtr4,HU,HU - Hungary,NO,NO - Norway,Other AIB member,59448
+EECS-Electricity,2019-10,2019,Oct,Qtr4,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,201351
+EECS-Electricity,2019-10,2019,Oct,Qtr4,IT,IT - Italy,IT,IT - Italy,AIB Member own country,149188
+EECS-Electricity,2019-10,2019,Oct,Qtr4,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,1
+EECS-Electricity,2019-10,2019,Oct,Qtr4,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,125471
+EECS-Electricity,2019-10,2019,Oct,Qtr4,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,29079
+EECS-Electricity,2019-10,2019,Oct,Qtr4,LV,LV - Latvia,NO,NO - Norway,Other AIB member,2136
+EECS-Electricity,2019-10,2019,Oct,Qtr4,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,3531015
+EECS-Electricity,2019-10,2019,Oct,Qtr4,NO,NO - Norway,NO,NO - Norway,AIB Member own country,1813680
+EECS-Electricity,2019-10,2019,Oct,Qtr4,PL,PL - Poland,FI,FI - Finland,EU/EEA/EC non AIB Member,4542
+EECS-Electricity,2019-10,2019,Oct,Qtr4,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,2700
+EECS-Electricity,2019-10,2019,Oct,Qtr4,PT,PT - Portugal,NO,NO - Norway,Other AIB member,257299
+EECS-Electricity,2019-10,2019,Oct,Qtr4,RO,RO - Romania,FI,FI - Finland,EU/EEA/EC non AIB Member,14
+EECS-Electricity,2019-10,2019,Oct,Qtr4,RU,RU - Russian Federation,NO,NO - Norway,Other,2589
+EECS-Electricity,2019-10,2019,Oct,Qtr4,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,3202401
+EECS-Electricity,2019-10,2019,Oct,Qtr4,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,3288
+EECS-Electricity,2019-10,2019,Oct,Qtr4,SK,SK - Slovakia,FI,FI - Finland,Other AIB member,7
+EECS-Electricity,2019-10,2019,Oct,Qtr4,US,US - United States of America,NO,NO - Norway,Other,33000
+EECS-Electricity,2019-11,2019,Nov,Qtr4,AT,AT - Austria,AT,AT - Austria,AIB Member own country,4054
+EECS-Electricity,2019-11,2019,Nov,Qtr4,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,373474
+EECS-Electricity,2019-11,2019,Nov,Qtr4,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,935057
+EECS-Electricity,2019-11,2019,Nov,Qtr4,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,235401
+EECS-Electricity,2019-11,2019,Nov,Qtr4,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,240093
+EECS-Electricity,2019-11,2019,Nov,Qtr4,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,25102
+EECS-Electricity,2019-11,2019,Nov,Qtr4,DE,DE - Germany,DE,DE - Germany,AIB Member own country,2753666
+EECS-Electricity,2019-11,2019,Nov,Qtr4,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,92645
+EECS-Electricity,2019-11,2019,Nov,Qtr4,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,49418
+EECS-Electricity,2019-11,2019,Nov,Qtr4,FI,FI - Finland,FI,FI - Finland,AIB Member own country,2036557
+EECS-Electricity,2019-11,2019,Nov,Qtr4,FR,FR - France,FR,FR - France,AIB Member own country,1614771
+EECS-Electricity,2019-11,2019,Nov,Qtr4,GB,GB - United Kingdom,DK,DK - Denmark,Other,125000
+EECS-Electricity,2019-11,2019,Nov,Qtr4,GB,GB - United Kingdom,EE,EE - Estonia,Other,121
+EECS-Electricity,2019-11,2019,Nov,Qtr4,GB,GB - United Kingdom,NO,NO - Norway,Other,1500395
+EECS-Electricity,2019-11,2019,Nov,Qtr4,GR,GR - Greece,NO,NO - Norway,Other AIB member,223
+EECS-Electricity,2019-11,2019,Nov,Qtr4,HU,HU - Hungary,CH,CH - Switzerland,Other AIB member,131853
+EECS-Electricity,2019-11,2019,Nov,Qtr4,HU,HU - Hungary,NO,NO - Norway,Other AIB member,296
+EECS-Electricity,2019-11,2019,Nov,Qtr4,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,1245970
+EECS-Electricity,2019-11,2019,Nov,Qtr4,IT,IT - Italy,IT,IT - Italy,AIB Member own country,125791
+EECS-Electricity,2019-11,2019,Nov,Qtr4,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,1
+EECS-Electricity,2019-11,2019,Nov,Qtr4,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,152498
+EECS-Electricity,2019-11,2019,Nov,Qtr4,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,5000
+EECS-Electricity,2019-11,2019,Nov,Qtr4,LV,LV - Latvia,NO,NO - Norway,Other AIB member,1193
+EECS-Electricity,2019-11,2019,Nov,Qtr4,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,4050833
+EECS-Electricity,2019-11,2019,Nov,Qtr4,NO,NO - Norway,NO,NO - Norway,AIB Member own country,1805429
+EECS-Electricity,2019-11,2019,Nov,Qtr4,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,14072
+EECS-Electricity,2019-11,2019,Nov,Qtr4,PT,PT - Portugal,NO,NO - Norway,Other AIB member,9768
+EECS-Electricity,2019-11,2019,Nov,Qtr4,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,33
+EECS-Electricity,2019-11,2019,Nov,Qtr4,RU,RU - Russian Federation,NO,NO - Norway,Other,652
+EECS-Electricity,2019-11,2019,Nov,Qtr4,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,3141542
+EECS-Electricity,2019-11,2019,Nov,Qtr4,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,4156
+EECS-Electricity,2019-11,2019,Nov,Qtr4,US,US - United States of America,NO,NO - Norway,Other,226875
+EECS-Electricity,2019-12,2019,Dec,Qtr4,AL,AL - Albania,NO,NO - Norway,EU/EEA/EC non AIB Member,16
+EECS-Electricity,2019-12,2019,Dec,Qtr4,AT,AT - Austria,AT,AT - Austria,AIB Member own country,5886243
+EECS-Electricity,2019-12,2019,Dec,Qtr4,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,25171
+EECS-Electricity,2019-12,2019,Dec,Qtr4,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1210828
+EECS-Electricity,2019-12,2019,Dec,Qtr4,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,261706
+EECS-Electricity,2019-12,2019,Dec,Qtr4,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,54
+EECS-Electricity,2019-12,2019,Dec,Qtr4,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,139652
+EECS-Electricity,2019-12,2019,Dec,Qtr4,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,62108
+EECS-Electricity,2019-12,2019,Dec,Qtr4,DE,DE - Germany,DE,DE - Germany,AIB Member own country,6873859
+EECS-Electricity,2019-12,2019,Dec,Qtr4,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,327187
+EECS-Electricity,2019-12,2019,Dec,Qtr4,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,48811
+EECS-Electricity,2019-12,2019,Dec,Qtr4,FI,FI - Finland,FI,FI - Finland,AIB Member own country,2597312
+EECS-Electricity,2019-12,2019,Dec,Qtr4,FR,FR - France,FR,FR - France,AIB Member own country,1816050
+EECS-Electricity,2019-12,2019,Dec,Qtr4,GB,GB - United Kingdom,CH,CH - Switzerland,Other,7558
+EECS-Electricity,2019-12,2019,Dec,Qtr4,GB,GB - United Kingdom,DK,DK - Denmark,Other,236673
+EECS-Electricity,2019-12,2019,Dec,Qtr4,GB,GB - United Kingdom,EE,EE - Estonia,Other,1879
+EECS-Electricity,2019-12,2019,Dec,Qtr4,GB,GB - United Kingdom,NO,NO - Norway,Other,5484215
+EECS-Electricity,2019-12,2019,Dec,Qtr4,GB,GB - United Kingdom,SE,SE - Sweden,Other,3279
+EECS-Electricity,2019-12,2019,Dec,Qtr4,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,2975
+EECS-Electricity,2019-12,2019,Dec,Qtr4,HU,HU - Hungary,FR,FR - France,Other AIB member,41904
+EECS-Electricity,2019-12,2019,Dec,Qtr4,HU,HU - Hungary,NO,NO - Norway,Other AIB member,104653
+EECS-Electricity,2019-12,2019,Dec,Qtr4,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,61397
+EECS-Electricity,2019-12,2019,Dec,Qtr4,IL,IL - Israel,NO,NO - Norway,Other,500
+EECS-Electricity,2019-12,2019,Dec,Qtr4,IT,IT - Italy,BE,BEW - Belgium (Wallonia),Other AIB member,100000
+EECS-Electricity,2019-12,2019,Dec,Qtr4,IT,IT - Italy,IT,IT - Italy,AIB Member own country,574364
+EECS-Electricity,2019-12,2019,Dec,Qtr4,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,1
+EECS-Electricity,2019-12,2019,Dec,Qtr4,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,187875
+EECS-Electricity,2019-12,2019,Dec,Qtr4,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,130777
+EECS-Electricity,2019-12,2019,Dec,Qtr4,LV,LV - Latvia,EE,EE - Estonia,Other AIB member,392
+EECS-Electricity,2019-12,2019,Dec,Qtr4,MK,MK - Macedonia,NO,NO - Norway,Other,150
+EECS-Electricity,2019-12,2019,Dec,Qtr4,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,5991241
+EECS-Electricity,2019-12,2019,Dec,Qtr4,NO,NO - Norway,NO,NO - Norway,AIB Member own country,1378231
+EECS-Electricity,2019-12,2019,Dec,Qtr4,PL,PL - Poland,FR,FR - France,EU/EEA/EC non AIB Member,130948
+EECS-Electricity,2019-12,2019,Dec,Qtr4,PL,PL - Poland,NL,NL - Netherlands,EU/EEA/EC non AIB Member,10521
+EECS-Electricity,2019-12,2019,Dec,Qtr4,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,58936
+EECS-Electricity,2019-12,2019,Dec,Qtr4,PT,PT - Portugal,CH,CH - Switzerland,Other AIB member,7265
+EECS-Electricity,2019-12,2019,Dec,Qtr4,PT,PT - Portugal,NO,NO - Norway,Other AIB member,530468
+EECS-Electricity,2019-12,2019,Dec,Qtr4,RO,RO - Romania,FR,FR - France,EU/EEA/EC non AIB Member,74248
+EECS-Electricity,2019-12,2019,Dec,Qtr4,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,30
+EECS-Electricity,2019-12,2019,Dec,Qtr4,RS,RS - Serbia,NO,NO - Norway,Other AIB member,163
+EECS-Electricity,2019-12,2019,Dec,Qtr4,RU,RU - Russian Federation,FI,FI - Finland,Other,5000
+EECS-Electricity,2019-12,2019,Dec,Qtr4,RU,RU - Russian Federation,NO,NO - Norway,Other,1272
+EECS-Electricity,2019-12,2019,Dec,Qtr4,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,4426821
+EECS-Electricity,2019-12,2019,Dec,Qtr4,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,215
+EECS-Electricity,2019-12,2019,Dec,Qtr4,SK,SK - Slovakia,CZ,CZ - Czech Republic,Other AIB member,109000
+EECS-Electricity,2019-12,2019,Dec,Qtr4,SK,SK - Slovakia,NO,NO - Norway,Other AIB member,67
+EECS-Electricity,2019-12,2019,Dec,Qtr4,UA,UA - Ukraine,NO,NO - Norway,EU/EEA/EC non AIB Member,385
+EECS-Electricity,2020-01,2020,Jan,Qtr1,AT,AT - Austria,AT,AT - Austria,AIB Member own country,922814
+EECS-Electricity,2020-01,2020,Jan,Qtr1,BA,BA - Bosnia and Herzegovina,NO,NO - Norway,EU/EEA/EC non AIB Member,144
+EECS-Electricity,2020-01,2020,Jan,Qtr1,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,483570
+EECS-Electricity,2020-01,2020,Jan,Qtr1,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1045375
+EECS-Electricity,2020-01,2020,Jan,Qtr1,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,89907
+EECS-Electricity,2020-01,2020,Jan,Qtr1,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,5411
+EECS-Electricity,2020-01,2020,Jan,Qtr1,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,766855
+EECS-Electricity,2020-01,2020,Jan,Qtr1,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,111145
+EECS-Electricity,2020-01,2020,Jan,Qtr1,DE,DE - Germany,DE,DE - Germany,AIB Member own country,25612876
+EECS-Electricity,2020-01,2020,Jan,Qtr1,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,1420016
+EECS-Electricity,2020-01,2020,Jan,Qtr1,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,55596
+EECS-Electricity,2020-01,2020,Jan,Qtr1,FI,FI - Finland,FI,FI - Finland,AIB Member own country,3325027
+EECS-Electricity,2020-01,2020,Jan,Qtr1,FR,FR - France,FR,FR - France,AIB Member own country,6128319
+EECS-Electricity,2020-01,2020,Jan,Qtr1,GB,GB - United Kingdom,NO,NO - Norway,Other,135088
+EECS-Electricity,2020-01,2020,Jan,Qtr1,GR,GR - Greece,DK,DK - Denmark,Other AIB member,591
+EECS-Electricity,2020-01,2020,Jan,Qtr1,GR,GR - Greece,NO,NO - Norway,Other AIB member,1974
+EECS-Electricity,2020-01,2020,Jan,Qtr1,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,487975
+EECS-Electricity,2020-01,2020,Jan,Qtr1,HU,HU - Hungary,CZ,CZ - Czech Republic,Other AIB member,72108
+EECS-Electricity,2020-01,2020,Jan,Qtr1,HU,HU - Hungary,DK,DK - Denmark,Other AIB member,591
+EECS-Electricity,2020-01,2020,Jan,Qtr1,HU,HU - Hungary,NO,NO - Norway,Other AIB member,27642
+EECS-Electricity,2020-01,2020,Jan,Qtr1,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,75289
+EECS-Electricity,2020-01,2020,Jan,Qtr1,IS,IS - Iceland,IS,IS - Iceland,AIB Member own country,254423
+EECS-Electricity,2020-01,2020,Jan,Qtr1,IT,IT - Italy,IT,IT - Italy,AIB Member own country,4630698
+EECS-Electricity,2020-01,2020,Jan,Qtr1,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,1
+EECS-Electricity,2020-01,2020,Jan,Qtr1,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,53994
+EECS-Electricity,2020-01,2020,Jan,Qtr1,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,732083
+EECS-Electricity,2020-01,2020,Jan,Qtr1,LV,LV - Latvia,EE,EE - Estonia,Other AIB member,1869
+EECS-Electricity,2020-01,2020,Jan,Qtr1,LV,LV - Latvia,NO,NO - Norway,Other AIB member,2288
+EECS-Electricity,2020-01,2020,Jan,Qtr1,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,5101853
+EECS-Electricity,2020-01,2020,Jan,Qtr1,NO,NO - Norway,NO,NO - Norway,AIB Member own country,3291531
+EECS-Electricity,2020-01,2020,Jan,Qtr1,PL,PL - Poland,CH,CH - Switzerland,EU/EEA/EC non AIB Member,1
+EECS-Electricity,2020-01,2020,Jan,Qtr1,PL,PL - Poland,DK,DK - Denmark,EU/EEA/EC non AIB Member,591
+EECS-Electricity,2020-01,2020,Jan,Qtr1,PL,PL - Poland,NL,NL - Netherlands,EU/EEA/EC non AIB Member,517101
+EECS-Electricity,2020-01,2020,Jan,Qtr1,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,93503
+EECS-Electricity,2020-01,2020,Jan,Qtr1,PT,PT - Portugal,CH,CH - Switzerland,Other AIB member,1500
+EECS-Electricity,2020-01,2020,Jan,Qtr1,PT,PT - Portugal,DK,DK - Denmark,Other AIB member,591
+EECS-Electricity,2020-01,2020,Jan,Qtr1,PT,PT - Portugal,NO,NO - Norway,Other AIB member,247656
+EECS-Electricity,2020-01,2020,Jan,Qtr1,RO,RO - Romania,DK,DK - Denmark,EU/EEA/EC non AIB Member,1182
+EECS-Electricity,2020-01,2020,Jan,Qtr1,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,3432
+EECS-Electricity,2020-01,2020,Jan,Qtr1,RS,RS - Serbia,NO,NO - Norway,Other AIB member,21251
+EECS-Electricity,2020-01,2020,Jan,Qtr1,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,979
+EECS-Electricity,2020-01,2020,Jan,Qtr1,RU,RU - Russian Federation,NO,NO - Norway,Other,19333
+EECS-Electricity,2020-01,2020,Jan,Qtr1,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,10260480
+EECS-Electricity,2020-01,2020,Jan,Qtr1,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,44001
+EECS-Electricity,2020-01,2020,Jan,Qtr1,SK,SK - Slovakia,CZ,CZ - Czech Republic,Other AIB member,6813
+EECS-Electricity,2020-01,2020,Jan,Qtr1,SK,SK - Slovakia,FR,FR - France,Other AIB member,198810
+EECS-Electricity,2020-01,2020,Jan,Qtr1,SK,SK - Slovakia,NO,NO - Norway,Other AIB member,1155
+EECS-Electricity,2020-01,2020,Jan,Qtr1,UA,UA - Ukraine,NO,NO - Norway,EU/EEA/EC non AIB Member,1524
+EECS-Electricity,2020-01,2020,Jan,Qtr1,US,US - United States of America,NO,NO - Norway,Other,119100
+EECS-Electricity,2020-02,2020,Feb,Qtr1,AT,AT - Austria,AT,AT - Austria,AIB Member own country,478404
+EECS-Electricity,2020-02,2020,Feb,Qtr1,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,104662
+EECS-Electricity,2020-02,2020,Feb,Qtr1,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1194975
+EECS-Electricity,2020-02,2020,Feb,Qtr1,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,183306
+EECS-Electricity,2020-02,2020,Feb,Qtr1,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,90
+EECS-Electricity,2020-02,2020,Feb,Qtr1,BG,BG - Bulgaria,DK,DK - Denmark,EU/EEA/EC non AIB Member,154
+EECS-Electricity,2020-02,2020,Feb,Qtr1,BG,BG - Bulgaria,FI,FI - Finland,EU/EEA/EC non AIB Member,1
+EECS-Electricity,2020-02,2020,Feb,Qtr1,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,531738
+EECS-Electricity,2020-02,2020,Feb,Qtr1,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,233921
+EECS-Electricity,2020-02,2020,Feb,Qtr1,DE,DE - Germany,DE,DE - Germany,AIB Member own country,11511642
+EECS-Electricity,2020-02,2020,Feb,Qtr1,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,2199069
+EECS-Electricity,2020-02,2020,Feb,Qtr1,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,12120
+EECS-Electricity,2020-02,2020,Feb,Qtr1,ES,ES - Spain,ES,ES - Spain,AIB Member own country,5005
+EECS-Electricity,2020-02,2020,Feb,Qtr1,FI,FI - Finland,FI,FI - Finland,AIB Member own country,2526659
+EECS-Electricity,2020-02,2020,Feb,Qtr1,FR,FR - France,FR,FR - France,AIB Member own country,4743375
+EECS-Electricity,2020-02,2020,Feb,Qtr1,GB,GB - United Kingdom,DK,DK - Denmark,Other,28432
+EECS-Electricity,2020-02,2020,Feb,Qtr1,GB,GB - United Kingdom,NO,NO - Norway,Other,97853
+EECS-Electricity,2020-02,2020,Feb,Qtr1,HU,HU - Hungary,CZ,CZ - Czech Republic,Other AIB member,403000
+EECS-Electricity,2020-02,2020,Feb,Qtr1,HU,HU - Hungary,DK,DK - Denmark,Other AIB member,4767
+EECS-Electricity,2020-02,2020,Feb,Qtr1,HU,HU - Hungary,NO,NO - Norway,Other AIB member,26109
+EECS-Electricity,2020-02,2020,Feb,Qtr1,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,535605
+EECS-Electricity,2020-02,2020,Feb,Qtr1,IS,IS - Iceland,IS,IS - Iceland,AIB Member own country,2183623
+EECS-Electricity,2020-02,2020,Feb,Qtr1,IT,IT - Italy,IT,IT - Italy,AIB Member own country,5008109
+EECS-Electricity,2020-02,2020,Feb,Qtr1,KZ,KZ - Kazakhstan,NO,NO - Norway,Other,631
+EECS-Electricity,2020-02,2020,Feb,Qtr1,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,1
+EECS-Electricity,2020-02,2020,Feb,Qtr1,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,5932
+EECS-Electricity,2020-02,2020,Feb,Qtr1,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,457298
+EECS-Electricity,2020-02,2020,Feb,Qtr1,LV,LV - Latvia,EE,EE - Estonia,Other AIB member,932
+EECS-Electricity,2020-02,2020,Feb,Qtr1,MC,MC - Monaco,DK,DK - Denmark,Other,8
+EECS-Electricity,2020-02,2020,Feb,Qtr1,NL,NL - Netherlands,NL,NL - Netherlands,Other,6897
+EECS-Electricity,2020-02,2020,Feb,Qtr1,NO,NO - Norway,NO,NO - Norway,AIB Member own country,2936787
+EECS-Electricity,2020-02,2020,Feb,Qtr1,PL,PL - Poland,DK,DK - Denmark,EU/EEA/EC non AIB Member,5502
+EECS-Electricity,2020-02,2020,Feb,Qtr1,PL,PL - Poland,FR,FR - France,EU/EEA/EC non AIB Member,63
+EECS-Electricity,2020-02,2020,Feb,Qtr1,PL,PL - Poland,NL,NL - Netherlands,EU/EEA/EC non AIB Member,16566
+EECS-Electricity,2020-02,2020,Feb,Qtr1,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,24892
+EECS-Electricity,2020-02,2020,Feb,Qtr1,PT,PT - Portugal,DK,DK - Denmark,Other AIB member,137
+EECS-Electricity,2020-02,2020,Feb,Qtr1,PT,PT - Portugal,FR,FR - France,Other AIB member,226
+EECS-Electricity,2020-02,2020,Feb,Qtr1,PT,PT - Portugal,NO,NO - Norway,Other AIB member,44237
+EECS-Electricity,2020-02,2020,Feb,Qtr1,RO,RO - Romania,DK,DK - Denmark,EU/EEA/EC non AIB Member,1199
+EECS-Electricity,2020-02,2020,Feb,Qtr1,RS,RS - Serbia,NO,NO - Norway,Other AIB member,80
+EECS-Electricity,2020-02,2020,Feb,Qtr1,RU,RU - Russian Federation,NO,NO - Norway,Other,19360
+EECS-Electricity,2020-02,2020,Feb,Qtr1,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,5254386
+EECS-Electricity,2020-02,2020,Feb,Qtr1,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,29669
+EECS-Electricity,2020-02,2020,Feb,Qtr1,SK,SK - Slovakia,DK,DK - Denmark,Other AIB member,120
+EECS-Electricity,2020-02,2020,Feb,Qtr1,SK,SK - Slovakia,FR,FR - France,Other AIB member,34341
+EECS-Electricity,2020-02,2020,Feb,Qtr1,UA,UA - Ukraine,NO,NO - Norway,EU/EEA/EC non AIB Member,555
+EECS-Electricity,2020-02,2020,Feb,Qtr1,US,US - United States of America,NO,NO - Norway,Other,10416
+EECS-Electricity,2020-03,2020,Mar,Qtr1,AL,AL - Albania,CH,CH - Switzerland,EU/EEA/EC non AIB Member,466
+EECS-Electricity,2020-03,2020,Mar,Qtr1,AL,AL - Albania,NO,NO - Norway,EU/EEA/EC non AIB Member,22377
+EECS-Electricity,2020-03,2020,Mar,Qtr1,AT,AT - Austria,AT,AT - Austria,AIB Member own country,9810246
+EECS-Electricity,2020-03,2020,Mar,Qtr1,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,776291
+EECS-Electricity,2020-03,2020,Mar,Qtr1,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1347553
+EECS-Electricity,2020-03,2020,Mar,Qtr1,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,3141590
+EECS-Electricity,2020-03,2020,Mar,Qtr1,BG,BG - Bulgaria,DK,DK - Denmark,EU/EEA/EC non AIB Member,2
+EECS-Electricity,2020-03,2020,Mar,Qtr1,BR,BR - Brazil,NO,NO - Norway,Other,1907
+EECS-Electricity,2020-03,2020,Mar,Qtr1,BY,BY - Belarus,NO,NO - Norway,Other,31
+EECS-Electricity,2020-03,2020,Mar,Qtr1,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,6901455
+EECS-Electricity,2020-03,2020,Mar,Qtr1,CL,CL - Chile,NO,NO - Norway,Other,58230
+EECS-Electricity,2020-03,2020,Mar,Qtr1,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,35390
+EECS-Electricity,2020-03,2020,Mar,Qtr1,DE,DE - Germany,DE,DE - Germany,AIB Member own country,13332018
+EECS-Electricity,2020-03,2020,Mar,Qtr1,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,1351748
+EECS-Electricity,2020-03,2020,Mar,Qtr1,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,59049
+EECS-Electricity,2020-03,2020,Mar,Qtr1,EE,EE - Estonia,LT,LT - Lithuania,Other AIB member,2456
+EECS-Electricity,2020-03,2020,Mar,Qtr1,ES,ES - Spain,ES,ES - Spain,AIB Member own country,6799201
+EECS-Electricity,2020-03,2020,Mar,Qtr1,FI,FI - Finland,FI,FI - Finland,AIB Member own country,8022077
+EECS-Electricity,2020-03,2020,Mar,Qtr1,FR,FR - France,FR,FR - France,AIB Member own country,16517130
+EECS-Electricity,2020-03,2020,Mar,Qtr1,GB,GB - United Kingdom,DK,DK - Denmark,Other,236647
+EECS-Electricity,2020-03,2020,Mar,Qtr1,GB,GB - United Kingdom,EE,EE - Estonia,Other,25061
+EECS-Electricity,2020-03,2020,Mar,Qtr1,GB,GB - United Kingdom,NO,NO - Norway,Other,6881835
+EECS-Electricity,2020-03,2020,Mar,Qtr1,GB,GB - United Kingdom,SE,SE - Sweden,Other,14903
+EECS-Electricity,2020-03,2020,Mar,Qtr1,GL,GL - Greenland,DK,DK - Denmark,Other,2
+EECS-Electricity,2020-03,2020,Mar,Qtr1,GR,GR - Greece,DK,DK - Denmark,Other AIB member,165
+EECS-Electricity,2020-03,2020,Mar,Qtr1,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,1601852
+EECS-Electricity,2020-03,2020,Mar,Qtr1,HU,HU - Hungary,CH,CH - Switzerland,Other AIB member,19935
+EECS-Electricity,2020-03,2020,Mar,Qtr1,HU,HU - Hungary,DK,DK - Denmark,Other AIB member,3195
+EECS-Electricity,2020-03,2020,Mar,Qtr1,HU,HU - Hungary,NO,NO - Norway,Other AIB member,30439
+EECS-Electricity,2020-03,2020,Mar,Qtr1,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,3860557
+EECS-Electricity,2020-03,2020,Mar,Qtr1,IN,IN - India,NO,NO - Norway,Other,4326
+EECS-Electricity,2020-03,2020,Mar,Qtr1,IS,IS - Iceland,IS,IS - Iceland,AIB Member own country,581845
+EECS-Electricity,2020-03,2020,Mar,Qtr1,IT,IT - Italy,IT,IT - Italy,AIB Member own country,42097038
+EECS-Electricity,2020-03,2020,Mar,Qtr1,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,1
+EECS-Electricity,2020-03,2020,Mar,Qtr1,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,51395
+EECS-Electricity,2020-03,2020,Mar,Qtr1,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,867738
+EECS-Electricity,2020-03,2020,Mar,Qtr1,LV,LV - Latvia,DK,DK - Denmark,Other AIB member,23
+EECS-Electricity,2020-03,2020,Mar,Qtr1,LV,LV - Latvia,EE,EE - Estonia,Other AIB member,2908
+EECS-Electricity,2020-03,2020,Mar,Qtr1,LV,LV - Latvia,LT,LT - Lithuania,Other AIB member,3927
+EECS-Electricity,2020-03,2020,Mar,Qtr1,LV,LV - Latvia,NO,NO - Norway,Other AIB member,1895
+EECS-Electricity,2020-03,2020,Mar,Qtr1,MC,MC - Monaco,FR,FR - France,Other,8
+EECS-Electricity,2020-03,2020,Mar,Qtr1,MK,MK - Macedonia,CH,CH - Switzerland,Other,6897
+EECS-Electricity,2020-03,2020,Mar,Qtr1,MT,MT - Malta,DK,DK - Denmark,EU/EEA/EC non AIB Member,18
+EECS-Electricity,2020-03,2020,Mar,Qtr1,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,10827919
+EECS-Electricity,2020-03,2020,Mar,Qtr1,NO,NO - Norway,NO,NO - Norway,AIB Member own country,3214457
+EECS-Electricity,2020-03,2020,Mar,Qtr1,PL,PL - Poland,CH,CH - Switzerland,EU/EEA/EC non AIB Member,3000
+EECS-Electricity,2020-03,2020,Mar,Qtr1,PL,PL - Poland,DK,DK - Denmark,EU/EEA/EC non AIB Member,3413
+EECS-Electricity,2020-03,2020,Mar,Qtr1,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,12114
+EECS-Electricity,2020-03,2020,Mar,Qtr1,PT,PT - Portugal,CH,CH - Switzerland,Other AIB member,1500
+EECS-Electricity,2020-03,2020,Mar,Qtr1,PT,PT - Portugal,DK,DK - Denmark,Other AIB member,152
+EECS-Electricity,2020-03,2020,Mar,Qtr1,PT,PT - Portugal,FR,FR - France,Other AIB member,34
+EECS-Electricity,2020-03,2020,Mar,Qtr1,PT,PT - Portugal,NO,NO - Norway,Other AIB member,24607
+EECS-Electricity,2020-03,2020,Mar,Qtr1,RO,RO - Romania,DK,DK - Denmark,EU/EEA/EC non AIB Member,333
+EECS-Electricity,2020-03,2020,Mar,Qtr1,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,21068
+EECS-Electricity,2020-03,2020,Mar,Qtr1,RS,RS - Serbia,CH,CH - Switzerland,Other AIB member,14004
+EECS-Electricity,2020-03,2020,Mar,Qtr1,RS,RS - Serbia,NO,NO - Norway,Other AIB member,16
+EECS-Electricity,2020-03,2020,Mar,Qtr1,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,13203
+EECS-Electricity,2020-03,2020,Mar,Qtr1,RU,RU - Russian Federation,FI,FI - Finland,Other,48000
+EECS-Electricity,2020-03,2020,Mar,Qtr1,RU,RU - Russian Federation,NO,NO - Norway,Other,27142
+EECS-Electricity,2020-03,2020,Mar,Qtr1,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,17960054
+EECS-Electricity,2020-03,2020,Mar,Qtr1,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,647935
+EECS-Electricity,2020-03,2020,Mar,Qtr1,SK,SK - Slovakia,NO,NO - Norway,Other AIB member,439
+EECS-Electricity,2020-03,2020,Mar,Qtr1,TR,TR - Turkey,NO,NO - Norway,Other,183
+EECS-Electricity,2020-03,2020,Mar,Qtr1,UA,UA - Ukraine,NO,NO - Norway,EU/EEA/EC non AIB Member,222
+EECS-Electricity,2020-03,2020,Mar,Qtr1,US,US - United States of America,NO,NO - Norway,Other,124308
+EECS-Electricity,2020-04,2020,Apr,Qtr2,AT,AT - Austria,AT,AT - Austria,AIB Member own country,40009286
+EECS-Electricity,2020-04,2020,Apr,Qtr2,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,348923
+EECS-Electricity,2020-04,2020,Apr,Qtr2,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,990751
+EECS-Electricity,2020-04,2020,Apr,Qtr2,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,588736
+EECS-Electricity,2020-04,2020,Apr,Qtr2,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,14186029
+EECS-Electricity,2020-04,2020,Apr,Qtr2,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,22975
+EECS-Electricity,2020-04,2020,Apr,Qtr2,DE,DE - Germany,DE,DE - Germany,AIB Member own country,15796680
+EECS-Electricity,2020-04,2020,Apr,Qtr2,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,79440
+EECS-Electricity,2020-04,2020,Apr,Qtr2,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,43842
+EECS-Electricity,2020-04,2020,Apr,Qtr2,FI,FI - Finland,FI,FI - Finland,AIB Member own country,921835
+EECS-Electricity,2020-04,2020,Apr,Qtr2,FR,FR - France,FR,FR - France,AIB Member own country,7050825
+EECS-Electricity,2020-04,2020,Apr,Qtr2,GB,GB - United Kingdom,CH,CH - Switzerland,Other,445
+EECS-Electricity,2020-04,2020,Apr,Qtr2,GB,GB - United Kingdom,DK,DK - Denmark,Other,1320494
+EECS-Electricity,2020-04,2020,Apr,Qtr2,GB,GB - United Kingdom,EE,EE - Estonia,Other,72630
+EECS-Electricity,2020-04,2020,Apr,Qtr2,GB,GB - United Kingdom,FR,FR - France,Other,4817
+EECS-Electricity,2020-04,2020,Apr,Qtr2,GB,GB - United Kingdom,NO,NO - Norway,Other,3986985
+EECS-Electricity,2020-04,2020,Apr,Qtr2,GB,GB - United Kingdom,SE,SE - Sweden,Other,123456
+EECS-Electricity,2020-04,2020,Apr,Qtr2,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,198
+EECS-Electricity,2020-04,2020,Apr,Qtr2,HU,HU - Hungary,CH,CH - Switzerland,Other AIB member,62000
+EECS-Electricity,2020-04,2020,Apr,Qtr2,HU,HU - Hungary,FR,FR - France,Other AIB member,19023
+EECS-Electricity,2020-04,2020,Apr,Qtr2,HU,HU - Hungary,NO,NO - Norway,Other AIB member,64638
+EECS-Electricity,2020-04,2020,Apr,Qtr2,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,79573
+EECS-Electricity,2020-04,2020,Apr,Qtr2,IS,IS - Iceland,IS,IS - Iceland,AIB Member own country,68900
+EECS-Electricity,2020-04,2020,Apr,Qtr2,IT,IT - Italy,IT,IT - Italy,AIB Member own country,3919
+EECS-Electricity,2020-04,2020,Apr,Qtr2,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,2
+EECS-Electricity,2020-04,2020,Apr,Qtr2,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,38405
+EECS-Electricity,2020-04,2020,Apr,Qtr2,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,1247853
+EECS-Electricity,2020-04,2020,Apr,Qtr2,LV,LV - Latvia,EE,EE - Estonia,Other AIB member,271
+EECS-Electricity,2020-04,2020,Apr,Qtr2,LV,LV - Latvia,NO,NO - Norway,Other AIB member,2400
+EECS-Electricity,2020-04,2020,Apr,Qtr2,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,8062191
+EECS-Electricity,2020-04,2020,Apr,Qtr2,NO,NO - Norway,NO,NO - Norway,AIB Member own country,2114348
+EECS-Electricity,2020-04,2020,Apr,Qtr2,PL,PL - Poland,FR,FR - France,EU/EEA/EC non AIB Member,8931
+EECS-Electricity,2020-04,2020,Apr,Qtr2,PT,PT - Portugal,CH,CH - Switzerland,Other AIB member,3655
+EECS-Electricity,2020-04,2020,Apr,Qtr2,RU,RU - Russian Federation,NO,NO - Norway,Other,10114
+EECS-Electricity,2020-04,2020,Apr,Qtr2,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,1539314
+EECS-Electricity,2020-04,2020,Apr,Qtr2,SG,SG - Singapore,NO,NO - Norway,Other,9700
+EECS-Electricity,2020-04,2020,Apr,Qtr2,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,4520
+EECS-Electricity,2020-04,2020,Apr,Qtr2,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,60781
+EECS-Electricity,2020-04,2020,Apr,Qtr2,US,US - United States of America,NO,NO - Norway,Other,57746
+EECS-Electricity,2020-05,2020,May,Qtr2,AL,AL - Albania,CH,CH - Switzerland,EU/EEA/EC non AIB Member,1116
+EECS-Electricity,2020-05,2020,May,Qtr2,AT,AT - Austria,AT,AT - Austria,AIB Member own country,1920846
+EECS-Electricity,2020-05,2020,May,Qtr2,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,112887
+EECS-Electricity,2020-05,2020,May,Qtr2,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,934966
+EECS-Electricity,2020-05,2020,May,Qtr2,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,137334
+EECS-Electricity,2020-05,2020,May,Qtr2,CA,CA - Canada,NO,NO - Norway,Other,19172
+EECS-Electricity,2020-05,2020,May,Qtr2,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,30389444
+EECS-Electricity,2020-05,2020,May,Qtr2,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,19942
+EECS-Electricity,2020-05,2020,May,Qtr2,DE,DE - Germany,DE,DE - Germany,AIB Member own country,10462597
+EECS-Electricity,2020-05,2020,May,Qtr2,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,109057
+EECS-Electricity,2020-05,2020,May,Qtr2,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,19423
+EECS-Electricity,2020-05,2020,May,Qtr2,FI,FI - Finland,FI,FI - Finland,AIB Member own country,2394935
+EECS-Electricity,2020-05,2020,May,Qtr2,FR,FR - France,FR,FR - France,AIB Member own country,1313712
+EECS-Electricity,2020-05,2020,May,Qtr2,GB,GB - United Kingdom,CH,CH - Switzerland,Other,6078
+EECS-Electricity,2020-05,2020,May,Qtr2,GB,GB - United Kingdom,DK,DK - Denmark,Other,2667802
+EECS-Electricity,2020-05,2020,May,Qtr2,GB,GB - United Kingdom,EE,EE - Estonia,Other,658449
+EECS-Electricity,2020-05,2020,May,Qtr2,GB,GB - United Kingdom,FR,FR - France,Other,4817
+EECS-Electricity,2020-05,2020,May,Qtr2,GB,GB - United Kingdom,NO,NO - Norway,Other,5151097
+EECS-Electricity,2020-05,2020,May,Qtr2,GR,GR - Greece,NO,NO - Norway,Other AIB member,46
+EECS-Electricity,2020-05,2020,May,Qtr2,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,195
+EECS-Electricity,2020-05,2020,May,Qtr2,HU,HU - Hungary,NO,NO - Norway,Other AIB member,43522
+EECS-Electricity,2020-05,2020,May,Qtr2,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,20974
+EECS-Electricity,2020-05,2020,May,Qtr2,IT,IT - Italy,IT,IT - Italy,AIB Member own country,26070
+EECS-Electricity,2020-05,2020,May,Qtr2,JP,JP - Japan,NO,NO - Norway,Other,24
+EECS-Electricity,2020-05,2020,May,Qtr2,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,2
+EECS-Electricity,2020-05,2020,May,Qtr2,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,82534
+EECS-Electricity,2020-05,2020,May,Qtr2,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,19462
+EECS-Electricity,2020-05,2020,May,Qtr2,LV,LV - Latvia,EE,EE - Estonia,Other AIB member,206
+EECS-Electricity,2020-05,2020,May,Qtr2,LV,LV - Latvia,NO,NO - Norway,Other AIB member,30
+EECS-Electricity,2020-05,2020,May,Qtr2,MK,MK - Macedonia,CH,CH - Switzerland,Other,2613
+EECS-Electricity,2020-05,2020,May,Qtr2,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,8061074
+EECS-Electricity,2020-05,2020,May,Qtr2,NO,NO - Norway,NO,NO - Norway,AIB Member own country,1285604
+EECS-Electricity,2020-05,2020,May,Qtr2,PL,PL - Poland,FR,FR - France,EU/EEA/EC non AIB Member,8931
+EECS-Electricity,2020-05,2020,May,Qtr2,PL,PL - Poland,NL,NL - Netherlands,EU/EEA/EC non AIB Member,183434
+EECS-Electricity,2020-05,2020,May,Qtr2,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,13714
+EECS-Electricity,2020-05,2020,May,Qtr2,PT,PT - Portugal,CH,CH - Switzerland,Other AIB member,200002
+EECS-Electricity,2020-05,2020,May,Qtr2,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,18
+EECS-Electricity,2020-05,2020,May,Qtr2,RS,RS - Serbia,CH,CH - Switzerland,Other AIB member,61646
+EECS-Electricity,2020-05,2020,May,Qtr2,RS,RS - Serbia,NO,NO - Norway,Other AIB member,3697
+EECS-Electricity,2020-05,2020,May,Qtr2,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,2823668
+EECS-Electricity,2020-05,2020,May,Qtr2,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,58619
+EECS-Electricity,2020-05,2020,May,Qtr2,UA,UA - Ukraine,NO,NO - Norway,EU/EEA/EC non AIB Member,18
+EECS-Electricity,2020-06,2020,Jun,Qtr2,AT,AT - Austria,AT,AT - Austria,AIB Member own country,8001
+EECS-Electricity,2020-06,2020,Jun,Qtr2,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,534366
+EECS-Electricity,2020-06,2020,Jun,Qtr2,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1012314
+EECS-Electricity,2020-06,2020,Jun,Qtr2,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,60844
+EECS-Electricity,2020-06,2020,Jun,Qtr2,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,3279
+EECS-Electricity,2020-06,2020,Jun,Qtr2,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,2645540
+EECS-Electricity,2020-06,2020,Jun,Qtr2,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,26250
+EECS-Electricity,2020-06,2020,Jun,Qtr2,DE,DE - Germany,DE,DE - Germany,AIB Member own country,8138910
+EECS-Electricity,2020-06,2020,Jun,Qtr2,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,30919
+EECS-Electricity,2020-06,2020,Jun,Qtr2,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,21605
+EECS-Electricity,2020-06,2020,Jun,Qtr2,FI,FI - Finland,FI,FI - Finland,AIB Member own country,1187562
+EECS-Electricity,2020-06,2020,Jun,Qtr2,FR,FR - France,FR,FR - France,AIB Member own country,1430451
+EECS-Electricity,2020-06,2020,Jun,Qtr2,GB,GB - United Kingdom,CH,CH - Switzerland,Other,39213
+EECS-Electricity,2020-06,2020,Jun,Qtr2,GB,GB - United Kingdom,DK,DK - Denmark,Other,799771
+EECS-Electricity,2020-06,2020,Jun,Qtr2,GB,GB - United Kingdom,EE,EE - Estonia,Other,84134
+EECS-Electricity,2020-06,2020,Jun,Qtr2,GB,GB - United Kingdom,NL,NL - Netherlands,Other,383780
+EECS-Electricity,2020-06,2020,Jun,Qtr2,GB,GB - United Kingdom,NO,NO - Norway,Other,25953304
+EECS-Electricity,2020-06,2020,Jun,Qtr2,GB,GB - United Kingdom,SE,SE - Sweden,Other,67831
+EECS-Electricity,2020-06,2020,Jun,Qtr2,GR,GR - Greece,NO,NO - Norway,Other AIB member,522
+EECS-Electricity,2020-06,2020,Jun,Qtr2,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,135
+EECS-Electricity,2020-06,2020,Jun,Qtr2,HU,HU - Hungary,NO,NO - Norway,Other AIB member,8912
+EECS-Electricity,2020-06,2020,Jun,Qtr2,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,704059
+EECS-Electricity,2020-06,2020,Jun,Qtr2,IS,IS - Iceland,IS,IS - Iceland,AIB Member own country,528003
+EECS-Electricity,2020-06,2020,Jun,Qtr2,IT,IT - Italy,IT,IT - Italy,AIB Member own country,3244
+EECS-Electricity,2020-06,2020,Jun,Qtr2,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,39866
+EECS-Electricity,2020-06,2020,Jun,Qtr2,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,39051
+EECS-Electricity,2020-06,2020,Jun,Qtr2,LV,LV - Latvia,EE,EE - Estonia,Other AIB member,2737
+EECS-Electricity,2020-06,2020,Jun,Qtr2,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,6809593
+EECS-Electricity,2020-06,2020,Jun,Qtr2,NO,NO - Norway,NO,NO - Norway,AIB Member own country,1990873
+EECS-Electricity,2020-06,2020,Jun,Qtr2,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,71
+EECS-Electricity,2020-06,2020,Jun,Qtr2,PT,PT - Portugal,NO,NO - Norway,Other AIB member,264408
+EECS-Electricity,2020-06,2020,Jun,Qtr2,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,26456
+EECS-Electricity,2020-06,2020,Jun,Qtr2,RS,RS - Serbia,CH,CH - Switzerland,Other AIB member,3279
+EECS-Electricity,2020-06,2020,Jun,Qtr2,RS,RS - Serbia,NO,NO - Norway,Other AIB member,1149
+EECS-Electricity,2020-06,2020,Jun,Qtr2,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,37811
+EECS-Electricity,2020-06,2020,Jun,Qtr2,RU,RU - Russian Federation,FI,FI - Finland,Other,2414
+EECS-Electricity,2020-06,2020,Jun,Qtr2,RU,RU - Russian Federation,NO,NO - Norway,Other,6
+EECS-Electricity,2020-06,2020,Jun,Qtr2,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,2954032
+EECS-Electricity,2020-06,2020,Jun,Qtr2,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,16639
+EECS-Electricity,2020-06,2020,Jun,Qtr2,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,45040
+EECS-Electricity,2020-06,2020,Jun,Qtr2,US,US - United States of America,NO,NO - Norway,Other,236777
+EECS-Electricity,2020-07,2020,Jul,Qtr3,AT,AT - Austria,AT,AT - Austria,AIB Member own country,37369
+EECS-Electricity,2020-07,2020,Jul,Qtr3,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,48236
+EECS-Electricity,2020-07,2020,Jul,Qtr3,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,631287
+EECS-Electricity,2020-07,2020,Jul,Qtr3,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,412663
+EECS-Electricity,2020-07,2020,Jul,Qtr3,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,1128
+EECS-Electricity,2020-07,2020,Jul,Qtr3,CA,CA - Canada,NO,NO - Norway,Other,4793
+EECS-Electricity,2020-07,2020,Jul,Qtr3,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,90026
+EECS-Electricity,2020-07,2020,Jul,Qtr3,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,25621
+EECS-Electricity,2020-07,2020,Jul,Qtr3,DE,DE - Germany,DE,DE - Germany,AIB Member own country,3496371
+EECS-Electricity,2020-07,2020,Jul,Qtr3,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,290
+EECS-Electricity,2020-07,2020,Jul,Qtr3,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,5459
+EECS-Electricity,2020-07,2020,Jul,Qtr3,FI,FI - Finland,FI,FI - Finland,AIB Member own country,587201
+EECS-Electricity,2020-07,2020,Jul,Qtr3,FR,FR - France,FR,FR - France,AIB Member own country,1555837
+EECS-Electricity,2020-07,2020,Jul,Qtr3,GB,GB - United Kingdom,EE,EE - Estonia,Other,1
+EECS-Electricity,2020-07,2020,Jul,Qtr3,GB,GB - United Kingdom,NO,NO - Norway,Other,850
+EECS-Electricity,2020-07,2020,Jul,Qtr3,GR,GR - Greece,NO,NO - Norway,Other AIB member,3364
+EECS-Electricity,2020-07,2020,Jul,Qtr3,HU,HU - Hungary,FR,FR - France,Other AIB member,14744
+EECS-Electricity,2020-07,2020,Jul,Qtr3,HU,HU - Hungary,NO,NO - Norway,Other AIB member,55000
+EECS-Electricity,2020-07,2020,Jul,Qtr3,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,709207
+EECS-Electricity,2020-07,2020,Jul,Qtr3,IT,IT - Italy,IT,IT - Italy,AIB Member own country,36013
+EECS-Electricity,2020-07,2020,Jul,Qtr3,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,1
+EECS-Electricity,2020-07,2020,Jul,Qtr3,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,108097
+EECS-Electricity,2020-07,2020,Jul,Qtr3,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,966
+EECS-Electricity,2020-07,2020,Jul,Qtr3,LV,LV - Latvia,EE,EE - Estonia,Other AIB member,13
+EECS-Electricity,2020-07,2020,Jul,Qtr3,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,7174557
+EECS-Electricity,2020-07,2020,Jul,Qtr3,NO,NO - Norway,NO,NO - Norway,AIB Member own country,1232426
+EECS-Electricity,2020-07,2020,Jul,Qtr3,RS,RS - Serbia,CH,CH - Switzerland,Other AIB member,21864
+EECS-Electricity,2020-07,2020,Jul,Qtr3,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,54
+EECS-Electricity,2020-07,2020,Jul,Qtr3,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,820158
+EECS-Electricity,2020-07,2020,Jul,Qtr3,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,28853
+EECS-Electricity,2020-07,2020,Jul,Qtr3,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,35331
+EECS-Electricity,2020-07,2020,Jul,Qtr3,US,US - United States of America,NO,NO - Norway,Other,28337
+EECS-Electricity,2020-08,2020,Aug,Qtr3,AL,AL - Albania,CH,CH - Switzerland,EU/EEA/EC non AIB Member,42
+EECS-Electricity,2020-08,2020,Aug,Qtr3,AL,AL - Albania,NO,NO - Norway,EU/EEA/EC non AIB Member,810
+EECS-Electricity,2020-08,2020,Aug,Qtr3,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,429977
+EECS-Electricity,2020-08,2020,Aug,Qtr3,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1472621
+EECS-Electricity,2020-08,2020,Aug,Qtr3,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,196522
+EECS-Electricity,2020-08,2020,Aug,Qtr3,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,251
+EECS-Electricity,2020-08,2020,Aug,Qtr3,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,61675
+EECS-Electricity,2020-08,2020,Aug,Qtr3,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,19784
+EECS-Electricity,2020-08,2020,Aug,Qtr3,DE,DE - Germany,DE,DE - Germany,AIB Member own country,2973711
+EECS-Electricity,2020-08,2020,Aug,Qtr3,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,2051
+EECS-Electricity,2020-08,2020,Aug,Qtr3,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,19494
+EECS-Electricity,2020-08,2020,Aug,Qtr3,FI,FI - Finland,FI,FI - Finland,AIB Member own country,1052663
+EECS-Electricity,2020-08,2020,Aug,Qtr3,FR,FR - France,FR,FR - France,AIB Member own country,1801830
+EECS-Electricity,2020-08,2020,Aug,Qtr3,GB,GB - United Kingdom,NO,NO - Norway,Other,1136
+EECS-Electricity,2020-08,2020,Aug,Qtr3,HU,HU - Hungary,NO,NO - Norway,Other AIB member,144391
+EECS-Electricity,2020-08,2020,Aug,Qtr3,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,390775
+EECS-Electricity,2020-08,2020,Aug,Qtr3,IT,IT - Italy,IT,IT - Italy,AIB Member own country,4872
+EECS-Electricity,2020-08,2020,Aug,Qtr3,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,1
+EECS-Electricity,2020-08,2020,Aug,Qtr3,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,174237
+EECS-Electricity,2020-08,2020,Aug,Qtr3,LV,LV - Latvia,EE,EE - Estonia,Other AIB member,1260
+EECS-Electricity,2020-08,2020,Aug,Qtr3,MK,MK - Macedonia,CH,CH - Switzerland,Other,13
+EECS-Electricity,2020-08,2020,Aug,Qtr3,MK,MK - Macedonia,NO,NO - Norway,Other,2520
+EECS-Electricity,2020-08,2020,Aug,Qtr3,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,7494375
+EECS-Electricity,2020-08,2020,Aug,Qtr3,NO,NO - Norway,NO,NO - Norway,AIB Member own country,1422194
+EECS-Electricity,2020-08,2020,Aug,Qtr3,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,1048
+EECS-Electricity,2020-08,2020,Aug,Qtr3,RS,RS - Serbia,CH,CH - Switzerland,Other AIB member,9993
+EECS-Electricity,2020-08,2020,Aug,Qtr3,RS,RS - Serbia,NO,NO - Norway,Other AIB member,1840
+EECS-Electricity,2020-08,2020,Aug,Qtr3,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,26977
+EECS-Electricity,2020-08,2020,Aug,Qtr3,RU,RU - Russian Federation,NO,NO - Norway,Other,748
+EECS-Electricity,2020-08,2020,Aug,Qtr3,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,1466603
+EECS-Electricity,2020-08,2020,Aug,Qtr3,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,14207
+EECS-Electricity,2020-08,2020,Aug,Qtr3,US,US - United States of America,NO,NO - Norway,Other,3596
+EECS-Electricity,2020-09,2020,Sep,Qtr3,AL,AL - Albania,NO,NO - Norway,EU/EEA/EC non AIB Member,155
+EECS-Electricity,2020-09,2020,Sep,Qtr3,AT,AT - Austria,AT,AT - Austria,AIB Member own country,22704
+EECS-Electricity,2020-09,2020,Sep,Qtr3,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,278630
+EECS-Electricity,2020-09,2020,Sep,Qtr3,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1625181
+EECS-Electricity,2020-09,2020,Sep,Qtr3,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,137966
+EECS-Electricity,2020-09,2020,Sep,Qtr3,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,260
+EECS-Electricity,2020-09,2020,Sep,Qtr3,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,2446
+EECS-Electricity,2020-09,2020,Sep,Qtr3,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,579135
+EECS-Electricity,2020-09,2020,Sep,Qtr3,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,200216
+EECS-Electricity,2020-09,2020,Sep,Qtr3,DE,DE - Germany,DE,DE - Germany,AIB Member own country,4996844
+EECS-Electricity,2020-09,2020,Sep,Qtr3,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,300703
+EECS-Electricity,2020-09,2020,Sep,Qtr3,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,77483
+EECS-Electricity,2020-09,2020,Sep,Qtr3,FI,FI - Finland,FI,FI - Finland,AIB Member own country,1189705
+EECS-Electricity,2020-09,2020,Sep,Qtr3,FR,FR - France,FR,FR - France,AIB Member own country,1567877
+EECS-Electricity,2020-09,2020,Sep,Qtr3,GB,GB - United Kingdom,EE,EE - Estonia,Other,3
+EECS-Electricity,2020-09,2020,Sep,Qtr3,GB,GB - United Kingdom,NO,NO - Norway,Other,145599
+EECS-Electricity,2020-09,2020,Sep,Qtr3,GR,GR - Greece,NO,NO - Norway,Other AIB member,5487
+EECS-Electricity,2020-09,2020,Sep,Qtr3,HU,HU - Hungary,NO,NO - Norway,Other AIB member,144198
+EECS-Electricity,2020-09,2020,Sep,Qtr3,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,954235
+EECS-Electricity,2020-09,2020,Sep,Qtr3,IT,IT - Italy,IT,IT - Italy,AIB Member own country,184461
+EECS-Electricity,2020-09,2020,Sep,Qtr3,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,1
+EECS-Electricity,2020-09,2020,Sep,Qtr3,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,200599
+EECS-Electricity,2020-09,2020,Sep,Qtr3,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,5410
+EECS-Electricity,2020-09,2020,Sep,Qtr3,LV,LV - Latvia,EE,EE - Estonia,Other AIB member,1296
+EECS-Electricity,2020-09,2020,Sep,Qtr3,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,7034766
+EECS-Electricity,2020-09,2020,Sep,Qtr3,NO,NO - Norway,NO,NO - Norway,AIB Member own country,2298804
+EECS-Electricity,2020-09,2020,Sep,Qtr3,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,21405
+EECS-Electricity,2020-09,2020,Sep,Qtr3,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,78395
+EECS-Electricity,2020-09,2020,Sep,Qtr3,RS,RS - Serbia,NO,NO - Norway,Other AIB member,5654
+EECS-Electricity,2020-09,2020,Sep,Qtr3,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,16222
+EECS-Electricity,2020-09,2020,Sep,Qtr3,RU,RU - Russian Federation,FI,FI - Finland,Other,7239
+EECS-Electricity,2020-09,2020,Sep,Qtr3,RU,RU - Russian Federation,NO,NO - Norway,Other,8
+EECS-Electricity,2020-09,2020,Sep,Qtr3,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,2242193
+EECS-Electricity,2020-09,2020,Sep,Qtr3,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,1585
+EECS-Electricity,2020-09,2020,Sep,Qtr3,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,110830
+EECS-Electricity,2020-09,2020,Sep,Qtr3,UA,UA - Ukraine,NO,NO - Norway,EU/EEA/EC non AIB Member,22200
+EECS-Electricity,2020-10,2020,Oct,Qtr4,AL,AL - Albania,NO,NO - Norway,EU/EEA/EC non AIB Member,500
+EECS-Electricity,2020-10,2020,Oct,Qtr4,AT,AT - Austria,AT,AT - Austria,AIB Member own country,88235
+EECS-Electricity,2020-10,2020,Oct,Qtr4,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,17900
+EECS-Electricity,2020-10,2020,Oct,Qtr4,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1172365
+EECS-Electricity,2020-10,2020,Oct,Qtr4,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,357382
+EECS-Electricity,2020-10,2020,Oct,Qtr4,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,237
+EECS-Electricity,2020-10,2020,Oct,Qtr4,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,1596
+EECS-Electricity,2020-10,2020,Oct,Qtr4,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,108919
+EECS-Electricity,2020-10,2020,Oct,Qtr4,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,17757
+EECS-Electricity,2020-10,2020,Oct,Qtr4,DE,DE - Germany,DE,DE - Germany,AIB Member own country,4613060
+EECS-Electricity,2020-10,2020,Oct,Qtr4,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,339370
+EECS-Electricity,2020-10,2020,Oct,Qtr4,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,74793
+EECS-Electricity,2020-10,2020,Oct,Qtr4,FI,FI - Finland,FI,FI - Finland,AIB Member own country,1535665
+EECS-Electricity,2020-10,2020,Oct,Qtr4,FR,FR - France,FR,FR - France,AIB Member own country,1563839
+EECS-Electricity,2020-10,2020,Oct,Qtr4,GB,GB - United Kingdom,DK,DK - Denmark,Other,67004
+EECS-Electricity,2020-10,2020,Oct,Qtr4,GB,GB - United Kingdom,NO,NO - Norway,Other,192932
+EECS-Electricity,2020-10,2020,Oct,Qtr4,GR,GR - Greece,NO,NO - Norway,Other AIB member,2430
+EECS-Electricity,2020-10,2020,Oct,Qtr4,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,34831
+EECS-Electricity,2020-10,2020,Oct,Qtr4,HU,HU - Hungary,FR,FR - France,Other AIB member,19501
+EECS-Electricity,2020-10,2020,Oct,Qtr4,HU,HU - Hungary,NO,NO - Norway,Other AIB member,153619
+EECS-Electricity,2020-10,2020,Oct,Qtr4,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,631856
+EECS-Electricity,2020-10,2020,Oct,Qtr4,IT,IT - Italy,IT,IT - Italy,AIB Member own country,89501
+EECS-Electricity,2020-10,2020,Oct,Qtr4,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,23
+EECS-Electricity,2020-10,2020,Oct,Qtr4,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,104891
+EECS-Electricity,2020-10,2020,Oct,Qtr4,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,30000
+EECS-Electricity,2020-10,2020,Oct,Qtr4,LV,LV - Latvia,EE,EE - Estonia,Other AIB member,6719
+EECS-Electricity,2020-10,2020,Oct,Qtr4,LV,LV - Latvia,NO,NO - Norway,Other AIB member,570
+EECS-Electricity,2020-10,2020,Oct,Qtr4,MK,MK - Macedonia,NO,NO - Norway,Other,59
+EECS-Electricity,2020-10,2020,Oct,Qtr4,MT,MT - Malta,NO,NO - Norway,EU/EEA/EC non AIB Member,339000
+EECS-Electricity,2020-10,2020,Oct,Qtr4,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,8572742
+EECS-Electricity,2020-10,2020,Oct,Qtr4,NO,NO - Norway,NO,NO - Norway,AIB Member own country,1894838
+EECS-Electricity,2020-10,2020,Oct,Qtr4,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,12461
+EECS-Electricity,2020-10,2020,Oct,Qtr4,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,10486
+EECS-Electricity,2020-10,2020,Oct,Qtr4,RS,RS - Serbia,NO,NO - Norway,Other AIB member,3107
+EECS-Electricity,2020-10,2020,Oct,Qtr4,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,29423
+EECS-Electricity,2020-10,2020,Oct,Qtr4,RU,RU - Russian Federation,NO,NO - Norway,Other,14748
+EECS-Electricity,2020-10,2020,Oct,Qtr4,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,5774761
+EECS-Electricity,2020-10,2020,Oct,Qtr4,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,96980
+EECS-Electricity,2020-11,2020,Nov,Qtr4,AL,AL - Albania,NO,NO - Norway,EU/EEA/EC non AIB Member,592
+EECS-Electricity,2020-11,2020,Nov,Qtr4,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,505435
+EECS-Electricity,2020-11,2020,Nov,Qtr4,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1201656
+EECS-Electricity,2020-11,2020,Nov,Qtr4,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,494168
+EECS-Electricity,2020-11,2020,Nov,Qtr4,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,236
+EECS-Electricity,2020-11,2020,Nov,Qtr4,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,225279
+EECS-Electricity,2020-11,2020,Nov,Qtr4,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,127188
+EECS-Electricity,2020-11,2020,Nov,Qtr4,DE,DE - Germany,DE,DE - Germany,AIB Member own country,2606719
+EECS-Electricity,2020-11,2020,Nov,Qtr4,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,396538
+EECS-Electricity,2020-11,2020,Nov,Qtr4,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,41239
+EECS-Electricity,2020-11,2020,Nov,Qtr4,FI,FI - Finland,FI,FI - Finland,AIB Member own country,971141
+EECS-Electricity,2020-11,2020,Nov,Qtr4,FR,FR - France,FR,FR - France,AIB Member own country,2371989
+EECS-Electricity,2020-11,2020,Nov,Qtr4,GB,GB - United Kingdom,EE,EE - Estonia,Other,1
+EECS-Electricity,2020-11,2020,Nov,Qtr4,GB,GB - United Kingdom,IE,IE - Ireland,Other,156246
+EECS-Electricity,2020-11,2020,Nov,Qtr4,GB,GB - United Kingdom,NO,NO - Norway,Other,1706758
+EECS-Electricity,2020-11,2020,Nov,Qtr4,GR,GR - Greece,FI,FI - Finland,Other AIB member,1798
+EECS-Electricity,2020-11,2020,Nov,Qtr4,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,694177
+EECS-Electricity,2020-11,2020,Nov,Qtr4,HU,HU - Hungary,FI,FI - Finland,Other AIB member,26588
+EECS-Electricity,2020-11,2020,Nov,Qtr4,HU,HU - Hungary,FR,FR - France,Other AIB member,114
+EECS-Electricity,2020-11,2020,Nov,Qtr4,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,813485
+EECS-Electricity,2020-11,2020,Nov,Qtr4,IS,IS - Iceland,IS,IS - Iceland,AIB Member own country,1033
+EECS-Electricity,2020-11,2020,Nov,Qtr4,IT,IT - Italy,IT,IT - Italy,AIB Member own country,56273
+EECS-Electricity,2020-11,2020,Nov,Qtr4,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,54844
+EECS-Electricity,2020-11,2020,Nov,Qtr4,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,5044
+EECS-Electricity,2020-11,2020,Nov,Qtr4,LV,LV - Latvia,EE,EE - Estonia,Other AIB member,1118
+EECS-Electricity,2020-11,2020,Nov,Qtr4,MK,MK - Macedonia,NO,NO - Norway,Other,4169
+EECS-Electricity,2020-11,2020,Nov,Qtr4,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,8604863
+EECS-Electricity,2020-11,2020,Nov,Qtr4,NO,NO - Norway,NO,NO - Norway,AIB Member own country,1015737
+EECS-Electricity,2020-11,2020,Nov,Qtr4,PT,PT - Portugal,PT,PT - Portugal,AIB Member own country,449703
+EECS-Electricity,2020-11,2020,Nov,Qtr4,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,62222
+EECS-Electricity,2020-11,2020,Nov,Qtr4,RS,RS - Serbia,FI,FI - Finland,Other AIB member,3227
+EECS-Electricity,2020-11,2020,Nov,Qtr4,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,68939
+EECS-Electricity,2020-11,2020,Nov,Qtr4,RU,RU - Russian Federation,FI,FI - Finland,Other,556
+EECS-Electricity,2020-11,2020,Nov,Qtr4,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,2381461
+EECS-Electricity,2020-11,2020,Nov,Qtr4,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,3705
+EECS-Electricity,2020-11,2020,Nov,Qtr4,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,446562
+EECS-Electricity,2020-11,2020,Nov,Qtr4,UA,UA - Ukraine,NO,NO - Norway,EU/EEA/EC non AIB Member,270
+EECS-Electricity,2020-12,2020,Dec,Qtr4,AL,AL - Albania,NO,NO - Norway,EU/EEA/EC non AIB Member,612
+EECS-Electricity,2020-12,2020,Dec,Qtr4,AT,AT - Austria,AT,AT - Austria,AIB Member own country,5373650
+EECS-Electricity,2020-12,2020,Dec,Qtr4,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,30817
+EECS-Electricity,2020-12,2020,Dec,Qtr4,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1354926
+EECS-Electricity,2020-12,2020,Dec,Qtr4,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,141673
+EECS-Electricity,2020-12,2020,Dec,Qtr4,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,211
+EECS-Electricity,2020-12,2020,Dec,Qtr4,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,235
+EECS-Electricity,2020-12,2020,Dec,Qtr4,CA,CA - Canada,NO,NO - Norway,Other,400
+EECS-Electricity,2020-12,2020,Dec,Qtr4,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,149358
+EECS-Electricity,2020-12,2020,Dec,Qtr4,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,47820
+EECS-Electricity,2020-12,2020,Dec,Qtr4,DE,DE - Germany,DE,DE - Germany,AIB Member own country,6914514
+EECS-Electricity,2020-12,2020,Dec,Qtr4,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,823197
+EECS-Electricity,2020-12,2020,Dec,Qtr4,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,59520
+EECS-Electricity,2020-12,2020,Dec,Qtr4,ES,ES - Spain,ES,ES - Spain,AIB Member own country,6757
+EECS-Electricity,2020-12,2020,Dec,Qtr4,FI,FI - Finland,FI,FI - Finland,AIB Member own country,2071898
+EECS-Electricity,2020-12,2020,Dec,Qtr4,FR,FR - France,FR,FR - France,AIB Member own country,2550462
+EECS-Electricity,2020-12,2020,Dec,Qtr4,GB,GB - United Kingdom,CH,CH - Switzerland,Other,3112
+EECS-Electricity,2020-12,2020,Dec,Qtr4,GB,GB - United Kingdom,DK,DK - Denmark,Other,163144
+EECS-Electricity,2020-12,2020,Dec,Qtr4,GB,GB - United Kingdom,EE,EE - Estonia,Other,193172
+EECS-Electricity,2020-12,2020,Dec,Qtr4,GB,GB - United Kingdom,NO,NO - Norway,Other,8162465
+EECS-Electricity,2020-12,2020,Dec,Qtr4,GB,GB - United Kingdom,SE,SE - Sweden,Other,56203
+EECS-Electricity,2020-12,2020,Dec,Qtr4,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,57223
+EECS-Electricity,2020-12,2020,Dec,Qtr4,HU,HU - Hungary,CZ,CZ - Czech Republic,Other AIB member,9142
+EECS-Electricity,2020-12,2020,Dec,Qtr4,HU,HU - Hungary,FR,FR - France,Other AIB member,42000
+EECS-Electricity,2020-12,2020,Dec,Qtr4,HU,HU - Hungary,NO,NO - Norway,Other AIB member,50799
+EECS-Electricity,2020-12,2020,Dec,Qtr4,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,1202622
+EECS-Electricity,2020-12,2020,Dec,Qtr4,IT,IT - Italy,IT,IT - Italy,AIB Member own country,218186
+EECS-Electricity,2020-12,2020,Dec,Qtr4,KZ,KZ - Kazakhstan,NO,NO - Norway,Other,1
+EECS-Electricity,2020-12,2020,Dec,Qtr4,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,2
+EECS-Electricity,2020-12,2020,Dec,Qtr4,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,341917
+EECS-Electricity,2020-12,2020,Dec,Qtr4,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,94791
+EECS-Electricity,2020-12,2020,Dec,Qtr4,LV,LV - Latvia,EE,EE - Estonia,Other AIB member,929
+EECS-Electricity,2020-12,2020,Dec,Qtr4,MK,MK - Macedonia,NO,NO - Norway,Other,4989
+EECS-Electricity,2020-12,2020,Dec,Qtr4,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,10933328
+EECS-Electricity,2020-12,2020,Dec,Qtr4,NO,NO - Norway,NO,NO - Norway,AIB Member own country,2602211
+EECS-Electricity,2020-12,2020,Dec,Qtr4,PL,PL - Poland,FR,FR - France,EU/EEA/EC non AIB Member,128720
+EECS-Electricity,2020-12,2020,Dec,Qtr4,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,6000
+EECS-Electricity,2020-12,2020,Dec,Qtr4,PT,PT - Portugal,PT,PT - Portugal,AIB Member own country,4573
+EECS-Electricity,2020-12,2020,Dec,Qtr4,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,1464
+EECS-Electricity,2020-12,2020,Dec,Qtr4,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,69734
+EECS-Electricity,2020-12,2020,Dec,Qtr4,RU,RU - Russian Federation,NO,NO - Norway,Other,163411
+EECS-Electricity,2020-12,2020,Dec,Qtr4,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,3645317
+EECS-Electricity,2020-12,2020,Dec,Qtr4,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,995
+EECS-Electricity,2020-12,2020,Dec,Qtr4,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,99577
+EECS-Electricity,2020-12,2020,Dec,Qtr4,UA,UA - Ukraine,NO,NO - Norway,EU/EEA/EC non AIB Member,19
+EECS-Electricity,2020-12,2020,Dec,Qtr4,US,US - United States of America,NO,NO - Norway,Other,56475
+EECS-Electricity,2021-01,2021,Jan,Qtr1,AL,AL - Albania,NO,NO - Norway,EU/EEA/EC non AIB Member,75
+EECS-Electricity,2021-01,2021,Jan,Qtr1,AT,AT - Austria,AT,AT - Austria,AIB Member own country,992841
+EECS-Electricity,2021-01,2021,Jan,Qtr1,AU,AU - Australia,NO,NO - Norway,Other,405
+EECS-Electricity,2021-01,2021,Jan,Qtr1,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,24900
+EECS-Electricity,2021-01,2021,Jan,Qtr1,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1138231
+EECS-Electricity,2021-01,2021,Jan,Qtr1,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,392743
+EECS-Electricity,2021-01,2021,Jan,Qtr1,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,813
+EECS-Electricity,2021-01,2021,Jan,Qtr1,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,4121
+EECS-Electricity,2021-01,2021,Jan,Qtr1,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,552419
+EECS-Electricity,2021-01,2021,Jan,Qtr1,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,418000
+EECS-Electricity,2021-01,2021,Jan,Qtr1,DE,DE - Germany,DE,DE - Germany,AIB Member own country,24975558
+EECS-Electricity,2021-01,2021,Jan,Qtr1,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,2127910
+EECS-Electricity,2021-01,2021,Jan,Qtr1,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,50453
+EECS-Electricity,2021-01,2021,Jan,Qtr1,ES,ES - Spain,ES,ES - Spain,AIB Member own country,108390
+EECS-Electricity,2021-01,2021,Jan,Qtr1,FI,FI - Finland,FI,FI - Finland,AIB Member own country,2890000
+EECS-Electricity,2021-01,2021,Jan,Qtr1,FR,FR - France,FR,FR - France,AIB Member own country,6600714
+EECS-Electricity,2021-01,2021,Jan,Qtr1,GB,GB - United Kingdom,NO,NO - Norway,Other,292646
+EECS-Electricity,2021-01,2021,Jan,Qtr1,GB,GB - United Kingdom,SE,SE - Sweden,Other,74361
+EECS-Electricity,2021-01,2021,Jan,Qtr1,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,526908
+EECS-Electricity,2021-01,2021,Jan,Qtr1,HU,HU - Hungary,CH,CH - Switzerland,Other AIB member,47510
+EECS-Electricity,2021-01,2021,Jan,Qtr1,HU,HU - Hungary,CZ,CZ - Czech Republic,Other AIB member,274558
+EECS-Electricity,2021-01,2021,Jan,Qtr1,HU,HU - Hungary,FR,FR - France,Other AIB member,52152
+EECS-Electricity,2021-01,2021,Jan,Qtr1,HU,HU - Hungary,IS,IS - Iceland,Other AIB member,10000
+EECS-Electricity,2021-01,2021,Jan,Qtr1,HU,HU - Hungary,NO,NO - Norway,Other AIB member,35704
+EECS-Electricity,2021-01,2021,Jan,Qtr1,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,685895
+EECS-Electricity,2021-01,2021,Jan,Qtr1,IS,IS - Iceland,IS,IS - Iceland,AIB Member own country,413839
+EECS-Electricity,2021-01,2021,Jan,Qtr1,IT,IT - Italy,IT,IT - Italy,AIB Member own country,5704276
+EECS-Electricity,2021-01,2021,Jan,Qtr1,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,61295
+EECS-Electricity,2021-01,2021,Jan,Qtr1,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,251657
+EECS-Electricity,2021-01,2021,Jan,Qtr1,LV,LV - Latvia,LV,LV - Latvia,AIB Member own country,34894
+EECS-Electricity,2021-01,2021,Jan,Qtr1,MK,MK - Macedonia,NO,NO - Norway,Other,974
+EECS-Electricity,2021-01,2021,Jan,Qtr1,MT,MT - Malta,FR,FR - France,EU/EEA/EC non AIB Member,37
+EECS-Electricity,2021-01,2021,Jan,Qtr1,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,9894465
+EECS-Electricity,2021-01,2021,Jan,Qtr1,NO,NO - Norway,NO,NO - Norway,AIB Member own country,2589664
+EECS-Electricity,2021-01,2021,Jan,Qtr1,PL,PL - Poland,FR,FR - France,EU/EEA/EC non AIB Member,578
+EECS-Electricity,2021-01,2021,Jan,Qtr1,PL,PL - Poland,NL,NL - Netherlands,EU/EEA/EC non AIB Member,200000
+EECS-Electricity,2021-01,2021,Jan,Qtr1,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,1496
+EECS-Electricity,2021-01,2021,Jan,Qtr1,PT,PT - Portugal,PT,PT - Portugal,AIB Member own country,255759
+EECS-Electricity,2021-01,2021,Jan,Qtr1,RO,RO - Romania,FR,FR - France,EU/EEA/EC non AIB Member,29020
+EECS-Electricity,2021-01,2021,Jan,Qtr1,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,3889
+EECS-Electricity,2021-01,2021,Jan,Qtr1,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,35169
+EECS-Electricity,2021-01,2021,Jan,Qtr1,RU,RU - Russian Federation,NO,NO - Norway,Other,1471
+EECS-Electricity,2021-01,2021,Jan,Qtr1,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,5445500
+EECS-Electricity,2021-01,2021,Jan,Qtr1,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,43366
+EECS-Electricity,2021-01,2021,Jan,Qtr1,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,270324
+EECS-Electricity,2021-01,2021,Jan,Qtr1,UA,UA - Ukraine,NO,NO - Norway,EU/EEA/EC non AIB Member,816
+EECS-Electricity,2021-01,2021,Jan,Qtr1,US,US - United States of America,NO,NO - Norway,Other,13658
+EECS-Electricity,2021-02,2021,Feb,Qtr1,AT,AT - Austria,AT,AT - Austria,AIB Member own country,644835
+EECS-Electricity,2021-02,2021,Feb,Qtr1,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,1736
+EECS-Electricity,2021-02,2021,Feb,Qtr1,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1268861
+EECS-Electricity,2021-02,2021,Feb,Qtr1,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,1433793
+EECS-Electricity,2021-02,2021,Feb,Qtr1,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,6273
+EECS-Electricity,2021-02,2021,Feb,Qtr1,BY,BY - Belarus,NO,NO - Norway,Other,81
+EECS-Electricity,2021-02,2021,Feb,Qtr1,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,451740
+EECS-Electricity,2021-02,2021,Feb,Qtr1,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,501573
+EECS-Electricity,2021-02,2021,Feb,Qtr1,DE,DE - Germany,DE,DE - Germany,AIB Member own country,14039307
+EECS-Electricity,2021-02,2021,Feb,Qtr1,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,1114988
+EECS-Electricity,2021-02,2021,Feb,Qtr1,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,92859
+EECS-Electricity,2021-02,2021,Feb,Qtr1,ES,ES - Spain,ES,ES - Spain,AIB Member own country,267096
+EECS-Electricity,2021-02,2021,Feb,Qtr1,FI,FI - Finland,FI,FI - Finland,AIB Member own country,3566556
+EECS-Electricity,2021-02,2021,Feb,Qtr1,FR,FR - France,FR,FR - France,AIB Member own country,6775859
+EECS-Electricity,2021-02,2021,Feb,Qtr1,GB,GB - United Kingdom,NO,NO - Norway,Other,1012166
+EECS-Electricity,2021-02,2021,Feb,Qtr1,GB,GB - United Kingdom,SE,SE - Sweden,Other,759
+EECS-Electricity,2021-02,2021,Feb,Qtr1,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,16576
+EECS-Electricity,2021-02,2021,Feb,Qtr1,HU,HU - Hungary,CH,CH - Switzerland,Other AIB member,119566
+EECS-Electricity,2021-02,2021,Feb,Qtr1,HU,HU - Hungary,NO,NO - Norway,Other AIB member,311771
+EECS-Electricity,2021-02,2021,Feb,Qtr1,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,613197
+EECS-Electricity,2021-02,2021,Feb,Qtr1,IS,IS - Iceland,IS,IS - Iceland,AIB Member own country,1402607
+EECS-Electricity,2021-02,2021,Feb,Qtr1,IT,IT - Italy,IT,IT - Italy,AIB Member own country,5850022
+EECS-Electricity,2021-02,2021,Feb,Qtr1,KZ,KZ - Kazakhstan,NO,NO - Norway,Other,3
+EECS-Electricity,2021-02,2021,Feb,Qtr1,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,151096
+EECS-Electricity,2021-02,2021,Feb,Qtr1,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,1174456
+EECS-Electricity,2021-02,2021,Feb,Qtr1,LV,LV - Latvia,LV,LV - Latvia,AIB Member own country,68981
+EECS-Electricity,2021-02,2021,Feb,Qtr1,MK,MK - Macedonia,NO,NO - Norway,Other,4
+EECS-Electricity,2021-02,2021,Feb,Qtr1,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,11595067
+EECS-Electricity,2021-02,2021,Feb,Qtr1,NO,NO - Norway,NO,NO - Norway,AIB Member own country,3574945
+EECS-Electricity,2021-02,2021,Feb,Qtr1,NZ,NZ - New Zealand,NO,NO - Norway,Other,22200
+EECS-Electricity,2021-02,2021,Feb,Qtr1,PL,PL - Poland,FR,FR - France,EU/EEA/EC non AIB Member,210
+EECS-Electricity,2021-02,2021,Feb,Qtr1,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,74546
+EECS-Electricity,2021-02,2021,Feb,Qtr1,PT,PT - Portugal,PT,PT - Portugal,AIB Member own country,393420
+EECS-Electricity,2021-02,2021,Feb,Qtr1,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,63542
+EECS-Electricity,2021-02,2021,Feb,Qtr1,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,24759
+EECS-Electricity,2021-02,2021,Feb,Qtr1,RU,RU - Russian Federation,FI,FI - Finland,Other,40725
+EECS-Electricity,2021-02,2021,Feb,Qtr1,RU,RU - Russian Federation,NO,NO - Norway,Other,2568
+EECS-Electricity,2021-02,2021,Feb,Qtr1,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,8115096
+EECS-Electricity,2021-02,2021,Feb,Qtr1,SI,SI - Slovenia,CH,CH - Switzerland,Other AIB member,1
+EECS-Electricity,2021-02,2021,Feb,Qtr1,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,46255
+EECS-Electricity,2021-02,2021,Feb,Qtr1,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,366498
+EECS-Electricity,2021-02,2021,Feb,Qtr1,UA,UA - Ukraine,NO,NO - Norway,EU/EEA/EC non AIB Member,181
+EECS-Electricity,2021-02,2021,Feb,Qtr1,US,US - United States of America,NO,NO - Norway,Other,160533
+EECS-Electricity,2021-03,2021,Mar,Qtr1,AF,AF - Afghanistan,CZ,CZ - Czech Republic,Other,2011
+EECS-Electricity,2021-03,2021,Mar,Qtr1,AL,AL - Albania,CH,CH - Switzerland,EU/EEA/EC non AIB Member,1092
+EECS-Electricity,2021-03,2021,Mar,Qtr1,AL,AL - Albania,NO,NO - Norway,EU/EEA/EC non AIB Member,21428
+EECS-Electricity,2021-03,2021,Mar,Qtr1,AR,AR - Argentina,NO,NO - Norway,Other,73
+EECS-Electricity,2021-03,2021,Mar,Qtr1,AT,AT - Austria,AT,AT - Austria,AIB Member own country,14827460
+EECS-Electricity,2021-03,2021,Mar,Qtr1,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,809625
+EECS-Electricity,2021-03,2021,Mar,Qtr1,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1304316
+EECS-Electricity,2021-03,2021,Mar,Qtr1,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,2580393
+EECS-Electricity,2021-03,2021,Mar,Qtr1,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,3241
+EECS-Electricity,2021-03,2021,Mar,Qtr1,BG,BG - Bulgaria,FR,FR - France,EU/EEA/EC non AIB Member,26
+EECS-Electricity,2021-03,2021,Mar,Qtr1,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,19076
+EECS-Electricity,2021-03,2021,Mar,Qtr1,BR,BR - Brazil,NO,NO - Norway,Other,1870
+EECS-Electricity,2021-03,2021,Mar,Qtr1,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,6923526
+EECS-Electricity,2021-03,2021,Mar,Qtr1,CL,CL - Chile,NO,NO - Norway,Other,57540
+EECS-Electricity,2021-03,2021,Mar,Qtr1,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,264697
+EECS-Electricity,2021-03,2021,Mar,Qtr1,DE,DE - Germany,DE,DE - Germany,AIB Member own country,24621095
+EECS-Electricity,2021-03,2021,Mar,Qtr1,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,2721554
+EECS-Electricity,2021-03,2021,Mar,Qtr1,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,184709
+EECS-Electricity,2021-03,2021,Mar,Qtr1,ES,ES - Spain,ES,ES - Spain,AIB Member own country,7220559
+EECS-Electricity,2021-03,2021,Mar,Qtr1,FI,FI - Finland,FI,FI - Finland,AIB Member own country,7785066
+EECS-Electricity,2021-03,2021,Mar,Qtr1,FR,FR - France,FR,FR - France,AIB Member own country,20568209
+EECS-Electricity,2021-03,2021,Mar,Qtr1,GB,GB - United Kingdom,IE,IE - Ireland,Other,88533
+EECS-Electricity,2021-03,2021,Mar,Qtr1,GB,GB - United Kingdom,NO,NO - Norway,Other,12280874
+EECS-Electricity,2021-03,2021,Mar,Qtr1,GB,GB - United Kingdom,SE,SE - Sweden,Other,69480
+EECS-Electricity,2021-03,2021,Mar,Qtr1,GR,GR - Greece,CH,CH - Switzerland,Other AIB member,4474
+EECS-Electricity,2021-03,2021,Mar,Qtr1,GR,GR - Greece,FI,FI - Finland,Other AIB member,8000
+EECS-Electricity,2021-03,2021,Mar,Qtr1,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,1000473
+EECS-Electricity,2021-03,2021,Mar,Qtr1,HU,HU - Hungary,CH,CH - Switzerland,Other AIB member,200
+EECS-Electricity,2021-03,2021,Mar,Qtr1,HU,HU - Hungary,NO,NO - Norway,Other AIB member,142340
+EECS-Electricity,2021-03,2021,Mar,Qtr1,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,5395135
+EECS-Electricity,2021-03,2021,Mar,Qtr1,IN,IN - India,NO,NO - Norway,Other,4940
+EECS-Electricity,2021-03,2021,Mar,Qtr1,IS,IS - Iceland,IS,IS - Iceland,AIB Member own country,1811294
+EECS-Electricity,2021-03,2021,Mar,Qtr1,IT,IT - Italy,IT,IT - Italy,AIB Member own country,46746132
+EECS-Electricity,2021-03,2021,Mar,Qtr1,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,27496
+EECS-Electricity,2021-03,2021,Mar,Qtr1,LT,LT - Lithuania,FI,FI - Finland,Other AIB member,1
+EECS-Electricity,2021-03,2021,Mar,Qtr1,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,365794
+EECS-Electricity,2021-03,2021,Mar,Qtr1,LU,LU - Luxembourg,BE,BEW - Belgium (Wallonia),Other AIB member,3899
+EECS-Electricity,2021-03,2021,Mar,Qtr1,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,1870459
+EECS-Electricity,2021-03,2021,Mar,Qtr1,LV,LV - Latvia,LV,LV - Latvia,AIB Member own country,90439
+EECS-Electricity,2021-03,2021,Mar,Qtr1,MD,MD - Moldova,NO,NO - Norway,EU/EEA/EC non AIB Member,6
+EECS-Electricity,2021-03,2021,Mar,Qtr1,MT,MT - Malta,FR,FR - France,EU/EEA/EC non AIB Member,6751
+EECS-Electricity,2021-03,2021,Mar,Qtr1,MT,MT - Malta,NO,NO - Norway,EU/EEA/EC non AIB Member,6000
+EECS-Electricity,2021-03,2021,Mar,Qtr1,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,10744809
+EECS-Electricity,2021-03,2021,Mar,Qtr1,NO,NO - Norway,NO,NO - Norway,AIB Member own country,5610110
+EECS-Electricity,2021-03,2021,Mar,Qtr1,PL,PL - Poland,NL,NL - Netherlands,EU/EEA/EC non AIB Member,20612
+EECS-Electricity,2021-03,2021,Mar,Qtr1,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,136261
+EECS-Electricity,2021-03,2021,Mar,Qtr1,PT,PT - Portugal,PT,PT - Portugal,AIB Member own country,218788
+EECS-Electricity,2021-03,2021,Mar,Qtr1,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,70588
+EECS-Electricity,2021-03,2021,Mar,Qtr1,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,77489
+EECS-Electricity,2021-03,2021,Mar,Qtr1,RU,RU - Russian Federation,FI,FI - Finland,Other,1573
+EECS-Electricity,2021-03,2021,Mar,Qtr1,RU,RU - Russian Federation,NO,NO - Norway,Other,30552
+EECS-Electricity,2021-03,2021,Mar,Qtr1,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,15699918
+EECS-Electricity,2021-03,2021,Mar,Qtr1,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,769017
+EECS-Electricity,2021-03,2021,Mar,Qtr1,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,796000
+EECS-Electricity,2021-03,2021,Mar,Qtr1,TR,TR - Turkey,NO,NO - Norway,Other,873
+EECS-Electricity,2021-03,2021,Mar,Qtr1,UA,UA - Ukraine,NO,NO - Norway,EU/EEA/EC non AIB Member,2157
+EECS-Electricity,2021-03,2021,Mar,Qtr1,US,US - United States of America,NO,NO - Norway,Other,705720
+EECS-Electricity,2021-06,2021,Jun,Qtr2,AT,AT - Austria,AT,AT - Austria,AIB Member own country,338430
+EECS-Electricity,2021-06,2021,Jun,Qtr2,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1276576
+EECS-Electricity,2021-06,2021,Jun,Qtr2,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,91420
+EECS-Electricity,2021-06,2021,Jun,Qtr2,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,2092009
+EECS-Electricity,2021-06,2021,Jun,Qtr2,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,94303
+EECS-Electricity,2021-06,2021,Jun,Qtr2,DE,DE - Germany,DE,DE - Germany,AIB Member own country,5846413
+EECS-Electricity,2021-06,2021,Jun,Qtr2,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,234587
+EECS-Electricity,2021-06,2021,Jun,Qtr2,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,91743
+EECS-Electricity,2021-06,2021,Jun,Qtr2,FI,FI - Finland,FI,FI - Finland,AIB Member own country,906549
+EECS-Electricity,2021-06,2021,Jun,Qtr2,FR,FR - France,FR,FR - France,AIB Member own country,1657612
+EECS-Electricity,2021-06,2021,Jun,Qtr2,GB,GB - United Kingdom,NO,NO - Norway,Other,32117461
+EECS-Electricity,2021-06,2021,Jun,Qtr2,GB,GB - United Kingdom,SE,SE - Sweden,Other,12202
+EECS-Electricity,2021-06,2021,Jun,Qtr2,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,1739
+EECS-Electricity,2021-06,2021,Jun,Qtr2,HU,HU - Hungary,NO,NO - Norway,Other AIB member,24584
+EECS-Electricity,2021-06,2021,Jun,Qtr2,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,96018
+EECS-Electricity,2021-06,2021,Jun,Qtr2,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,3
+EECS-Electricity,2021-06,2021,Jun,Qtr2,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,26189
+EECS-Electricity,2021-06,2021,Jun,Qtr2,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,14000
+EECS-Electricity,2021-06,2021,Jun,Qtr2,LV,LV - Latvia,LV,LV - Latvia,AIB Member own country,50934
+EECS-Electricity,2021-06,2021,Jun,Qtr2,MT,MT - Malta,FR,FR - France,EU/EEA/EC non AIB Member,6751
+EECS-Electricity,2021-06,2021,Jun,Qtr2,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,8265826
+EECS-Electricity,2021-06,2021,Jun,Qtr2,NO,NO - Norway,NO,NO - Norway,AIB Member own country,1267897
+EECS-Electricity,2021-06,2021,Jun,Qtr2,PL,PL - Poland,FI,FI - Finland,EU/EEA/EC non AIB Member,9400
+EECS-Electricity,2021-06,2021,Jun,Qtr2,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,19787
+EECS-Electricity,2021-06,2021,Jun,Qtr2,PT,PT - Portugal,PT,PT - Portugal,AIB Member own country,221027
+EECS-Electricity,2021-06,2021,Jun,Qtr2,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,42072
+EECS-Electricity,2021-06,2021,Jun,Qtr2,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,87889
+EECS-Electricity,2021-06,2021,Jun,Qtr2,RU,RU - Russian Federation,NO,NO - Norway,Other,22330
+EECS-Electricity,2021-06,2021,Jun,Qtr2,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,2660328
+EECS-Electricity,2021-06,2021,Jun,Qtr2,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,6200
+EECS-Electricity,2021-06,2021,Jun,Qtr2,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,361439
+EECS-Electricity,2021-07,2021,Jul,Qtr3,AT,AT - Austria,AT,AT - Austria,AIB Member own country,99632
+EECS-Electricity,2021-07,2021,Jul,Qtr3,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,995195
+EECS-Electricity,2021-07,2021,Jul,Qtr3,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,112335
+EECS-Electricity,2021-07,2021,Jul,Qtr3,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,449
+EECS-Electricity,2021-07,2021,Jul,Qtr3,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,780840
+EECS-Electricity,2021-07,2021,Jul,Qtr3,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,87952
+EECS-Electricity,2021-07,2021,Jul,Qtr3,DE,DE - Germany,DE,DE - Germany,AIB Member own country,5438846
+EECS-Electricity,2021-07,2021,Jul,Qtr3,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,269213
+EECS-Electricity,2021-07,2021,Jul,Qtr3,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,45268
+EECS-Electricity,2021-07,2021,Jul,Qtr3,FI,FI - Finland,FI,FI - Finland,AIB Member own country,797375
+EECS-Electricity,2021-07,2021,Jul,Qtr3,FR,FR - France,FR,FR - France,AIB Member own country,1562168
+EECS-Electricity,2021-07,2021,Jul,Qtr3,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,13279
+EECS-Electricity,2021-07,2021,Jul,Qtr3,HU,HU - Hungary,CZ,CZ - Czech Republic,Other AIB member,3322
+EECS-Electricity,2021-07,2021,Jul,Qtr3,HU,HU - Hungary,NO,NO - Norway,Other AIB member,128910
+EECS-Electricity,2021-07,2021,Jul,Qtr3,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,807934
+EECS-Electricity,2021-07,2021,Jul,Qtr3,IT,IT - Italy,IT,IT - Italy,AIB Member own country,111951
+EECS-Electricity,2021-07,2021,Jul,Qtr3,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,3
+EECS-Electricity,2021-07,2021,Jul,Qtr3,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,109592
+EECS-Electricity,2021-07,2021,Jul,Qtr3,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,11500
+EECS-Electricity,2021-07,2021,Jul,Qtr3,LV,LV - Latvia,LV,LV - Latvia,AIB Member own country,64041
+EECS-Electricity,2021-07,2021,Jul,Qtr3,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,8170867
+EECS-Electricity,2021-07,2021,Jul,Qtr3,NO,NO - Norway,NO,NO - Norway,AIB Member own country,1731283
+EECS-Electricity,2021-07,2021,Jul,Qtr3,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,6045
+EECS-Electricity,2021-07,2021,Jul,Qtr3,PT,PT - Portugal,PT,PT - Portugal,AIB Member own country,596790
+EECS-Electricity,2021-07,2021,Jul,Qtr3,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,45000
+EECS-Electricity,2021-07,2021,Jul,Qtr3,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,79515
+EECS-Electricity,2021-07,2021,Jul,Qtr3,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,1180432
+EECS-Electricity,2021-07,2021,Jul,Qtr3,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,9668
+EECS-Electricity,2021-07,2021,Jul,Qtr3,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,780160
+EECS-Electricity,2021-05,2021,May,Qtr2,AT,AT - Austria,AT,AT - Austria,AIB Member own country,1218196
+EECS-Electricity,2021-05,2021,May,Qtr2,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,415859
+EECS-Electricity,2021-05,2021,May,Qtr2,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1220138
+EECS-Electricity,2021-05,2021,May,Qtr2,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,102708
+EECS-Electricity,2021-05,2021,May,Qtr2,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,1920
+EECS-Electricity,2021-05,2021,May,Qtr2,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,3866
+EECS-Electricity,2021-05,2021,May,Qtr2,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,29547820
+EECS-Electricity,2021-05,2021,May,Qtr2,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,67236
+EECS-Electricity,2021-05,2021,May,Qtr2,DE,DE - Germany,DE,DE - Germany,AIB Member own country,11523058
+EECS-Electricity,2021-05,2021,May,Qtr2,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,207805
+EECS-Electricity,2021-05,2021,May,Qtr2,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,37782
+EECS-Electricity,2021-05,2021,May,Qtr2,FI,FI - Finland,FI,FI - Finland,AIB Member own country,1201180
+EECS-Electricity,2021-05,2021,May,Qtr2,FR,FR - France,FR,FR - France,AIB Member own country,1715694
+EECS-Electricity,2021-05,2021,May,Qtr2,GB,GB - United Kingdom,NO,NO - Norway,Other,2459732
+EECS-Electricity,2021-05,2021,May,Qtr2,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,766
+EECS-Electricity,2021-05,2021,May,Qtr2,HU,HU - Hungary,NO,NO - Norway,Other AIB member,3904
+EECS-Electricity,2021-05,2021,May,Qtr2,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,80908
+EECS-Electricity,2021-05,2021,May,Qtr2,IT,IT - Italy,IT,IT - Italy,AIB Member own country,43570
+EECS-Electricity,2021-05,2021,May,Qtr2,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,6
+EECS-Electricity,2021-05,2021,May,Qtr2,LI,LI - Liechtenstein,NO,NO - Norway,EU/EEA/EC non AIB Member,313
+EECS-Electricity,2021-05,2021,May,Qtr2,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,97403
+EECS-Electricity,2021-05,2021,May,Qtr2,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,105677
+EECS-Electricity,2021-05,2021,May,Qtr2,LV,LV - Latvia,LV,LV - Latvia,AIB Member own country,50627
+EECS-Electricity,2021-05,2021,May,Qtr2,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,8783927
+EECS-Electricity,2021-05,2021,May,Qtr2,NO,NO - Norway,NO,NO - Norway,AIB Member own country,3138437
+EECS-Electricity,2021-05,2021,May,Qtr2,PL,PL - Poland,NL,NL - Netherlands,EU/EEA/EC non AIB Member,20549
+EECS-Electricity,2021-05,2021,May,Qtr2,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,18995
+EECS-Electricity,2021-05,2021,May,Qtr2,PT,PT - Portugal,PT,PT - Portugal,AIB Member own country,370447
+EECS-Electricity,2021-05,2021,May,Qtr2,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,7558
+EECS-Electricity,2021-05,2021,May,Qtr2,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,118485
+EECS-Electricity,2021-05,2021,May,Qtr2,RU,RU - Russian Federation,NO,NO - Norway,Other,33933
+EECS-Electricity,2021-05,2021,May,Qtr2,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,2633437
+EECS-Electricity,2021-05,2021,May,Qtr2,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,158994
+EECS-Electricity,2021-05,2021,May,Qtr2,US,US - United States of America,NO,NO - Norway,Other,23185
+EECS-Electricity,2021-08,2021,Aug,Qtr3,AT,AT - Austria,AT,AT - Austria,AIB Member own country,37816
+EECS-Electricity,2021-08,2021,Aug,Qtr3,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,353595
+EECS-Electricity,2021-08,2021,Aug,Qtr3,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1166628
+EECS-Electricity,2021-08,2021,Aug,Qtr3,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,378301
+EECS-Electricity,2021-08,2021,Aug,Qtr3,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,2500
+EECS-Electricity,2021-08,2021,Aug,Qtr3,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,66
+EECS-Electricity,2021-08,2021,Aug,Qtr3,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,199247
+EECS-Electricity,2021-08,2021,Aug,Qtr3,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,102537
+EECS-Electricity,2021-08,2021,Aug,Qtr3,DE,DE - Germany,CH,CH - Switzerland,Other AIB member,1050
+EECS-Electricity,2021-08,2021,Aug,Qtr3,DE,DE - Germany,DE,DE - Germany,AIB Member own country,2560593
+EECS-Electricity,2021-08,2021,Aug,Qtr3,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,206313
+EECS-Electricity,2021-08,2021,Aug,Qtr3,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,104657
+EECS-Electricity,2021-08,2021,Aug,Qtr3,FI,FI - Finland,FI,FI - Finland,AIB Member own country,1144499
+EECS-Electricity,2021-08,2021,Aug,Qtr3,FR,FR - France,FR,FR - France,AIB Member own country,649253
+EECS-Electricity,2021-08,2021,Aug,Qtr3,GB,GB - United Kingdom,NO,NO - Norway,Other,40000
+EECS-Electricity,2021-08,2021,Aug,Qtr3,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,93
+EECS-Electricity,2021-08,2021,Aug,Qtr3,HU,HU - Hungary,CH,CH - Switzerland,Other AIB member,12514
+EECS-Electricity,2021-08,2021,Aug,Qtr3,HU,HU - Hungary,CZ,CZ - Czech Republic,Other AIB member,710
+EECS-Electricity,2021-08,2021,Aug,Qtr3,HU,HU - Hungary,NO,NO - Norway,Other AIB member,10639
+EECS-Electricity,2021-08,2021,Aug,Qtr3,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,850323
+EECS-Electricity,2021-08,2021,Aug,Qtr3,IT,IT - Italy,IT,IT - Italy,AIB Member own country,113697
+EECS-Electricity,2021-08,2021,Aug,Qtr3,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,2
+EECS-Electricity,2021-08,2021,Aug,Qtr3,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,255498
+EECS-Electricity,2021-08,2021,Aug,Qtr3,LV,LV - Latvia,LV,LV - Latvia,AIB Member own country,56596
+EECS-Electricity,2021-08,2021,Aug,Qtr3,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,7438089
+EECS-Electricity,2021-08,2021,Aug,Qtr3,NO,NO - Norway,NO,NO - Norway,AIB Member own country,1447096
+EECS-Electricity,2021-08,2021,Aug,Qtr3,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,10162
+EECS-Electricity,2021-08,2021,Aug,Qtr3,PT,PT - Portugal,PT,PT - Portugal,AIB Member own country,573857
+EECS-Electricity,2021-08,2021,Aug,Qtr3,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,517
+EECS-Electricity,2021-08,2021,Aug,Qtr3,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,20961
+EECS-Electricity,2021-08,2021,Aug,Qtr3,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,1297802
+EECS-Electricity,2021-08,2021,Aug,Qtr3,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,344858
+EECS-Electricity,2021-08,2021,Aug,Qtr3,UA,UA - Ukraine,NO,NO - Norway,EU/EEA/EC non AIB Member,146
+EECS-Electricity,2021-04,2021,Apr,Qtr2,AT,AT - Austria,AT,AT - Austria,AIB Member own country,33177698
+EECS-Electricity,2021-04,2021,Apr,Qtr2,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,976054
+EECS-Electricity,2021-04,2021,Apr,Qtr2,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,561088
+EECS-Electricity,2021-04,2021,Apr,Qtr2,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,15007125
+EECS-Electricity,2021-04,2021,Apr,Qtr2,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,342674
+EECS-Electricity,2021-04,2021,Apr,Qtr2,DE,DE - Germany,DE,DE - Germany,AIB Member own country,14594856
+EECS-Electricity,2021-04,2021,Apr,Qtr2,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,52168
+EECS-Electricity,2021-04,2021,Apr,Qtr2,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,97728
+EECS-Electricity,2021-04,2021,Apr,Qtr2,FI,FI - Finland,FI,FI - Finland,AIB Member own country,973838
+EECS-Electricity,2021-04,2021,Apr,Qtr2,FR,FR - France,FR,FR - France,AIB Member own country,2156916
+EECS-Electricity,2021-04,2021,Apr,Qtr2,GB,GB - United Kingdom,CH,CH - Switzerland,Other,32655
+EECS-Electricity,2021-04,2021,Apr,Qtr2,GB,GB - United Kingdom,NO,NO - Norway,Other,8964917
+EECS-Electricity,2021-04,2021,Apr,Qtr2,GB,GB - United Kingdom,SE,SE - Sweden,Other,9263
+EECS-Electricity,2021-04,2021,Apr,Qtr2,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,606
+EECS-Electricity,2021-04,2021,Apr,Qtr2,HU,HU - Hungary,CZ,CZ - Czech Republic,Other AIB member,23299
+EECS-Electricity,2021-04,2021,Apr,Qtr2,HU,HU - Hungary,FR,FR - France,Other AIB member,26750
+EECS-Electricity,2021-04,2021,Apr,Qtr2,HU,HU - Hungary,NO,NO - Norway,Other AIB member,27379
+EECS-Electricity,2021-04,2021,Apr,Qtr2,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,128854
+EECS-Electricity,2021-04,2021,Apr,Qtr2,IT,IT - Italy,IT,IT - Italy,AIB Member own country,111720
+EECS-Electricity,2021-04,2021,Apr,Qtr2,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,209010
+EECS-Electricity,2021-04,2021,Apr,Qtr2,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,122489
+EECS-Electricity,2021-04,2021,Apr,Qtr2,LV,LV - Latvia,LV,LV - Latvia,AIB Member own country,57695
+EECS-Electricity,2021-04,2021,Apr,Qtr2,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,11628546
+EECS-Electricity,2021-04,2021,Apr,Qtr2,NO,NO - Norway,NO,NO - Norway,AIB Member own country,797116
+EECS-Electricity,2021-04,2021,Apr,Qtr2,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,19327
+EECS-Electricity,2021-04,2021,Apr,Qtr2,PT,PT - Portugal,PT,PT - Portugal,AIB Member own country,579519
+EECS-Electricity,2021-04,2021,Apr,Qtr2,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,374
+EECS-Electricity,2021-04,2021,Apr,Qtr2,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,27884
+EECS-Electricity,2021-04,2021,Apr,Qtr2,RU,RU - Russian Federation,NO,NO - Norway,Other,3427
+EECS-Electricity,2021-04,2021,Apr,Qtr2,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,1553605
+EECS-Electricity,2021-04,2021,Apr,Qtr2,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,196395
+EECS-Electricity,2021-04,2021,Apr,Qtr2,UA,UA - Ukraine,NO,NO - Norway,EU/EEA/EC non AIB Member,1188
+EECS-Electricity,2021-04,2021,Apr,Qtr2,US,US - United States of America,NO,NO - Norway,Other,70569
+EECS-Electricity,2021-09,2021,Sep,Qtr3,AT,AT - Austria,AT,AT - Austria,AIB Member own country,131334
+EECS-Electricity,2021-09,2021,Sep,Qtr3,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,326085
+EECS-Electricity,2021-09,2021,Sep,Qtr3,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,384905
+EECS-Electricity,2021-09,2021,Sep,Qtr3,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,111922
+EECS-Electricity,2021-09,2021,Sep,Qtr3,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,7258
+EECS-Electricity,2021-09,2021,Sep,Qtr3,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,821664
+EECS-Electricity,2021-09,2021,Sep,Qtr3,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,170748
+EECS-Electricity,2021-09,2021,Sep,Qtr3,DE,DE - Germany,DE,DE - Germany,AIB Member own country,2369274
+EECS-Electricity,2021-09,2021,Sep,Qtr3,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,279591
+EECS-Electricity,2021-09,2021,Sep,Qtr3,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,39124
+EECS-Electricity,2021-09,2021,Sep,Qtr3,FI,FI - Finland,FI,FI - Finland,AIB Member own country,1969257
+EECS-Electricity,2021-09,2021,Sep,Qtr3,FR,FR - France,FR,FR - France,AIB Member own country,2488608
+EECS-Electricity,2021-09,2021,Sep,Qtr3,GB,GB - United Kingdom,NO,NO - Norway,Other,36789
+EECS-Electricity,2021-09,2021,Sep,Qtr3,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,1093640
+EECS-Electricity,2021-09,2021,Sep,Qtr3,HU,HU - Hungary,NO,NO - Norway,Other AIB member,101891
+EECS-Electricity,2021-09,2021,Sep,Qtr3,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,1482362
+EECS-Electricity,2021-09,2021,Sep,Qtr3,IT,IT - Italy,IT,IT - Italy,AIB Member own country,199220
+EECS-Electricity,2021-09,2021,Sep,Qtr3,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,3
+EECS-Electricity,2021-09,2021,Sep,Qtr3,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,85767
+EECS-Electricity,2021-09,2021,Sep,Qtr3,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,20000
+EECS-Electricity,2021-09,2021,Sep,Qtr3,LV,LV - Latvia,LV,LV - Latvia,AIB Member own country,60276
+EECS-Electricity,2021-09,2021,Sep,Qtr3,MT,MT - Malta,FR,FR - France,EU/EEA/EC non AIB Member,6751
+EECS-Electricity,2021-09,2021,Sep,Qtr3,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,7210708
+EECS-Electricity,2021-09,2021,Sep,Qtr3,NO,NO - Norway,NO,NO - Norway,AIB Member own country,1527964
+EECS-Electricity,2021-09,2021,Sep,Qtr3,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,4601
+EECS-Electricity,2021-09,2021,Sep,Qtr3,PT,PT - Portugal,PT,PT - Portugal,AIB Member own country,339407
+EECS-Electricity,2021-09,2021,Sep,Qtr3,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,11
+EECS-Electricity,2021-09,2021,Sep,Qtr3,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,78266
+EECS-Electricity,2021-09,2021,Sep,Qtr3,RU,RU - Russian Federation,NO,NO - Norway,Other,202
+EECS-Electricity,2021-09,2021,Sep,Qtr3,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,7132361
+EECS-Electricity,2021-09,2021,Sep,Qtr3,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,2435
+EECS-Electricity,2021-09,2021,Sep,Qtr3,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,241007
+EECS-Electricity,2021-09,2021,Sep,Qtr3,ME,ME - Montenegro,NO,NO - Norway,Other AIB member,18000
+EECS-Electricity,2021-10,2021,Oct,Qtr4,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1927610
+EECS-Electricity,2021-10,2021,Oct,Qtr4,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,30144
+EECS-Electricity,2021-10,2021,Oct,Qtr4,BY,BY - Belarus,NO,NO - Norway,Other,2580
+EECS-Electricity,2021-10,2021,Oct,Qtr4,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,227753
+EECS-Electricity,2021-10,2021,Oct,Qtr4,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,309820
+EECS-Electricity,2021-10,2021,Oct,Qtr4,DE,DE - Germany,DE,DE - Germany,AIB Member own country,6352337
+EECS-Electricity,2021-10,2021,Oct,Qtr4,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,327390
+EECS-Electricity,2021-10,2021,Oct,Qtr4,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,76988
+EECS-Electricity,2021-10,2021,Oct,Qtr4,FI,FI - Finland,FI,FI - Finland,AIB Member own country,1627305
+EECS-Electricity,2021-10,2021,Oct,Qtr4,FR,FR - France,FR,FR - France,AIB Member own country,1837144
+EECS-Electricity,2021-10,2021,Oct,Qtr4,GB,GB - United Kingdom,NO,NO - Norway,Other,1390
+EECS-Electricity,2021-10,2021,Oct,Qtr4,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,1207
+EECS-Electricity,2021-10,2021,Oct,Qtr4,HU,HU - Hungary,FR,FR - France,Other AIB member,2400
+EECS-Electricity,2021-10,2021,Oct,Qtr4,HU,HU - Hungary,NO,NO - Norway,Other AIB member,142379
+EECS-Electricity,2021-10,2021,Oct,Qtr4,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,1289110
+EECS-Electricity,2021-10,2021,Oct,Qtr4,IT,IT - Italy,IT,IT - Italy,AIB Member own country,108449
+EECS-Electricity,2021-10,2021,Oct,Qtr4,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,3
+EECS-Electricity,2021-10,2021,Oct,Qtr4,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,86419
+EECS-Electricity,2021-10,2021,Oct,Qtr4,LV,LV - Latvia,LV,LV - Latvia,AIB Member own country,70208
+EECS-Electricity,2021-10,2021,Oct,Qtr4,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,9002392
+EECS-Electricity,2021-10,2021,Oct,Qtr4,NO,NO - Norway,NO,NO - Norway,AIB Member own country,3050356
+EECS-Electricity,2021-10,2021,Oct,Qtr4,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,4795
+EECS-Electricity,2021-10,2021,Oct,Qtr4,PT,PT - Portugal,PT,PT - Portugal,AIB Member own country,1238970
+EECS-Electricity,2021-10,2021,Oct,Qtr4,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,186312
+EECS-Electricity,2021-10,2021,Oct,Qtr4,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,100619
+EECS-Electricity,2021-10,2021,Oct,Qtr4,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,2021443
+EECS-Electricity,2021-10,2021,Oct,Qtr4,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,7085
+EECS-Electricity,2021-10,2021,Oct,Qtr4,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,544160
+EECS-Electricity,2021-10,2021,Oct,Qtr4,US,US - United States of America,NO,NO - Norway,Other,18267
+EECS-Electricity,2021-11,2021,Nov,Qtr4,AL,AL - Albania,NO,NO - Norway,EU/EEA/EC non AIB Member,130
+EECS-Electricity,2021-11,2021,Nov,Qtr4,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,655724
+EECS-Electricity,2021-11,2021,Nov,Qtr4,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,1270042
+EECS-Electricity,2021-11,2021,Nov,Qtr4,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,422615
+EECS-Electricity,2021-11,2021,Nov,Qtr4,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,260
+EECS-Electricity,2021-11,2021,Nov,Qtr4,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,729
+EECS-Electricity,2021-11,2021,Nov,Qtr4,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,49019
+EECS-Electricity,2021-11,2021,Nov,Qtr4,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,213257
+EECS-Electricity,2021-11,2021,Nov,Qtr4,DE,DE - Germany,DE,DE - Germany,AIB Member own country,2315503
+EECS-Electricity,2021-11,2021,Nov,Qtr4,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,327560
+EECS-Electricity,2021-11,2021,Nov,Qtr4,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,40572
+EECS-Electricity,2021-11,2021,Nov,Qtr4,FI,FI - Finland,FI,FI - Finland,AIB Member own country,2154341
+EECS-Electricity,2021-11,2021,Nov,Qtr4,FR,FR - France,FR,FR - France,AIB Member own country,2660271
+EECS-Electricity,2021-11,2021,Nov,Qtr4,GB,GB - United Kingdom,IE,IE - Ireland,Other,200000
+EECS-Electricity,2021-11,2021,Nov,Qtr4,GB,GB - United Kingdom,NO,NO - Norway,Other,114
+EECS-Electricity,2021-11,2021,Nov,Qtr4,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,5496
+EECS-Electricity,2021-11,2021,Nov,Qtr4,HU,HU - Hungary,CH,CH - Switzerland,Other AIB member,6934
+EECS-Electricity,2021-11,2021,Nov,Qtr4,HU,HU - Hungary,CZ,CZ - Czech Republic,Other AIB member,40835
+EECS-Electricity,2021-11,2021,Nov,Qtr4,HU,HU - Hungary,NO,NO - Norway,Other AIB member,287345
+EECS-Electricity,2021-11,2021,Nov,Qtr4,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,1792189
+EECS-Electricity,2021-11,2021,Nov,Qtr4,IT,IT - Italy,IT,IT - Italy,AIB Member own country,238557
+EECS-Electricity,2021-11,2021,Nov,Qtr4,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,2
+EECS-Electricity,2021-11,2021,Nov,Qtr4,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,107712
+EECS-Electricity,2021-11,2021,Nov,Qtr4,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,45000
+EECS-Electricity,2021-11,2021,Nov,Qtr4,LV,LV - Latvia,LV,LV - Latvia,AIB Member own country,72884
+EECS-Electricity,2021-11,2021,Nov,Qtr4,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,8132072
+EECS-Electricity,2021-11,2021,Nov,Qtr4,NO,NO - Norway,NO,NO - Norway,AIB Member own country,2092591
+EECS-Electricity,2021-11,2021,Nov,Qtr4,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,8046
+EECS-Electricity,2021-11,2021,Nov,Qtr4,PT,PT - Portugal,PT,PT - Portugal,AIB Member own country,383028
+EECS-Electricity,2021-11,2021,Nov,Qtr4,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,161827
+EECS-Electricity,2021-11,2021,Nov,Qtr4,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,102524
+EECS-Electricity,2021-11,2021,Nov,Qtr4,RU,RU - Russian Federation,FI,FI - Finland,Other,500
+EECS-Electricity,2021-11,2021,Nov,Qtr4,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,2648931
+EECS-Electricity,2021-11,2021,Nov,Qtr4,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,3791
+EECS-Electricity,2021-11,2021,Nov,Qtr4,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,611194
+EECS-Electricity,2021-11,2021,Nov,Qtr4,UA,UA - Ukraine,NO,NO - Norway,EU/EEA/EC non AIB Member,1114
+EECS-Electricity,2021-11,2021,Nov,Qtr4,US,US - United States of America,NO,NO - Norway,Other,281733
+EECS-Electricity,2021-12,2021,Dec,Qtr4,AT,AT - Austria,AT,AT - Austria,AIB Member own country,5288891
+EECS-Electricity,2021-12,2021,Dec,Qtr4,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,41211
+EECS-Electricity,2021-12,2021,Dec,Qtr4,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,558937
+EECS-Electricity,2021-12,2021,Dec,Qtr4,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,549301
+EECS-Electricity,2021-12,2021,Dec,Qtr4,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,2499
+EECS-Electricity,2021-12,2021,Dec,Qtr4,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,658835
+EECS-Electricity,2021-12,2021,Dec,Qtr4,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,384386
+EECS-Electricity,2021-12,2021,Dec,Qtr4,DE,DE - Germany,DE,DE - Germany,AIB Member own country,4930931
+EECS-Electricity,2021-12,2021,Dec,Qtr4,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,1024752
+EECS-Electricity,2021-12,2021,Dec,Qtr4,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,113647
+EECS-Electricity,2021-12,2021,Dec,Qtr4,ES,ES - Spain,ES,ES - Spain,AIB Member own country,117134
+EECS-Electricity,2021-12,2021,Dec,Qtr4,FI,FI - Finland,FI,FI - Finland,AIB Member own country,2467434
+EECS-Electricity,2021-12,2021,Dec,Qtr4,FR,FR - France,FR,FR - France,AIB Member own country,8140902
+EECS-Electricity,2021-12,2021,Dec,Qtr4,GB,GB - United Kingdom,NO,NO - Norway,Other,7164670
+EECS-Electricity,2021-12,2021,Dec,Qtr4,HU,HU - Hungary,CZ,CZ - Czech Republic,Other AIB member,12672
+EECS-Electricity,2021-12,2021,Dec,Qtr4,HU,HU - Hungary,FR,FR - France,Other AIB member,40500
+EECS-Electricity,2021-12,2021,Dec,Qtr4,HU,HU - Hungary,NO,NO - Norway,Other AIB member,100646
+EECS-Electricity,2021-12,2021,Dec,Qtr4,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,1084908
+EECS-Electricity,2021-12,2021,Dec,Qtr4,IS,IS - Iceland,IS,IS - Iceland,AIB Member own country,423
+EECS-Electricity,2021-12,2021,Dec,Qtr4,IT,IT - Italy,CH,CH - Switzerland,Other AIB member,70
+EECS-Electricity,2021-12,2021,Dec,Qtr4,IT,IT - Italy,IT,IT - Italy,AIB Member own country,377698
+EECS-Electricity,2021-12,2021,Dec,Qtr4,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,1
+EECS-Electricity,2021-12,2021,Dec,Qtr4,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,213782
+EECS-Electricity,2021-12,2021,Dec,Qtr4,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,215258
+EECS-Electricity,2021-12,2021,Dec,Qtr4,LV,LV - Latvia,LV,LV - Latvia,AIB Member own country,76499
+EECS-Electricity,2021-12,2021,Dec,Qtr4,MT,MT - Malta,FR,FR - France,EU/EEA/EC non AIB Member,6749
+EECS-Electricity,2021-12,2021,Dec,Qtr4,MT,MT - Malta,NO,NO - Norway,EU/EEA/EC non AIB Member,546
+EECS-Electricity,2021-12,2021,Dec,Qtr4,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,10480858
+EECS-Electricity,2021-12,2021,Dec,Qtr4,NO,NO - Norway,NO,NO - Norway,AIB Member own country,2579991
+EECS-Electricity,2021-12,2021,Dec,Qtr4,PL,PL - Poland,FR,FR - France,EU/EEA/EC non AIB Member,130382
+EECS-Electricity,2021-12,2021,Dec,Qtr4,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,26807
+EECS-Electricity,2021-12,2021,Dec,Qtr4,PT,PT - Portugal,PT,PT - Portugal,AIB Member own country,28730
+EECS-Electricity,2021-12,2021,Dec,Qtr4,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,15081
+EECS-Electricity,2021-12,2021,Dec,Qtr4,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,194815
+EECS-Electricity,2021-12,2021,Dec,Qtr4,RU,RU - Russian Federation,FI,FI - Finland,Other,5073
+EECS-Electricity,2021-12,2021,Dec,Qtr4,RU,RU - Russian Federation,NO,NO - Norway,Other,9379
+EECS-Electricity,2021-12,2021,Dec,Qtr4,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,5169948
+EECS-Electricity,2021-12,2021,Dec,Qtr4,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,7300
+EECS-Electricity,2021-12,2021,Dec,Qtr4,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,387278
+EECS-Electricity,2021-12,2021,Dec,Qtr4,TR,TR - Turkey,NO,NO - Norway,Other,792
+EECS-Electricity,2022-01,2022,Jan,Qtr1,AL,AL - Albania,FR,FR - France,EU/EEA/EC non AIB Member,9000
+EECS-Electricity,2022-01,2022,Jan,Qtr1,AT,AT - Austria,AT,AT - Austria,AIB Member own country,989533
+EECS-Electricity,2022-01,2022,Jan,Qtr1,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,15045
+EECS-Electricity,2022-01,2022,Jan,Qtr1,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,92921
+EECS-Electricity,2022-01,2022,Jan,Qtr1,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,189269
+EECS-Electricity,2022-01,2022,Jan,Qtr1,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,2880
+EECS-Electricity,2022-01,2022,Jan,Qtr1,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,15288
+EECS-Electricity,2022-01,2022,Jan,Qtr1,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,355192
+EECS-Electricity,2022-01,2022,Jan,Qtr1,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,473735
+EECS-Electricity,2022-01,2022,Jan,Qtr1,DE,DE - Germany,DE,DE - Germany,AIB Member own country,19338837
+EECS-Electricity,2022-01,2022,Jan,Qtr1,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,4331844
+EECS-Electricity,2022-01,2022,Jan,Qtr1,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,196113
+EECS-Electricity,2022-01,2022,Jan,Qtr1,ES,ES - Spain,ES,ES - Spain,AIB Member own country,276829
+EECS-Electricity,2022-01,2022,Jan,Qtr1,FI,FI - Finland,FI,FI - Finland,AIB Member own country,4152003
+EECS-Electricity,2022-01,2022,Jan,Qtr1,FR,FR - France,FR,FR - France,AIB Member own country,9696706
+EECS-Electricity,2022-01,2022,Jan,Qtr1,GB,GB - United Kingdom,FR,FR - France,Other,13972
+EECS-Electricity,2022-01,2022,Jan,Qtr1,GB,GB - United Kingdom,IE,IE - Ireland,Other,670560
+EECS-Electricity,2022-01,2022,Jan,Qtr1,GB,GB - United Kingdom,NO,NO - Norway,Other,138527
+EECS-Electricity,2022-01,2022,Jan,Qtr1,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,547956
+EECS-Electricity,2022-01,2022,Jan,Qtr1,HU,HU - Hungary,CZ,CZ - Czech Republic,Other AIB member,221116
+EECS-Electricity,2022-01,2022,Jan,Qtr1,HU,HU - Hungary,FR,FR - France,Other AIB member,1200
+EECS-Electricity,2022-01,2022,Jan,Qtr1,HU,HU - Hungary,NO,NO - Norway,Other AIB member,193563
+EECS-Electricity,2022-01,2022,Jan,Qtr1,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,581589
+EECS-Electricity,2022-01,2022,Jan,Qtr1,IL,IL - Israel,NO,NO - Norway,Other,29
+EECS-Electricity,2022-01,2022,Jan,Qtr1,IS,IS - Iceland,IS,IS - Iceland,AIB Member own country,265098
+EECS-Electricity,2022-01,2022,Jan,Qtr1,IT,IT - Italy,IT,IT - Italy,AIB Member own country,7798739
+EECS-Electricity,2022-01,2022,Jan,Qtr1,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,24562
+EECS-Electricity,2022-01,2022,Jan,Qtr1,LI,LI - Liechtenstein,NO,NO - Norway,EU/EEA/EC non AIB Member,170
+EECS-Electricity,2022-01,2022,Jan,Qtr1,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,35303
+EECS-Electricity,2022-01,2022,Jan,Qtr1,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,962607
+EECS-Electricity,2022-01,2022,Jan,Qtr1,LV,LV - Latvia,LV,LV - Latvia,AIB Member own country,64557
+EECS-Electricity,2022-01,2022,Jan,Qtr1,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,12542301
+EECS-Electricity,2022-01,2022,Jan,Qtr1,NO,NO - Norway,NO,NO - Norway,AIB Member own country,2762068
+EECS-Electricity,2022-01,2022,Jan,Qtr1,PL,PL - Poland,FR,FR - France,EU/EEA/EC non AIB Member,251
+EECS-Electricity,2022-01,2022,Jan,Qtr1,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,94974
+EECS-Electricity,2022-01,2022,Jan,Qtr1,PT,PT - Portugal,PT,PT - Portugal,AIB Member own country,2143590
+EECS-Electricity,2022-01,2022,Jan,Qtr1,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,71395
+EECS-Electricity,2022-01,2022,Jan,Qtr1,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,8478183
+EECS-Electricity,2022-01,2022,Jan,Qtr1,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,114949
+EECS-Electricity,2022-01,2022,Jan,Qtr1,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,511480
+EECS-Electricity,2022-01,2022,Jan,Qtr1,UA,UA - Ukraine,NO,NO - Norway,EU/EEA/EC non AIB Member,60
+EECS-Electricity,2022-02,2022,Feb,Qtr1,AL,AL - Albania,NO,NO - Norway,EU/EEA/EC non AIB Member,20703
+EECS-Electricity,2022-02,2022,Feb,Qtr1,AT,AT - Austria,AT,AT - Austria,AIB Member own country,159220
+EECS-Electricity,2022-02,2022,Feb,Qtr1,BA,BA - Bosnia and Herzegovina,CH,CH - Switzerland,EU/EEA/EC non AIB Member,3599
+EECS-Electricity,2022-02,2022,Feb,Qtr1,BE,BEB - Belgium (Brussels),BE,BEB - Belgium (Brussels),AIB Member own country,223465
+EECS-Electricity,2022-02,2022,Feb,Qtr1,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,161076
+EECS-Electricity,2022-02,2022,Feb,Qtr1,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,780314
+EECS-Electricity,2022-02,2022,Feb,Qtr1,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,2800
+EECS-Electricity,2022-02,2022,Feb,Qtr1,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,284
+EECS-Electricity,2022-02,2022,Feb,Qtr1,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,509191
+EECS-Electricity,2022-02,2022,Feb,Qtr1,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,551966
+EECS-Electricity,2022-02,2022,Feb,Qtr1,DE,DE - Germany,DE,DE - Germany,AIB Member own country,17108517
+EECS-Electricity,2022-02,2022,Feb,Qtr1,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,2496985
+EECS-Electricity,2022-02,2022,Feb,Qtr1,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,29935
+EECS-Electricity,2022-02,2022,Feb,Qtr1,ES,ES - Spain,ES,ES - Spain,AIB Member own country,2977347
+EECS-Electricity,2022-02,2022,Feb,Qtr1,FI,FI - Finland,FI,FI - Finland,AIB Member own country,3753679
+EECS-Electricity,2022-02,2022,Feb,Qtr1,FR,FR - France,FR,FR - France,AIB Member own country,6035288
+EECS-Electricity,2022-02,2022,Feb,Qtr1,GB,GB - United Kingdom,FR,FR - France,Other,50
+EECS-Electricity,2022-02,2022,Feb,Qtr1,GB,GB - United Kingdom,NO,NO - Norway,Other,43953
+EECS-Electricity,2022-02,2022,Feb,Qtr1,GB,GB - United Kingdom,SE,SE - Sweden,Other,254422
+EECS-Electricity,2022-02,2022,Feb,Qtr1,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,540495
+EECS-Electricity,2022-02,2022,Feb,Qtr1,HU,HU - Hungary,CH,CH - Switzerland,Other AIB member,5196
+EECS-Electricity,2022-02,2022,Feb,Qtr1,HU,HU - Hungary,CZ,CZ - Czech Republic,Other AIB member,5966
+EECS-Electricity,2022-02,2022,Feb,Qtr1,HU,HU - Hungary,FR,FR - France,Other AIB member,83356
+EECS-Electricity,2022-02,2022,Feb,Qtr1,HU,HU - Hungary,NO,NO - Norway,Other AIB member,118841
+EECS-Electricity,2022-02,2022,Feb,Qtr1,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,833462
+EECS-Electricity,2022-02,2022,Feb,Qtr1,IS,IS - Iceland,IS,IS - Iceland,AIB Member own country,1604001
+EECS-Electricity,2022-02,2022,Feb,Qtr1,IT,IT - Italy,IT,IT - Italy,AIB Member own country,7782500
+EECS-Electricity,2022-02,2022,Feb,Qtr1,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,1
+EECS-Electricity,2022-02,2022,Feb,Qtr1,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,122917
+EECS-Electricity,2022-02,2022,Feb,Qtr1,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,1844932
+EECS-Electricity,2022-02,2022,Feb,Qtr1,LV,LV - Latvia,LV,LV - Latvia,AIB Member own country,108298
+EECS-Electricity,2022-02,2022,Feb,Qtr1,MT,MT - Malta,FR,FR - France,EU/EEA/EC non AIB Member,30
+EECS-Electricity,2022-02,2022,Feb,Qtr1,MT,MT - Malta,NO,NO - Norway,EU/EEA/EC non AIB Member,39000
+EECS-Electricity,2022-02,2022,Feb,Qtr1,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,9442391
+EECS-Electricity,2022-02,2022,Feb,Qtr1,NO,NO - Norway,NO,NO - Norway,AIB Member own country,4512874
+EECS-Electricity,2022-02,2022,Feb,Qtr1,PL,PL - Poland,FI,FI - Finland,EU/EEA/EC non AIB Member,7629
+EECS-Electricity,2022-02,2022,Feb,Qtr1,PL,PL - Poland,FR,FR - France,EU/EEA/EC non AIB Member,418
+EECS-Electricity,2022-02,2022,Feb,Qtr1,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,24978
+EECS-Electricity,2022-02,2022,Feb,Qtr1,PT,PT - Portugal,PT,PT - Portugal,AIB Member own country,1455641
+EECS-Electricity,2022-02,2022,Feb,Qtr1,PT,PTA - Portugal (Autonomous Region of Azores),PT,PT - Portugal,Other,8
+EECS-Electricity,2022-02,2022,Feb,Qtr1,PT,PTM - Portugal (Autonomous Region of Madeira),PT,PT - Portugal,Other,6897
+EECS-Electricity,2022-02,2022,Feb,Qtr1,RO,RO - Romania,FR,FR - France,EU/EEA/EC non AIB Member,70
+EECS-Electricity,2022-02,2022,Feb,Qtr1,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,68098
+EECS-Electricity,2022-02,2022,Feb,Qtr1,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,102991
+EECS-Electricity,2022-02,2022,Feb,Qtr1,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,9828649
+EECS-Electricity,2022-02,2022,Feb,Qtr1,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,196225
+EECS-Electricity,2022-02,2022,Feb,Qtr1,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,524548
+EECS-Electricity,2022-02,2022,Feb,Qtr1,UA,UA - Ukraine,NO,NO - Norway,EU/EEA/EC non AIB Member,8182
+EECS-Electricity,2022-03,2022,Mar,Qtr1,AT,AT - Austria,AT,AT - Austria,AIB Member own country,24553256
+EECS-Electricity,2022-03,2022,Mar,Qtr1,AU,AU - Australia,NO,NO - Norway,Other,333
+EECS-Electricity,2022-03,2022,Mar,Qtr1,BE,BEF - Belgium (Flanders),BE,BEF - Belgium (Flanders),AIB Member own country,2325443
+EECS-Electricity,2022-03,2022,Mar,Qtr1,BE,BEW - Belgium (Wallonia),BE,BEW - Belgium (Wallonia),AIB Member own country,3101688
+EECS-Electricity,2022-03,2022,Mar,Qtr1,BG,BG - Bulgaria,CZ,CZ - Czech Republic,EU/EEA/EC non AIB Member,3650
+EECS-Electricity,2022-03,2022,Mar,Qtr1,BG,BG - Bulgaria,FR,FR - France,EU/EEA/EC non AIB Member,28
+EECS-Electricity,2022-03,2022,Mar,Qtr1,BG,BG - Bulgaria,NO,NO - Norway,EU/EEA/EC non AIB Member,5703
+EECS-Electricity,2022-03,2022,Mar,Qtr1,BR,BR - Brazil,NO,NO - Norway,Other,2150
+EECS-Electricity,2022-03,2022,Mar,Qtr1,CH,CH - Switzerland,CH,CH - Switzerland,AIB Member own country,8634200
+EECS-Electricity,2022-03,2022,Mar,Qtr1,CZ,CZ - Czech Republic,CZ,CZ - Czech Republic,AIB Member own country,655842
+EECS-Electricity,2022-03,2022,Mar,Qtr1,DE,DE - Germany,DE,DE - Germany,AIB Member own country,24775495
+EECS-Electricity,2022-03,2022,Mar,Qtr1,DK,DK - Denmark,DK,DK - Denmark,AIB Member own country,2168569
+EECS-Electricity,2022-03,2022,Mar,Qtr1,EE,EE - Estonia,EE,EE - Estonia,AIB Member own country,308201
+EECS-Electricity,2022-03,2022,Mar,Qtr1,ES,ES - Spain,ES,ES - Spain,AIB Member own country,5836497
+EECS-Electricity,2022-03,2022,Mar,Qtr1,FI,FI - Finland,FI,FI - Finland,AIB Member own country,8315707
+EECS-Electricity,2022-03,2022,Mar,Qtr1,FR,FR - France,FR,FR - France,AIB Member own country,20441233
+EECS-Electricity,2022-03,2022,Mar,Qtr1,GB,GB - United Kingdom,IE,IE - Ireland,Other,263575
+EECS-Electricity,2022-03,2022,Mar,Qtr1,GB,GB - United Kingdom,NO,NO - Norway,Other,6342634
+EECS-Electricity,2022-03,2022,Mar,Qtr1,GB,GB - United Kingdom,SE,SE - Sweden,Other,840000
+EECS-Electricity,2022-03,2022,Mar,Qtr1,GR,GR - Greece,FI,FI - Finland,Other AIB member,8000
+EECS-Electricity,2022-03,2022,Mar,Qtr1,HR,HR - Croatia,HR,HR - Croatia,AIB Member own country,210498
+EECS-Electricity,2022-03,2022,Mar,Qtr1,HU,HU - Hungary,NO,NO - Norway,Other AIB member,43677
+EECS-Electricity,2022-03,2022,Mar,Qtr1,HU,HU - Hungary,HU,HU - Hungary,AIB Member own country,263779
+EECS-Electricity,2022-03,2022,Mar,Qtr1,IE,IE - Ireland,IE,IE - Ireland,AIB Member own country,6401820
+EECS-Electricity,2022-03,2022,Mar,Qtr1,IL,IL - Israel,NO,NO - Norway,Other,1
+EECS-Electricity,2022-03,2022,Mar,Qtr1,IN,IN - India,NO,NO - Norway,Other,11651
+EECS-Electricity,2022-03,2022,Mar,Qtr1,IS,IS - Iceland,IS,IS - Iceland,AIB Member own country,1397166
+EECS-Electricity,2022-03,2022,Mar,Qtr1,IT,IT - Italy,IT,IT - Italy,AIB Member own country,52994737
+EECS-Electricity,2022-03,2022,Mar,Qtr1,KZ,KZ - Kazakhstan,NO,NO - Norway,Other,53
+EECS-Electricity,2022-03,2022,Mar,Qtr1,LI,LI - Liechtenstein,CH,CH - Switzerland,EU/EEA/EC non AIB Member,2
+EECS-Electricity,2022-03,2022,Mar,Qtr1,LT,LT - Lithuania,LT,LT - Lithuania,AIB Member own country,246391
+EECS-Electricity,2022-03,2022,Mar,Qtr1,LU,LU - Luxembourg,LU,LU - Luxembourg,AIB Member own country,242520
+EECS-Electricity,2022-03,2022,Mar,Qtr1,LV,LV - Latvia,LV,LV - Latvia,AIB Member own country,80176
+EECS-Electricity,2022-03,2022,Mar,Qtr1,MT,MT - Malta,NO,NO - Norway,EU/EEA/EC non AIB Member,11895
+EECS-Electricity,2022-03,2022,Mar,Qtr1,NL,NL - Netherlands,NL,NL - Netherlands,AIB Member own country,10265645
+EECS-Electricity,2022-03,2022,Mar,Qtr1,NO,NO - Norway,NO,NO - Norway,AIB Member own country,6137369
+EECS-Electricity,2022-03,2022,Mar,Qtr1,PE,PE - Peru,NO,NO - Norway,Other,7230
+EECS-Electricity,2022-03,2022,Mar,Qtr1,PL,PL - Poland,FI,FI - Finland,EU/EEA/EC non AIB Member,260
+EECS-Electricity,2022-03,2022,Mar,Qtr1,PL,PL - Poland,NO,NO - Norway,EU/EEA/EC non AIB Member,275273
+EECS-Electricity,2022-03,2022,Mar,Qtr1,PT,PT - Portugal,PT,PT - Portugal,AIB Member own country,1830997
+EECS-Electricity,2022-03,2022,Mar,Qtr1,RO,RO - Romania,FR,FR - France,EU/EEA/EC non AIB Member,42460
+EECS-Electricity,2022-03,2022,Mar,Qtr1,RO,RO - Romania,NO,NO - Norway,EU/EEA/EC non AIB Member,71341
+EECS-Electricity,2022-03,2022,Mar,Qtr1,RS,RS - Serbia,RS,RS - Serbia,AIB Member own country,141642
+EECS-Electricity,2022-03,2022,Mar,Qtr1,RU,RU - Russian Federation,FI,FI - Finland,Other,542
+EECS-Electricity,2022-03,2022,Mar,Qtr1,RU,RU - Russian Federation,NO,NO - Norway,Other,7548
+EECS-Electricity,2022-03,2022,Mar,Qtr1,SE,SE - Sweden,SE,SE - Sweden,AIB Member own country,19436686
+EECS-Electricity,2022-03,2022,Mar,Qtr1,SI,SI - Slovenia,SI,SI - Slovenia,AIB Member own country,1102365
+EECS-Electricity,2022-03,2022,Mar,Qtr1,SK,SK - Slovakia,SK,SK - Slovakia,AIB Member own country,547491
+EECS-Electricity,2022-03,2022,Mar,Qtr1,TR,TR - Turkey,NO,NO - Norway,Other,19125
+EECS-Electricity,2022-03,2022,Mar,Qtr1,UA,UA - Ukraine,NO,NO - Norway,EU/EEA/EC non AIB Member,695
+EECS-Electricity,2022-03,2022,Mar,Qtr1,US,US - United States of America,NO,NO - Norway,Other,3137
+EECS-Electricity,2022-03,2022,Mar,Qtr1,KR,KR - South Korea,NO,NO - Norway,Other,972
