@@ -1,14 +1,14 @@
-﻿aib_cat,aib_sub_cat,GF_cat
-Renewable,Unspecified&other,Renewable Unspecified & Other
-Renewable,Biomass,Biomass
-Renewable,Solar,Solar
-Renewable,Geothermal,Biomass
-Renewable,Wind,Wind
-Renewable,Hydro,Hydro
-Nuclear,Nuclear,Nuclear
-Fossil,Unspecified&other,Fossil unspecified & Other
-Fossil,Hardcoal,Fossil unspecified & Other
-Fossil,Lignite(orbrowncoal),Fossil unspecified & Other
-Fossil,Oil,Fossil unspecified & Other
-Fossil,NaturalGas,Fossil Natural gas
-TOTAL,TOTAL,Total
+﻿AIB_cat,AIB_sub_cat,GF_cat
+ Renewable ,Unspecified&other,Renewable Unspecified & Other
+ Renewable ,Biomass,Biomass
+ Renewable ,Solar,Solar
+ Renewable ,Geothermal,Biomass
+ Renewable ,Wind,Wind
+ Renewable ,Hydro,Hydro
+ Nuclear , Nuclear ,Nuclear
+ Fossil ,Unspecified&other,Fossil unspecified & Other
+ Fossil ,Hardcoal,Fossil unspecified & Other
+ Fossil ,Lignite(orbrowncoal),Fossil unspecified & Other
+ Fossil ,Oil,Fossil unspecified & Other
+ Fossil ,NaturalGas,Fossil Natural gas
+ TOTAL , TOTAL ,Total
