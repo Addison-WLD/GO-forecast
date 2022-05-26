@@ -42,11 +42,11 @@ O4695,Bitumen,-
 O4699,Otheroilproductsn.e.c.,-
 RA000,Renewablesandbiofuels,RES
 RA100,Hydro,Hydro
-RA200,Geothermal,Biomass
+RA200,Geothermal,Renewable Unspecified & Other
 RA300,Wind,Wind
-RA410,Solarthermal,Biomass
+RA410,Solarthermal,Renewable Unspecified & Other
 RA420,Solarphotovoltaic,Solar
-RA500,"Tide, wave, ocean",Hydro
+RA500,Tide,Hydro
 RA600,Ambientheat(heatpumps),Renewable Unspecified & Other
 R5110-5150_W6000RI,Primarysolidbiofuels,Biomass
 R5160,Charcoal,Biomass
