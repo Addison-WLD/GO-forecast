@@ -174,13 +174,13 @@ GROUP 6: OTHER POWER AND STORAGE TECHNOLOGIES ,OTHERPANDS
 6312 Electromagnetic storage ,6312ELMA
 6313 Mechanical storage ,6313MECH
 6314 Other storage (excluding fuel cells) ,6314OSTO
-"6319 Unallocated electrical storage 	6319ELSUN ",
-"632 Thermal energy storage 	632THEST ",
-"639 Unallocated energy storage 	639ENSTUN ",
-"69 Unallocated other power and storage technologies 	69OPOWUN ",
-"GROUP 7: OTHER CROSS-CUTTING TECHNOLOGIES AND RESEARCH 	OTHERTECH ",
-"71 Energy system analysis 	71SYSANA ",
-"72 Basic energy research that cannot be allocated to a specific category 	72BASICUN ",
-"73 Other 	73OTHER ",
-"GROUP 8: UNALLOCATED 	UNALLOC ",
-"TOTAL BUDGET 	TOTAL ",
+6319 Unallocated electrical storage ,6319ELSUN 
+632 Thermal energy storage ,632THEST 
+639 Unallocated energy storage ,639ENSTUN 
+69 Unallocated other power and storage technologies ,69OPOWUN 
+GROUP 7: OTHER CROSS-CUTTING TECHNOLOGIES AND RESEARCH ,OTHERTECH 
+71 Energy system analysis ,71SYSANA 
+72 Basic energy research that cannot be allocated to a specific category ,72BASICUN 
+73 Other ,73OTHER 
+GROUP 8: UNALLOCATED ,UNALLOC 
+TOTAL BUDGET ,TOTAL 
