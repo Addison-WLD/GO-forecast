@@ -1,179 +1,179 @@
 ﻿FLOW_name,FLOW
-GROUP 1: ENERGY EFFICIENCY ,EFFICIENCY 
-11 Industry ,11EFFIND 
-111 Industrial techniques and processes ,111INDTE 
-112 Industrial equipment and systems ,112INDEQ 
-113 Other industry ,113INDOT 
-119 Unallocated industry ,119INDUN 
-"12 Residential and commercial buildings, appliances and equipment ",12EFFRCO 
-121 Building design and envelope ,121BUDEE 
-1211 Building envelope technologies ,1211ENVE 
-1212 Building design ,1212DESI 
-1219 Unallocated building design and envelope ,1219BUUN 
-122 Building operation and efficient building equipment ,122OPERA 
-1221 Building management systems (including smart meters) and efficient internet and communication technologies ,1221EMAN 
-1222 Lighting technologies and control systems ,1222LTEC 
-"1223 Heating, cooling and ventilation technologies ",1223HEAT 
-1224 Other building operations and efficient building equipment ,1224OTHE 
-1229 Unallocated building operations and equipment ,1229OPUN 
-123 Appliances and other residential/commercial ,123APPLI 
-1231 Appliances ,1231APPL 
-1232 Batteries for portable devices ,1232BATT 
-1233 Other residential/commercial ,1233ORCO 
-1239 Unallocated appliances and other residential/commercial ,1239APUN 
-"129 Unallocated residential/commercial buildings, appliances and equipment ",129EFFRUN 
-13 Transport ,13TRANSP 
-131 On-road vehicles ,131ORVEH 
-1311 Vehicle batteries/storage technologies ,1311VBAT 
-"1312 Advanced power electronics, motors, EV/HEV/FCV systems ",1312ADVA 
-1313 Advanced combustion engines ,1313ENGI 
-1314 Electric vehicle infrastructure (including smart chargers and grid communications) ,1314INFR 
-1315 Fuel for on-road vehicles (excluding hydrogen) ,1315UFUE 
-1316 Materials for on-road vehicles ,1316MATE 
-1317 Other on-road transport ,1317OTHE 
-1319 Unallocated on-road vehicles ,1319ORUN 
-132 Off-road transport and transport systems ,132OFFRO 
-133 Other transport ,133OTRAN 
-139 Unallocated transport ,139TRANUN 
-14 Other energy efficiency ,14OEFFIC 
-141 Waste heat recovery and utilisation ,141WASTE 
-142 Communities ,142COMMU 
-143 Agriculture and forestry ,143AGRIF 
-144 Heat pumps and chillers ,144HEATP 
-145 Other energy efficiency ,145OENEF 
-149 Unallocated other energy efficiency ,149OEFUN 
-19 Unallocated energy efficiency ,19EFFUN 
-"GROUP 2: FOSSIL FUELS: OIL, GAS and COAL ",FOSSILFUEL 
-21 Oil and gas ,21OILGAS 
-211 Enhanced oil and gas production ,211ENHAN 
-"212 Refining, transport, storage of oil and gas ",212REFIN 
-213 Non-conventional oil and gas production ,213NONCO 
-214 Oil and gas combustion ,214COMBU 
-215 Oil and gas conversion ,215CONVE 
-216 Other oil and gas ,216OTOIL 
-219 Unallocated oil and gas ,219OGUN 
-22 Coal ,22COAL 
-"221 Coal production, preparation and transport ",221CPROD 
-222 Coal combustion (including IGCC) ,222CCOMB 
-223 Coal conversion (excluding IGCC) ,223CCONV 
-224 Other coal ,224OCOAL 
-229 Unallocated coal ,229COALUN 
-23 CO2 capture and storage ,23CO2CS 
-231 CO2 capture/separation ,231CAPSE 
-232 CO2 transport ,232CTRAN 
-233 CO2 storage ,233CSTOR 
-239 Unallocated CO2 capture and storage ,239CO2CSUN 
-29 Unallocated fossil fuels ,29FOSFUN 
-GROUP 3: RENEWABLE ENERGY SOURCES ,RENEWABLE 
-31 Solar energy ,31SOLAR 
-311 Solar heating and cooling ,311SHEAT 
-312 Photovoltaics ,312PHOTOV 
-313 Solar thermal power and high-temp. applications ,313THERMA 
-319 Unallocated solar energy ,319SOLUN 
-32 Wind energy ,32WIND 
-321 Onshore wind technologies ,321WONSH 
-322 Offshore wind technologies (excluding low wind speed) ,322WOFFS 
-323 Wind energy systems and other technologies ,323WSYST 
-329 Unallocated wind energy ,329WINDUN 
-33 Ocean energy ,33OCEAN 
-331 Tidal energy ,331TIDAL 
-332 Wave energy ,332WAVE 
-333 Salinity gradient power ,333SALIN 
-334 Other ocean energy ,334OOTHE 
-339 Unallocated ocean energy ,339OCEUN 
-"34 Biofuels (including liquid biofuels, solid biofuels and biogases) ",34BIOFUE 
-341 Production of liquid biofuels ,341LPROD 
-3411 Gasoline substitutes (including ethanol) ,3411GAS 
-"3412 Diesel, kerosene and jet fuel substitutes ",3412DIES 
-3413 Algal biofuels ,3413ALG 
-3414 Other liquid fuel substitutes ,3414LOTH 
-3419 Unallocated production of liquid biofuels ,3419LPUN 
-342 Production of solid biofuels ,342SPROD 
-343 Production of biogases ,343GPROD 
-3431 Thermochemical ,3431GTHE 
-3432 Biochemical (including anaerobic digestion) ,3432GBIO 
-3433 Other biogases ,3433GOTH 
-3439 Unallocated production of biogases ,3439GPUN 
-344 Applications for heat and electricity ,344BAPPL 
-345 Other biofuels ,345BOTHE 
-349 Unallocated biofuels ,349BIOUN 
-35 Geothermal energy ,35GEOTHE 
-351 Geothermal energy from hydrothermal resources ,351GEOHY 
-352 Geothermal energy from hot dry rock (HDR) resources ,352GEHDR 
-353 Advanced drilling and exploration ,353DRILL 
-354 Other geothermal energy (including low-temp. resources) ,354GOTHE 
-359 Unallocated geothermal energy ,359GEOUN 
-36 Hydroelectricity ,36HYDROE 
-361 Large hydroelectricity (capacity of 10 MW and above) ,361HLARG 
-362 Small hydroelectricity (capacity less than 10 MW) ,362HSMAL 
-369 Unallocated hydroelectricity ,369HYDRUN 
-37 Other renewable energy sources ,37OTHREN 
-39 Unallocated renewable energy sources ,39RENUN 
-GROUP 4: NUCLEAR ,NUCLEAR 
-41 Nuclear fission ,41FISSON 
-411 Light water reactors (LWRs) ,411LWRS 
-412 Other converter reactors ,412OTHNU 
-4121 Heavy water reactors (HWRs) ,4121HWRS 
-4122 Other converter reactors ,4122OTHE 
-4129 Unallocated other converter reactors ,4129OTNUN 
-413 Fuel cycle ,413FUCYC 
-4131 Fissile material recycling/reprocessing ,4131RECY 
-4132 Nuclear waste management ,4132WAST 
-4133 Other fuel cycle ,4133OTCY 
-4139 Unallocated fuel cycle ,4139FUCUN 
-414 Nuclear supporting technologies ,414SUPTE 
-4141 Plant safety and integrity ,4141SAFE 
-4142 Environmental protection ,4142PROT 
-4143 Decommissioning ,4143DECO 
-4144 Other nuclear supporting technologies ,4144ONUC 
-4149 Unallocated nuclear supporting technologies ,4149ONUN 
-415 Nuclear breeder ,415BREED 
-416 Other nuclear fission ,416OFISS 
-419 Unallocated nuclear fission ,419FISUN 
-42 Nuclear fusion ,42FUSION 
-421 Magnetic confinement ,421MACON 
-422 Inertial confinement ,422INCON 
-423 Other nuclear fusion ,423OFUSI 
-429 Unallocated nuclear fusion ,429FUSUN 
-49 Unallocated nuclear ,49NUCUN 
-GROUP 5: HYDROGEN AND FUEL CELLS ,HGENCELL 
-51 Hydrogen ,51HYDROG 
-511 Hydrogen production ,511HYPRO 
-512 Hydrogen storage ,512HYSTO 
-513 Hydrogen transport and distribution ,513HYTRA 
-514 Other infrastructure and systems ,514HYINF 
-515 Hydrogen end-uses (including combustion; excluding fuel cells and vehicles) ,515HYEND 
-519 Unallocated hydrogen ,519HYDUN 
-52 Fuel cells ,52FUELCE 
-521 Stationary applications ,521FUSTA 
-522 Mobile applications ,522FUMOB 
-523 Other applications ,523FUOTH 
-529 Unallocated fuel cells ,529FUELUN 
-59 Unallocated hydrogen and fuel cells ,59HYFUUN 
-GROUP 6: OTHER POWER AND STORAGE TECHNOLOGIES ,OTHERPANDS 
-61 Electric power generation ,61POWCON 
-611 Power generation technologies ,611GETEC 
-612 Power generation supporting technologies ,612GESUP 
-613 Other electricity power generation ,613GEOTH 
-619 Unallocated electric power generation ,619POWUN 
-62 Electricity transmission and distribution ,62TRADIS 
-621 Transmission and distribution technologies ,621TDTEC 
-"6211 Cables and conductors (superconducting, conventional, composite core) ",6211CABL 
-6212 AC/DC conversion ,6212ACDC 
-6213 Other transmission and distribution techs. ,6213OTHE 
-6219 Unallocated transmission and distribution ,6219TDTUN 
-"622 Grid communication, control systems and integration ",622GRIDC 
-6221 Load management (including renewable integration) ,6221LOAD 
-6222 Control systems and monitoring ,6222CONT 
-"6223 Standards, interoperability and grid cyber security ",6223STAN 
-"6229 Unallocated grid communication, control systems and integration ",6229GRIDUN 
-629 Unallocated electricity transmission and distribution ,629TRANUN 
-63 Energy storage (non-transport applications) ,63ENSTOR 
-631 Electrical storage ,631ELSTO 
-6311 Batteries and other electrochemical storage (excluding vehicles and general public portable devices) ,6311BATT 
-6312 Electromagnetic storage ,6312ELMA 
-6313 Mechanical storage ,6313MECH 
-6314 Other storage (excluding fuel cells) ,6314OSTO 
+GROUP 1: ENERGY EFFICIENCY ,EFFICIENCY
+11 Industry ,11EFFIND
+111 Industrial techniques and processes ,111INDTE
+112 Industrial equipment and systems ,112INDEQ
+113 Other industry ,113INDOT
+119 Unallocated industry ,119INDUN
+"12 Residential and commercial buildings, appliances and equipment ",12EFFRCO
+121 Building design and envelope ,121BUDEE
+1211 Building envelope technologies ,1211ENVE
+1212 Building design ,1212DESI
+1219 Unallocated building design and envelope ,1219BUUN
+122 Building operation and efficient building equipment ,122OPERA
+1221 Building management systems (including smart meters) and efficient internet and communication technologies ,1221EMAN
+1222 Lighting technologies and control systems ,1222LTEC
+"1223 Heating, cooling and ventilation technologies ",1223HEAT
+1224 Other building operations and efficient building equipment ,1224OTHE
+1229 Unallocated building operations and equipment ,1229OPUN
+123 Appliances and other residential/commercial ,123APPLI
+1231 Appliances ,1231APPL
+1232 Batteries for portable devices ,1232BATT
+1233 Other residential/commercial ,1233ORCO
+1239 Unallocated appliances and other residential/commercial ,1239APUN
+"129 Unallocated residential/commercial buildings, appliances and equipment ",129EFFRUN
+13 Transport ,13TRANSP
+131 On-road vehicles ,131ORVEH
+1311 Vehicle batteries/storage technologies ,1311VBAT
+"1312 Advanced power electronics, motors, EV/HEV/FCV systems ",1312ADVA
+1313 Advanced combustion engines ,1313ENGI
+1314 Electric vehicle infrastructure (including smart chargers and grid communications) ,1314INFR
+1315 Fuel for on-road vehicles (excluding hydrogen) ,1315UFUE
+1316 Materials for on-road vehicles ,1316MATE
+1317 Other on-road transport ,1317OTHE
+1319 Unallocated on-road vehicles ,1319ORUN
+132 Off-road transport and transport systems ,132OFFRO
+133 Other transport ,133OTRAN
+139 Unallocated transport ,139TRANUN
+14 Other energy efficiency ,14OEFFIC
+141 Waste heat recovery and utilisation ,141WASTE
+142 Communities ,142COMMU
+143 Agriculture and forestry ,143AGRIF
+144 Heat pumps and chillers ,144HEATP
+145 Other energy efficiency ,145OENEF
+149 Unallocated other energy efficiency ,149OEFUN
+19 Unallocated energy efficiency ,19EFFUN
+"GROUP 2: FOSSIL FUELS: OIL, GAS and COAL ",FOSSILFUEL
+21 Oil and gas ,21OILGAS
+211 Enhanced oil and gas production ,211ENHAN
+"212 Refining, transport, storage of oil and gas ",212REFIN
+213 Non-conventional oil and gas production ,213NONCO
+214 Oil and gas combustion ,214COMBU
+215 Oil and gas conversion ,215CONVE
+216 Other oil and gas ,216OTOIL
+219 Unallocated oil and gas ,219OGUN
+22 Coal ,22COAL
+"221 Coal production, preparation and transport ",221CPROD
+222 Coal combustion (including IGCC) ,222CCOMB
+223 Coal conversion (excluding IGCC) ,223CCONV
+224 Other coal ,224OCOAL
+229 Unallocated coal ,229COALUN
+23 CO2 capture and storage ,23CO2CS
+231 CO2 capture/separation ,231CAPSE
+232 CO2 transport ,232CTRAN
+233 CO2 storage ,233CSTOR
+239 Unallocated CO2 capture and storage ,239CO2CSUN
+29 Unallocated fossil fuels ,29FOSFUN
+GROUP 3: RENEWABLE ENERGY SOURCES ,RENEWABLE
+31 Solar energy ,31SOLAR
+311 Solar heating and cooling ,311SHEAT
+312 Photovoltaics ,312PHOTOV
+313 Solar thermal power and high-temp. applications ,313THERMA
+319 Unallocated solar energy ,319SOLUN
+32 Wind energy ,32WIND
+321 Onshore wind technologies ,321WONSH
+322 Offshore wind technologies (excluding low wind speed) ,322WOFFS
+323 Wind energy systems and other technologies ,323WSYST
+329 Unallocated wind energy ,329WINDUN
+33 Ocean energy ,33OCEAN
+331 Tidal energy ,331TIDAL
+332 Wave energy ,332WAVE
+333 Salinity gradient power ,333SALIN
+334 Other ocean energy ,334OOTHE
+339 Unallocated ocean energy ,339OCEUN
+"34 Biofuels (including liquid biofuels, solid biofuels and biogases) ",34BIOFUE
+341 Production of liquid biofuels ,341LPROD
+3411 Gasoline substitutes (including ethanol) ,3411GAS
+"3412 Diesel, kerosene and jet fuel substitutes ",3412DIES
+3413 Algal biofuels ,3413ALG
+3414 Other liquid fuel substitutes ,3414LOTH
+3419 Unallocated production of liquid biofuels ,3419LPUN
+342 Production of solid biofuels ,342SPROD
+343 Production of biogases ,343GPROD
+3431 Thermochemical ,3431GTHE
+3432 Biochemical (including anaerobic digestion) ,3432GBIO
+3433 Other biogases ,3433GOTH
+3439 Unallocated production of biogases ,3439GPUN
+344 Applications for heat and electricity ,344BAPPL
+345 Other biofuels ,345BOTHE
+349 Unallocated biofuels ,349BIOUN
+35 Geothermal energy ,35GEOTHE
+351 Geothermal energy from hydrothermal resources ,351GEOHY
+352 Geothermal energy from hot dry rock (HDR) resources ,352GEHDR
+353 Advanced drilling and exploration ,353DRILL
+354 Other geothermal energy (including low-temp. resources) ,354GOTHE
+359 Unallocated geothermal energy ,359GEOUN
+36 Hydroelectricity ,36HYDROE
+361 Large hydroelectricity (capacity of 10 MW and above) ,361HLARG
+362 Small hydroelectricity (capacity less than 10 MW) ,362HSMAL
+369 Unallocated hydroelectricity ,369HYDRUN
+37 Other renewable energy sources ,37OTHREN
+39 Unallocated renewable energy sources ,39RENUN
+GROUP 4: NUCLEAR ,NUCLEAR
+41 Nuclear fission ,41FISSON
+411 Light water reactors (LWRs) ,411LWRS
+412 Other converter reactors ,412OTHNU
+4121 Heavy water reactors (HWRs) ,4121HWRS
+4122 Other converter reactors ,4122OTHE
+4129 Unallocated other converter reactors ,4129OTNUN
+413 Fuel cycle ,413FUCYC
+4131 Fissile material recycling/reprocessing ,4131RECY
+4132 Nuclear waste management ,4132WAST
+4133 Other fuel cycle ,4133OTCY
+4139 Unallocated fuel cycle ,4139FUCUN
+414 Nuclear supporting technologies ,414SUPTE
+4141 Plant safety and integrity ,4141SAFE
+4142 Environmental protection ,4142PROT
+4143 Decommissioning ,4143DECO
+4144 Other nuclear supporting technologies ,4144ONUC
+4149 Unallocated nuclear supporting technologies ,4149ONUN
+415 Nuclear breeder ,415BREED
+416 Other nuclear fission ,416OFISS
+419 Unallocated nuclear fission ,419FISUN
+42 Nuclear fusion ,42FUSION
+421 Magnetic confinement ,421MACON
+422 Inertial confinement ,422INCON
+423 Other nuclear fusion ,423OFUSI
+429 Unallocated nuclear fusion ,429FUSUN
+49 Unallocated nuclear ,49NUCUN
+GROUP 5: HYDROGEN AND FUEL CELLS ,HGENCELL
+51 Hydrogen ,51HYDROG
+511 Hydrogen production ,511HYPRO
+512 Hydrogen storage ,512HYSTO
+513 Hydrogen transport and distribution ,513HYTRA
+514 Other infrastructure and systems ,514HYINF
+515 Hydrogen end-uses (including combustion; excluding fuel cells and vehicles) ,515HYEND
+519 Unallocated hydrogen ,519HYDUN
+52 Fuel cells ,52FUELCE
+521 Stationary applications ,521FUSTA
+522 Mobile applications ,522FUMOB
+523 Other applications ,523FUOTH
+529 Unallocated fuel cells ,529FUELUN
+59 Unallocated hydrogen and fuel cells ,59HYFUUN
+GROUP 6: OTHER POWER AND STORAGE TECHNOLOGIES ,OTHERPANDS
+61 Electric power generation ,61POWCON
+611 Power generation technologies ,611GETEC
+612 Power generation supporting technologies ,612GESUP
+613 Other electricity power generation ,613GEOTH
+619 Unallocated electric power generation ,619POWUN
+62 Electricity transmission and distribution ,62TRADIS
+621 Transmission and distribution technologies ,621TDTEC
+"6211 Cables and conductors (superconducting, conventional, composite core) ",6211CABL
+6212 AC/DC conversion ,6212ACDC
+6213 Other transmission and distribution techs. ,6213OTHE
+6219 Unallocated transmission and distribution ,6219TDTUN
+"622 Grid communication, control systems and integration ",622GRIDC
+6221 Load management (including renewable integration) ,6221LOAD
+6222 Control systems and monitoring ,6222CONT
+"6223 Standards, interoperability and grid cyber security ",6223STAN
+"6229 Unallocated grid communication, control systems and integration ",6229GRIDUN
+629 Unallocated electricity transmission and distribution ,629TRANUN
+63 Energy storage (non-transport applications) ,63ENSTOR
+631 Electrical storage ,631ELSTO
+6311 Batteries and other electrochemical storage (excluding vehicles and general public portable devices) ,6311BATT
+6312 Electromagnetic storage ,6312ELMA
+6313 Mechanical storage ,6313MECH
+6314 Other storage (excluding fuel cells) ,6314OSTO
 "6319 Unallocated electrical storage 	6319ELSUN ",
 "632 Thermal energy storage 	632THEST ",
 "639 Unallocated energy storage 	639ENSTUN ",
