@@ -1,26 +1,26 @@
 ﻿siec,tech
 RA100,Hydro
-RA110,Purehydropower
-RA110ROR,Run-of-riverhydropower
-RA120,Mixedhydropower
-RA130,Pumpedhydropower
+RA110,Pure hydropower
+RA110ROR,Run-of-river hydropower
+RA120,Mixed hydropower
+RA130,Pumped hydropower
 RA200,Geothermal
 RA300,Wind
-RA310,Windonshore
-RA320,Windoffshore
+RA310,Wind onshore
+RA320,Wind offshore
 RA400,Solar
-RA410,Solarthermal
-RA420,Solarphotovoltaic
-RA420KW_LT20,Solarphotovoltaic(<20kW)
-RA420KW20-1000,Solarphotovoltaic(20kW-1000kW)
-RA420MW_GT1,Solarphotovoltaic(1+MW)
-RA420OG,Solarphotovoltaic(Offgrid)
+RA410,Solar thermal
+RA420,Solar photovoltaic
+RA420KW_LT20,Solar photovoltaic(<20kW)
+RA420KW20-1000,Solar photovoltaic(20kW-1000kW)
+RA420MW_GT1,Solar photovoltaic(1+MW)
+RA420OG,Solar photovoltaic(Offgrid)
 RA500,"Tide,wave,ocean"
-R5100,Solidbiofuels
-R5210P,Purebiogasoline
-R5220P,Purebiodiesels
-R5290,Otherliquidbiofuels
+R5100,Solid biofuels
+R5210P,Pure biogasoline
+R5220P,Pure biodiesels
+R5290,Other liquid biofuels
 R5300,Biogases
 W6000,Waste
-W6100,Industrialwaste(non-renewable)
-W6200,Municipalwaste
+W6100,Industrial waste(non-renewable)
+W6200,Municipal waste
