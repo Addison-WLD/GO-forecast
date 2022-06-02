@@ -1,0 +1,784 @@
+﻿COUNTRY,Country,FLOW,Flow,PRODUCT,Product,TIME,Time,Value,Flag Codes,Flags
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,1990,1990,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,1991,1991,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,1992,1992,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,1993,1993,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,1994,1994,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,1995,1995,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,1996,1996,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,1997,1997,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,1998,1998,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,1999,1999,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,2000,2000,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,2001,2001,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,2002,2002,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,2003,2003,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,2004,2004,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,2005,2005,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,2006,2006,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,2007,2007,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,2008,2008,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,2009,2009,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,2010,2010,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,2011,2011,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,2012,2012,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,2013,2013,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,2014,2014,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,2015,2015,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,2016,2016,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,2017,2017,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,HYDRO,Hydro,2018,2018,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,1990,1990,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,1991,1991,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,1992,1992,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,1993,1993,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,1994,1994,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,1995,1995,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,1996,1996,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,1997,1997,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,1998,1998,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,1999,1999,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,2000,2000,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,2001,2001,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,2002,2002,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,2003,2003,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,2004,2004,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,2005,2005,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,2006,2006,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,2007,2007,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,2008,2008,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,2009,2009,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,2010,2010,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,2011,2011,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,2012,2012,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,2013,2013,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,2014,2014,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,2015,2015,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,2016,2016,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,2017,2017,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,HYDRO,Hydro,2018,2018,,M,Missing value; data cannot exist
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,1990,1990,30982,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,1991,1991,33413,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,1992,1992,34062,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,1993,1993,36616,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,1994,1994,39952,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,1995,1995,35953,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,1996,1996,29995,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,1997,1997,35142,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,1998,1998,34638,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,1999,1999,41022,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,2000,2000,38230,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,2001,2001,42684,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,2002,2002,36878,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,2003,2003,36809,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,2004,2004,35468,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,2005,2005,33087,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,2006,2006,32883,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,2007,2007,36737,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,2008,2008,37935,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,2009,2009,37507,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,2010,2010,37825,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,2011,2011,34133,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,2012,2012,40305,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,2013,2013,39968,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,2014,2014,39701,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,2015,2015,39881,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,2016,2016,36689,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,2017,2017,37032.66,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),HYDRO,Hydro,2018,2018,37802.28,,
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,1990,1990,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,1991,1991,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,1992,1992,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,1993,1993,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,1994,1994,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,1995,1995,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,1996,1996,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,1997,1997,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,1998,1998,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,1999,1999,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,2000,2000,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,2001,2001,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,2002,2002,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,2003,2003,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,2004,2004,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,2005,2005,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,2006,2006,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,2007,2007,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,2008,2008,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,2009,2009,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,2010,2010,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,2011,2011,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,2012,2012,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,2013,2013,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,2014,2014,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,2015,2015,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,2016,2016,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,2017,2017,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,SOLARPV,Solar photovoltaics,2018,2018,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,1990,1990,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,1991,1991,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,1992,1992,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,1993,1993,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,1994,1994,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,1995,1995,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,1996,1996,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,1997,1997,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,1998,1998,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,1999,1999,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,2000,2000,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,2001,2001,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,2002,2002,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,2003,2003,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,2004,2004,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,2005,2005,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,2006,2006,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,2007,2007,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,2008,2008,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,2009,2009,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,2010,2010,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,2011,2011,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,2012,2012,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,2013,2013,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,2014,2014,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,2015,2015,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,2016,2016,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,2017,2017,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,SOLARPV,Solar photovoltaics,2018,2018,,M,Missing value; data cannot exist
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,1990,1990,1,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,1991,1991,2,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,1992,1992,3,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,1993,1993,4,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,1994,1994,5,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,1995,1995,6,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,1996,1996,7,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,1997,1997,7,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,1998,1998,8,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,1999,1999,10,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,2000,2000,11,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,2001,2001,13,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,2002,2002,15,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,2003,2003,18,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,2004,2004,18,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,2005,2005,21,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,2006,2006,24,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,2007,2007,29,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,2008,2008,37,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,2009,2009,54,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,2010,2010,94,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,2011,2011,168,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,2012,2012,300,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,2013,2013,500,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,2014,2014,842,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,2015,2015,1119,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,2016,2016,1333,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,2017,2017,1682.948,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARPV,Solar photovoltaics,2018,2018,1944.25,,
+CHE,Switzerland,INDPROD,Production,WIND,Wind,1990,1990,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,1991,1991,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,1992,1992,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,1993,1993,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,1994,1994,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,1995,1995,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,1996,1996,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,1997,1997,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,1998,1998,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,1999,1999,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,2000,2000,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,2001,2001,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,2002,2002,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,2003,2003,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,2004,2004,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,2005,2005,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,2006,2006,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,2007,2007,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,2008,2008,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,2009,2009,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,2010,2010,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,2011,2011,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,2012,2012,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,2013,2013,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,2014,2014,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,2015,2015,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,2016,2016,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,2017,2017,,M,Missing value; data cannot exist
+CHE,Switzerland,INDPROD,Production,WIND,Wind,2018,2018,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,1990,1990,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,1991,1991,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,1992,1992,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,1993,1993,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,1994,1994,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,1995,1995,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,1996,1996,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,1997,1997,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,1998,1998,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,1999,1999,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,2000,2000,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,2001,2001,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,2002,2002,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,2003,2003,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,2004,2004,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,2005,2005,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,2006,2006,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,2007,2007,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,2008,2008,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,2009,2009,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,2010,2010,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,2011,2011,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,2012,2012,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,2013,2013,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,2014,2014,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,2015,2015,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,2016,2016,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,2017,2017,,M,Missing value; data cannot exist
+CHE,Switzerland,FINCONS,Total final consumption,WIND,Wind,2018,2018,,M,Missing value; data cannot exist
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,1990,1990,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,1991,1991,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,1992,1992,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,1993,1993,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,1994,1994,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,1995,1995,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,1996,1996,1,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,1997,1997,2,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,1998,1998,3,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,1999,1999,3,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,2000,2000,3,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,2001,2001,4,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,2002,2002,5,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,2003,2003,5,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,2004,2004,6,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,2005,2005,8,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,2006,2006,15,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,2007,2007,16,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,2008,2008,19,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,2009,2009,23,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,2010,2010,37,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,2011,2011,70,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,2012,2012,88,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,2013,2013,90,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,2014,2014,101,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,2015,2015,110,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,2016,2016,109,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,2017,2017,132.6,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),WIND,Wind,2018,2018,121.8,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),1990,1990,246,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),1991,1991,288,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),1992,1992,384,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),1993,1993,524,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),1994,1994,638,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),1995,1995,614,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),1996,1996,611,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),1997,1997,580,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),1998,1998,571,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),1999,1999,574,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),2000,2000,573,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),2001,2001,506,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),2002,2002,409,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),2003,2003,388,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),2004,2004,269,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),2005,2005,207,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),2006,2006,136,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),2007,2007,106,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),2008,2008,91,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),2009,2009,76,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),2010,2010,49,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),2011,2011,40,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),2012,2012,37,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),2013,2013,32,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),2014,2014,24,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),2015,2015,16,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),2016,2016,9,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),2017,2017,4.765,,
+CHE,Switzerland,INDPROD,Production,LANDFILL,Landfill Gas (TJ - net),2018,2018,5.08,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),1990,1990,62,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),1991,1991,62,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),1992,1992,69,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),1993,1993,78,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),1994,1994,86,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),1995,1995,93,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),1996,1996,114,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),1997,1997,90,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),1998,1998,64,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),1999,1999,71,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),2000,2000,65,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),2001,2001,52,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),2002,2002,44,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),2003,2003,32,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),2004,2004,32,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),2005,2005,19,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),2006,2006,12,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),2007,2007,10,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),2008,2008,10,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),2009,2009,8,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),2010,2010,7,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),2011,2011,4,,
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),2012,2012,,L,Missing value; data exist but were not collected
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),2013,2013,,L,Missing value; data exist but were not collected
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),2014,2014,,L,Missing value; data exist but were not collected
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),2015,2015,,L,Missing value; data exist but were not collected
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),2016,2016,,L,Missing value; data exist but were not collected
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),2017,2017,,L,Missing value; data exist but were not collected
+CHE,Switzerland,FINCONS,Total final consumption,LANDFILL,Landfill Gas (TJ - net),2018,2018,,L,Missing value; data exist but were not collected
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),1990,1990,20,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),1991,1991,24,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),1992,1992,30,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),1993,1993,37,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),1994,1994,44,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),1995,1995,47,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),1996,1996,45,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),1997,1997,44,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),1998,1998,44,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),1999,1999,44,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),2000,2000,44,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),2001,2001,39,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),2002,2002,32,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),2003,2003,29,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),2004,2004,19,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),2005,2005,15,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),2006,2006,10,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),2007,2007,7,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),2008,2008,5,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),2009,2009,6,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),2010,2010,4,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),2011,2011,4,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),2012,2012,,L,Missing value; data exist but were not collected
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),2013,2013,,L,Missing value; data exist but were not collected
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),2014,2014,,L,Missing value; data exist but were not collected
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),2015,2015,,L,Missing value; data exist but were not collected
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),2016,2016,,L,Missing value; data exist but were not collected
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),2017,2017,,L,Missing value; data exist but were not collected
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),LANDFILL,Landfill Gas (TJ - net),2018,2018,,L,Missing value; data exist but were not collected
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1990,1990,11589,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1991,1991,11877,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1992,1992,11648,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1993,1993,11874,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1994,1994,12658,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1995,1995,12316,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1996,1996,12167,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1997,1997,12637,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1998,1998,13670,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1999,1999,16370,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2000,2000,17560,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2001,2001,17955,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2002,2002,18980,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2003,2003,18795,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2004,2004,19070,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2005,2005,20190,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2006,2006,22050,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2007,2007,22330,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2008,2008,21790,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2009,2009,21655,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2010,2010,22250,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2011,2011,22425,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2012,2012,22965,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2013,2013,22105,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2014,2014,22415,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2015,2015,23110,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2016,2016,23970,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2017,2017,24070,,
+CHE,Switzerland,INDPROD,Production,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2018,2018,24375,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1990,1990,0,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1991,1991,0,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1992,1992,0,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1993,1993,0,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1994,1994,0,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1995,1995,0,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1996,1996,0,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1997,1997,0,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1998,1998,186,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1999,1999,1721,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2000,2000,1772,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2001,2001,1024,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2002,2002,1530,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2003,2003,1581,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2004,2004,1632,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2005,2005,1813,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2006,2006,1734,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2007,2007,1984,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2008,2008,1609,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2009,2009,3288,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2010,2010,3074,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2011,2011,2542,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2012,2012,2583,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2013,2013,1833,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2014,2014,1769,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2015,2015,1694,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2016,2016,1693,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2017,2017,1475.634,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2018,2018,1624.768,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1990,1990,320,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1991,1991,309,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1992,1992,343,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1993,1993,332,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1994,1994,398,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1995,1995,411,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1996,1996,446,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1997,1997,487,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1998,1998,505,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),1999,1999,559,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2000,2000,635,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2001,2001,680,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2002,2002,708,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2003,2003,723,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2004,2004,763,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2005,2005,806,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2006,2006,908,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2007,2007,889,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2008,2008,912,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2009,2009,877,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2010,2010,919,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2011,2011,954,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2012,2012,1006,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2013,2013,1042,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2014,2014,1102,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2015,2015,1106,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2016,2016,1175,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2017,2017,1174.229,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTEN,Non-Renewable Municipal Waste (TJ - net),2018,2018,1164.329,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),1990,1990,0,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),1991,1991,0,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),1992,1992,0,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),1993,1993,0,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),1994,1994,1,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),1995,1995,6,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),1996,1996,7,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),1997,1997,14,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),1998,1998,15,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),1999,1999,13,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),2000,2000,12,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),2001,2001,5,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),2002,2002,17,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),2003,2003,11,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),2004,2004,12,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),2005,2005,12,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),2006,2006,11,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),2007,2007,10,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),2008,2008,8,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),2009,2009,6,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),2010,2010,2,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),2011,2011,1,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),2012,2012,6,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),2013,2013,9,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),2014,2014,11,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),2015,2015,15,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),2016,2016,19,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),2017,2017,17.244,,
+CHE,Switzerland,INDPROD,Production,GEOTHERM,Geothermal (direct use in TJ-net),2018,2018,18.032,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),1990,1990,0,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),1991,1991,0,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),1992,1992,0,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),1993,1993,0,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),1994,1994,1,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),1995,1995,6,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),1996,1996,7,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),1997,1997,14,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),1998,1998,15,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),1999,1999,13,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),2000,2000,12,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),2001,2001,5,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),2002,2002,17,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),2003,2003,11,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),2004,2004,12,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),2005,2005,12,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),2006,2006,11,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),2007,2007,10,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),2008,2008,8,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),2009,2009,6,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),2010,2010,2,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),2011,2011,1,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),2012,2012,6,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),2013,2013,9,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),2014,2014,11,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),2015,2015,15,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),2016,2016,19,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),2017,2017,17.244,,
+CHE,Switzerland,FINCONS,Total final consumption,GEOTHERM,Geothermal (direct use in TJ-net),2018,2018,18.032,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),1990,1990,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),1991,1991,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),1992,1992,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),1993,1993,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),1994,1994,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),1995,1995,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),1996,1996,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),1997,1997,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),1998,1998,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),1999,1999,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),2000,2000,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),2001,2001,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),2002,2002,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),2003,2003,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),2004,2004,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),2005,2005,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),2006,2006,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),2007,2007,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),2008,2008,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),2009,2009,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),2010,2010,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),2011,2011,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),2012,2012,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),2013,2013,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),2014,2014,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),2015,2015,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),2016,2016,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),2017,2017,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),GEOTHERM,Geothermal (direct use in TJ-net),2018,2018,0,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),1990,1990,11589,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),1991,1991,11877,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),1992,1992,11648,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),1993,1993,11874,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),1994,1994,12658,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),1995,1995,12316,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),1996,1996,12167,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),1997,1997,12637,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),1998,1998,13670,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),1999,1999,16370,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),2000,2000,17560,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),2001,2001,17955,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),2002,2002,18980,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),2003,2003,18795,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),2004,2004,19070,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),2005,2005,20190,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),2006,2006,22050,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),2007,2007,22330,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),2008,2008,21790,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),2009,2009,21655,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),2010,2010,22250,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),2011,2011,22425,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),2012,2012,22965,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),2013,2013,22105,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),2014,2014,22415,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),2015,2015,23110,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),2016,2016,23970,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),2017,2017,24070,,
+CHE,Switzerland,INDPROD,Production,MUNWASTER,Renewable Municipal Waste (TJ - net),2018,2018,24375,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),1990,1990,0,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),1991,1991,0,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),1992,1992,0,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),1993,1993,0,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),1994,1994,0,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),1995,1995,0,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),1996,1996,0,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),1997,1997,0,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),1998,1998,186,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),1999,1999,1721,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),2000,2000,1772,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),2001,2001,1024,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),2002,2002,1530,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),2003,2003,1581,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),2004,2004,1632,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),2005,2005,1813,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),2006,2006,1734,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),2007,2007,1984,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),2008,2008,1609,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),2009,2009,3288,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),2010,2010,3074,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),2011,2011,2542,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),2012,2012,2583,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),2013,2013,1833,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),2014,2014,1769,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),2015,2015,1694,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),2016,2016,1693,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),2017,2017,1475.634,,
+CHE,Switzerland,FINCONS,Total final consumption,MUNWASTER,Renewable Municipal Waste (TJ - net),2018,2018,1624.768,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),1990,1990,320,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),1991,1991,309,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),1992,1992,343,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),1993,1993,332,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),1994,1994,398,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),1995,1995,411,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),1996,1996,446,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),1997,1997,487,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),1998,1998,505,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),1999,1999,559,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),2000,2000,635,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),2001,2001,680,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),2002,2002,708,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),2003,2003,723,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),2004,2004,763,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),2005,2005,806,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),2006,2006,908,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),2007,2007,889,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),2008,2008,912,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),2009,2009,877,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),2010,2010,919,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),2011,2011,954,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),2012,2012,1006,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),2013,2013,1042,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),2014,2014,1102,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),2015,2015,1106,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),2016,2016,1175,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),2017,2017,1174.229,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),MUNWASTER,Renewable Municipal Waste (TJ - net),2018,2018,1164.329,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),1990,1990,106,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),1991,1991,136,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),1992,1992,168,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),1993,1993,204,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),1994,1994,248,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),1995,1995,299,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),1996,1996,352,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),1997,1997,402,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),1998,1998,457,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),1999,1999,510,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),2000,2000,555,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),2001,2001,600,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),2002,2002,642,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),2003,2003,681,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),2004,2004,722,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),2005,2005,774,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),2006,2006,840,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),2007,2007,922,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),2008,2008,1047,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),2009,2009,1236,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),2010,2010,1451,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),2011,2011,1655,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),2012,2012,1853,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),2013,2013,2042,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),2014,2014,2212,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),2015,2015,2359,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),2016,2016,2450,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),2017,2017,2508.156,,
+CHE,Switzerland,INDPROD,Production,SOLARTH,Solar thermal (direct use in TJ-net),2018,2018,2564.893,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),1990,1990,106,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),1991,1991,136,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),1992,1992,168,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),1993,1993,204,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),1994,1994,248,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),1995,1995,299,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),1996,1996,352,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),1997,1997,402,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),1998,1998,457,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),1999,1999,510,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),2000,2000,555,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),2001,2001,600,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),2002,2002,642,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),2003,2003,681,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),2004,2004,722,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),2005,2005,774,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),2006,2006,840,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),2007,2007,922,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),2008,2008,1047,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),2009,2009,1236,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),2010,2010,1451,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),2011,2011,1655,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),2012,2012,1853,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),2013,2013,2042,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),2014,2014,2212,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),2015,2015,2359,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),2016,2016,2450,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),2017,2017,2508.156,,
+CHE,Switzerland,FINCONS,Total final consumption,SOLARTH,Solar thermal (direct use in TJ-net),2018,2018,2564.893,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),1990,1990,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),1991,1991,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),1992,1992,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),1993,1993,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),1994,1994,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),1995,1995,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),1996,1996,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),1997,1997,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),1998,1998,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),1999,1999,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),2000,2000,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),2001,2001,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),2002,2002,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),2003,2003,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),2004,2004,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),2005,2005,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),2006,2006,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),2007,2007,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),2008,2008,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),2009,2009,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),2010,2010,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),2011,2011,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),2012,2012,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),2013,2013,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),2014,2014,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),2015,2015,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),2016,2016,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),2017,2017,0,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SOLARTH,Solar thermal (direct use in TJ-net),2018,2018,0,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),1990,1990,1257,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),1991,1991,1288,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),1992,1992,1300,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),1993,1993,1337,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),1994,1994,1375,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),1995,1995,1392,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),1996,1996,1419,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),1997,1997,1468,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),1998,1998,1536,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),1999,1999,1582,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),2000,2000,1598,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),2001,2001,1724,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),2002,2002,1704,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),2003,2003,1699,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),2004,2004,1708,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),2005,2005,1705,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),2006,2006,1735,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),2007,2007,1756,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),2008,2008,1799,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),2009,2009,1797,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),2010,2010,1860,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),2011,2011,1908,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),2012,2012,1867,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),2013,2013,1942,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),2014,2014,2052,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),2015,2015,2088,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),2016,2016,2165,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),2017,2017,2225.094,,
+CHE,Switzerland,INDPROD,Production,SLUDGEGS,Sludge Gas (TJ - net),2018,2018,2278.987,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),1990,1990,972,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),1991,1991,994,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),1992,1992,996,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),1993,1993,1022,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),1994,1994,1041,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),1995,1995,1050,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),1996,1996,1065,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),1997,1997,1091,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),1998,1998,1132,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),1999,1999,1155,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),2000,2000,1153,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),2001,2001,1215,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),2002,2002,1203,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),2003,2003,1192,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),2004,2004,1194,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),2005,2005,1184,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),2006,2006,1195,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),2007,2007,1198,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),2008,2008,1198,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),2009,2009,1190,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),2010,2010,1200,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),2011,2011,1199,,
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),2012,2012,,L,Missing value; data exist but were not collected
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),2013,2013,,L,Missing value; data exist but were not collected
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),2014,2014,,L,Missing value; data exist but were not collected
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),2015,2015,,L,Missing value; data exist but were not collected
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),2016,2016,,L,Missing value; data exist but were not collected
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),2017,2017,,L,Missing value; data exist but were not collected
+CHE,Switzerland,FINCONS,Total final consumption,SLUDGEGS,Sludge Gas (TJ - net),2018,2018,,L,Missing value; data exist but were not collected
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),1990,1990,58,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),1991,1991,61,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),1992,1992,63,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),1993,1993,66,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),1994,1994,69,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),1995,1995,71,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),1996,1996,73,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),1997,1997,78,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),1998,1998,84,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),1999,1999,88,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),2000,2000,93,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),2001,2001,104,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),2002,2002,104,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),2003,2003,106,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),2004,2004,107,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),2005,2005,107,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),2006,2006,111,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),2007,2007,113,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),2008,2008,114,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),2009,2009,115,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),2010,2010,119,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),2011,2011,121,,
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),2012,2012,,L,Missing value; data exist but were not collected
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),2013,2013,,L,Missing value; data exist but were not collected
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),2014,2014,,L,Missing value; data exist but were not collected
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),2015,2015,,L,Missing value; data exist but were not collected
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),2016,2016,,L,Missing value; data exist but were not collected
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),2017,2017,,L,Missing value; data exist but were not collected
+CHE,Switzerland,ELOUTPUT,Electricity output (GWh),SLUDGEGS,Sludge Gas (TJ - net),2018,2018,,L,Missing value; data exist but were not collected
